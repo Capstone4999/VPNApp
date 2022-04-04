@@ -5,6 +5,24 @@
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/btn_bkgrd.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/button_connect.xml" value="0.179" />
+        <entry key="app/src/main/res/drawable/icon_book.xml" value="0.179" />
+        <entry key="app/src/main/res/drawable/icon_home.xml" value="0.179" />
+        <entry key="app/src/main/res/drawable/icon_quiz.xml" value="0.179" />
+        <entry key="app/src/main/res/drawable/icon_shield.xml" value="0.179" />
+        <entry key="app/src/main/res/drawable/input_bkgrd.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.26370086669921877" />
+        <entry key="app/src/main/res/layout/activity_review.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_signup.xml" value="0.23835601806640627" />
+        <entry key="app/src/main/res/layout/activity_usage.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_user_login.xml" value="0.2800491333007813" />
+      </map>
+    </option>
+  </component>
   <component name="NullableNotNullManager">
     <option name="myDefaultNullable" value="org.jetbrains.annotations.Nullable" />
     <option name="myDefaultNotNull" value="androidx.annotation.NonNull" />
