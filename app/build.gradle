@@ -1,6 +1,7 @@
 //noinspection GradleCompatible
 apply plugin: 'com.android.application'
-apply plugin: 'com.google.firebase.firebase-perf'
+//apply plugin: 'com.google.firebase.firebase-perf'
+//apply plugin: 'com.google.gms.google-services'
 apply plugin: 'io.fabric'
 android {
     compileSdkVersion 28
@@ -56,13 +57,18 @@ dependencies {
 
     implementation 'com.google.firebase:firebase-core:17.2.1' //16.0.9'
     implementation 'com.google.firebase:firebase-perf:19.0.4'
-    implementation 'com.crashlytics.sdk.android:crashlytics:2.10.1'
+    //implementation 'com.crashlytics.sdk.android:crashlytics:2.10.1'
 
     implementation 'com.airbnb.android:lottie:3.0.7'
     //Implementation 'androidx.annotation:annotation:1.1.0'
 
     implementation 'com.android.support:support-annotations:28.0.0'
 
+    implementation platform('com.google.firebase:firebase-bom:29.2.1')
+    implementation 'com.google.firebase:firebase-auth'
+
+    implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.4.1'
+    implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1'
     //implementation 'com.google.android.gms:play-services-ads:17.2.1'
     //implementation 'com.robinhood.spark:spark:1.2.0'
     //implementation 'com.google.firebase:firebase-ads:17.2.1'

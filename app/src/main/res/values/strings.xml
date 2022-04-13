@@ -3,8 +3,9 @@
 
     <string name="surf">Surf the web worry free!</string>
     <string name="free_vpn">Free VPN for Everybody!</string>
-    <string name="usernameHint">USERNAME</string>
-    <string name="passwordHint">PASSWORD</string>
+    <string name="usernameHint">Email</string>
+    <string name="usernameSignUp">Username</string>
+    <string name="passwordHint">Password</string>
     <string name="shieldDescription">shield</string>
     <string name="chooseUsername">Please choose a username</string>
     <string name="signUp">SIGN UP</string>
