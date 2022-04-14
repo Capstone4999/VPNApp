@@ -42,7 +42,7 @@
         android:background="@drawable/input_bkgrd"
         android:ems="10"
         android:gravity="left"
-        android:hint="@string/usernameHint"
+        android:hint="@string/usernameSignUp"
         android:autofillHints="username"
         android:inputType="textPersonName"
         android:textColorHint="#A154BC"
@@ -88,7 +88,7 @@
         app:layout_constraintTop_toBottomOf="@+id/email1" />
 
     <EditText
-        android:id="@+id/Email2"
+        android:id="@+id/email2"
         android:layout_width="350dp"
         android:layout_height="30dp"
         android:background="@drawable/input_bkgrd"
@@ -101,69 +101,65 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/reenterEmailText" />
 
-    <TextView
-        android:id="@+id/passwordText"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/password"
-        android:textColor="#070303"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.088"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/Email2" />
-
-    <EditText
-        android:id="@+id/password1"
-        android:layout_width="350dp"
-        android:layout_height="30dp"
-        android:background="@drawable/input_bkgrd"
-        android:ems="10"
-        android:hint="@string/passwordHint"
-        android:autofillHints="passwordHint"
-        android:inputType="textPersonName|textPassword"
-        android:textColorHint="#A154BC"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/confirmPasswordText" />
-
 
     <TextView
-        android:id="@+id/confirmPasswordText"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="4dp"
-        android:text="@string/confirmPS"
-        android:textColor="#0E0606"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.114"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName5" />
-
+            android:id="@+id/passwordText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/password"
+            android:textColor="#070303"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.289"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/email2"/>
     <EditText
-        android:id="@+id/editTextTextPersonName5"
-        android:layout_width="350dp"
-        android:layout_height="30dp"
-        android:background="@drawable/input_bkgrd"
-        android:ems="10"
-        android:hint="@string/passwordHint"
-        android:autofillHints="passwordHint"
-        android:inputType="textPersonName"
-        android:textColorHint="#A154BC"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/passwordText" />
-
-
+            android:id="@+id/password1"
+            android:layout_width="350dp"
+            android:layout_height="30dp"
+            android:background="@drawable/input_bkgrd"
+            android:ems="10"
+            android:hint="@string/passwordHint"
+            android:autofillHints="passwordHint"
+            android:inputType="textPersonName|textPassword"
+            android:textColorHint="#A154BC"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/passwordText"
+            app:layout_constraintHorizontal_bias="0.491"/>
+    <TextView
+            android:id="@+id/confirmPasswordText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/confirmPS"
+            android:textColor="#0E0606"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.122"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/password1"/>
+    <EditText
+            android:id="@+id/password2"
+            android:layout_width="350dp"
+            android:layout_height="30dp"
+            android:background="@drawable/input_bkgrd"
+            android:ems="10"
+            android:hint="@string/passwordHint"
+            android:autofillHints="passwordHint"
+            android:inputType="textPersonName"
+            android:textColorHint="#A154BC"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/confirmPasswordText"
+            app:layout_constraintHorizontal_bias="0.524"/>
     <Button
-        android:id="@+id/secureme"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/secure"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/password1"
-        app:layout_constraintVertical_bias="0.25" />
+            android:id="@+id/secureme"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/secure"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/password1"
+            app:layout_constraintVertical_bias="0.859"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
