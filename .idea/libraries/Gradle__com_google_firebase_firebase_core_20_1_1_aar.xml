@@ -9,9 +9,14 @@
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/c96323f4ee9dbcd38f27078fcb3590a3/firebase-core-20.1.1/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/c96323f4ee9dbcd38f27078fcb3590a3/firebase-core-20.1.1/res" />
       <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/c96323f4ee9dbcd38f27078fcb3590a3/firebase-core-20.1.1/AndroidManifest.xml" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c8985a8e835ef45f3a37d6e12cc2c3a1/firebase-core-20.1.1/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c8985a8e835ef45f3a37d6e12cc2c3a1/firebase-core-20.1.1/res" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c8985a8e835ef45f3a37d6e12cc2c3a1/firebase-core-20.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/8b2ed6ce7a9e62eaf8475544126b897f/jetified-firebase-core-20.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/db9335e1939b4411e59d8932ff10182c/transformed/jetified-firebase-core-20.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/1424a18c13a03a1612a82557a9ff631a/transformed/jetified-firebase-core-20.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/eccb029ca3f802b1911603c14978b0a3/jetified-firebase-core-20.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/94fa467d8cb1b61c0b67e5cfb4cf9b1c/jetified-firebase-core-20.1.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/94fa467d8cb1b61c0b67e5cfb4cf9b1c/jetified-firebase-core-20.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/94fa467d8cb1b61c0b67e5cfb4cf9b1c/jetified-firebase-core-20.1.1/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.google.firebase/firebase-core/20.1.1/ace98f39b262c59be4be4d52b871d1ba5dfff723/firebase-core-20.1.1-javadoc.jar!/" />

@@ -10,8 +10,13 @@
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/11f8dafb44c7fdf5103260d5f6074130/play-services-stats-17.0.2/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/11f8dafb44c7fdf5103260d5f6074130/play-services-stats-17.0.2/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/d2423c5a295e68d3ee4f60edb8549431/play-services-stats-17.0.2/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/d2423c5a295e68d3ee4f60edb8549431/play-services-stats-17.0.2/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/d2423c5a295e68d3ee4f60edb8549431/play-services-stats-17.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/b84401d737bfbacd5de352a325d28082/jetified-play-services-stats-17.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/c871c09a3edbfb9dff60e38371626830/transformed/jetified-play-services-stats-17.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/816f6078c012adf3c39f8bdc58639432/transformed/jetified-play-services-stats-17.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/361d7485f2b3b59378f18ad0dfa53010/jetified-play-services-stats-17.0.2/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/e4dc4a50deeaebd441ea1f645ae4c88e/jetified-play-services-stats-17.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/e4dc4a50deeaebd441ea1f645ae4c88e/jetified-play-services-stats-17.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/e4dc4a50deeaebd441ea1f645ae4c88e/jetified-play-services-stats-17.0.2/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.google.android.gms/play-services-stats/17.0.2/c0d58b8efa926b2c607984c54fb3d274490badd1/play-services-stats-17.0.2-javadoc.jar!/" />

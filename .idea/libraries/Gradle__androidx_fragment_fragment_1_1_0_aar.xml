@@ -3,7 +3,7 @@
     <ANNOTATIONS>
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/7224ca6538415ad81c3a947a9e87450b/fragment-1.1.0/annotations.zip!/" />
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/a5886dd5fa38074524b101f2353db2b1/fragment-1.1.0/annotations.zip!/" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/f0cff4f82c50e17ae3f32bb6ae4e8ca9/fragment-1.1.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/7433ec82ac150d7bbdd841f6739e390c/fragment-1.1.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/6e082093bf7d9f3f4713894667f3aab6/fragment-1.1.0/res" />
@@ -17,9 +17,14 @@
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/a5886dd5fa38074524b101f2353db2b1/fragment-1.1.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/a5886dd5fa38074524b101f2353db2b1/fragment-1.1.0/res" />
       <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/a5886dd5fa38074524b101f2353db2b1/fragment-1.1.0/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/f0cff4f82c50e17ae3f32bb6ae4e8ca9/fragment-1.1.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/f0cff4f82c50e17ae3f32bb6ae4e8ca9/fragment-1.1.0/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/f0cff4f82c50e17ae3f32bb6ae4e8ca9/fragment-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/e99d8300868bdda28fc99dd5ec274ddd/fragment-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/8842702668999fd86f60abdeeb3b3014/transformed/fragment-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/1f8c71315bbc9f1f9b6035dff2da4b46/transformed/fragment-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/3219c0be1a857065ee01d3dcac09287e/fragment-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/7433ec82ac150d7bbdd841f6739e390c/fragment-1.1.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/7433ec82ac150d7bbdd841f6739e390c/fragment-1.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/7433ec82ac150d7bbdd841f6739e390c/fragment-1.1.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

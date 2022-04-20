@@ -9,9 +9,14 @@
       <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/f8c24ec904c272e06f50bcd89a220b5a/play-services-measurement-sdk-api-20.1.1/res" />
       <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/f8c24ec904c272e06f50bcd89a220b5a/play-services-measurement-sdk-api-20.1.1/AndroidManifest.xml" />
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/f8c24ec904c272e06f50bcd89a220b5a/play-services-measurement-sdk-api-20.1.1/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/2f2d11d896f7913ae2fae68361036d0d/play-services-measurement-sdk-api-20.1.1/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/2f2d11d896f7913ae2fae68361036d0d/play-services-measurement-sdk-api-20.1.1/res" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/2f2d11d896f7913ae2fae68361036d0d/play-services-measurement-sdk-api-20.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/4de682049a02063916bd41ffe5d83b69/jetified-play-services-measurement-sdk-api-20.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/5c7556a088398cfb9b381ab4db16e656/transformed/jetified-play-services-measurement-sdk-api-20.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/15b4ab71e41d6a8d620d4a2b11b562cd/transformed/jetified-play-services-measurement-sdk-api-20.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/d520188d7f442b76e2f811522affc71b/jetified-play-services-measurement-sdk-api-20.1.1/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/ce1b9986672783e5054236c673678a86/jetified-play-services-measurement-sdk-api-20.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/ce1b9986672783e5054236c673678a86/jetified-play-services-measurement-sdk-api-20.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/ce1b9986672783e5054236c673678a86/jetified-play-services-measurement-sdk-api-20.1.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement-sdk-api/20.1.1/ace98f39b262c59be4be4d52b871d1ba5dfff723/play-services-measurement-sdk-api-20.1.1-javadoc.jar!/" />

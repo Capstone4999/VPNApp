@@ -9,9 +9,14 @@
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/7dedece9d8ac0d8a439bba318205bd48/firebase-config-21.0.2/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/7dedece9d8ac0d8a439bba318205bd48/firebase-config-21.0.2/res" />
       <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/7dedece9d8ac0d8a439bba318205bd48/firebase-config-21.0.2/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/dcca6f14683a14d4c7c451cbc61bb84d/firebase-config-21.0.2/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/dcca6f14683a14d4c7c451cbc61bb84d/firebase-config-21.0.2/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/dcca6f14683a14d4c7c451cbc61bb84d/firebase-config-21.0.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/bbd88c1a43ef8cee991c018672ca52f4/jetified-firebase-config-21.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/7633351db192d2246497c256f5cf3089/transformed/jetified-firebase-config-21.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/5ac29ba2be222931027b5d5de2cdcb66/transformed/jetified-firebase-config-21.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/a7acb86f78db7cf884365d72e1c80c30/jetified-firebase-config-21.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/e2e29b2b68dc08dd0593aa8501ed3af2/jetified-firebase-config-21.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/e2e29b2b68dc08dd0593aa8501ed3af2/jetified-firebase-config-21.0.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/e2e29b2b68dc08dd0593aa8501ed3af2/jetified-firebase-config-21.0.2/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.google.firebase/firebase-config/21.0.2/54075569865466c9ff854134a80f313c373c7da7/firebase-config-21.0.2-javadoc.jar!/" />
