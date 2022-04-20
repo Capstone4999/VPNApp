@@ -21,7 +21,17 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Jonah\\IdeaProjects\\VPNServiceandGuide\\caches\\transforms-2\\files-2.1\\4b4be6f4f63abc6fa781d2718baf1d7e\\material-1.0.0\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\Jonah\\IdeaProjects\\VPNServiceandGuide\\caches\\transforms-2\\files-2.1\\a861c1261f6f2468b6ac9cbc7576a83e\\appcompat-1.2.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Jonah\\IdeaProjects\\VPNServiceandGuide\\caches\\transforms-2\\files-2.1\\c9f9169b9ac7bd429301ab48a76a8e2c\\material-1.0.0\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -37,16 +47,6 @@
                         "endLines": "9",
                         "endColumns": "10",
                         "endOffsets": "489"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Jonah\\IdeaProjects\\VPNServiceandGuide\\caches\\transforms-2\\files-2.1\\78521153bed566d6aa7f9b12797cff63\\appcompat-1.2.0\\res\\values-land\\values-land.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,125,196",
-                        "endColumns": "69,70,67",
-                        "endOffsets": "120,191,259"
                     }
                 }
             ]

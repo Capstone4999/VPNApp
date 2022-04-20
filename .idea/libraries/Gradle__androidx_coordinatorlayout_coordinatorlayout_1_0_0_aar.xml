@@ -3,7 +3,7 @@
     <ANNOTATIONS>
       <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/6cd683d095b988ab1349707b8897170b/coordinatorlayout-1.0.0/annotations.zip!/" />
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/ee0420b200644aef4939ff6b26d868a1/coordinatorlayout-1.0.0/annotations.zip!/" />
-      <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/514ee7157a1f99767302c60567b8f403/coordinatorlayout-1.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/380403d710af7528ca2e2dd870afdbbd/coordinatorlayout-1.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/6cd683d095b988ab1349707b8897170b/coordinatorlayout-1.0.0/jars/classes.jar!/" />
@@ -12,9 +12,9 @@
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/ee0420b200644aef4939ff6b26d868a1/coordinatorlayout-1.0.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/ee0420b200644aef4939ff6b26d868a1/coordinatorlayout-1.0.0/res" />
       <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/ee0420b200644aef4939ff6b26d868a1/coordinatorlayout-1.0.0/AndroidManifest.xml" />
-      <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/514ee7157a1f99767302c60567b8f403/coordinatorlayout-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/514ee7157a1f99767302c60567b8f403/coordinatorlayout-1.0.0/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/514ee7157a1f99767302c60567b8f403/coordinatorlayout-1.0.0/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/380403d710af7528ca2e2dd870afdbbd/coordinatorlayout-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/380403d710af7528ca2e2dd870afdbbd/coordinatorlayout-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/380403d710af7528ca2e2dd870afdbbd/coordinatorlayout-1.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
