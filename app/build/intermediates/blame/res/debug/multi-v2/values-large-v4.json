@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Jonah\\VPNApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "outputFile": "C:\\Users\\jrangle\\VPNApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Jonah\\IdeaProjects\\VPNServiceandGuide\\caches\\transforms-2\\files-2.1\\c9f9169b9ac7bd429301ab48a76a8e2c\\material-1.0.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\jrangle\\.gradle\\caches\\transforms-2\\files-2.1\\4eae1032412902a50ee771da718b9193\\material-1.0.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Jonah\\IdeaProjects\\VPNServiceandGuide\\caches\\transforms-2\\files-2.1\\a861c1261f6f2468b6ac9cbc7576a83e\\appcompat-1.2.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\jrangle\\.gradle\\caches\\transforms-2\\files-2.1\\a65218c43f5c365b70965191555cb7f6\\appcompat-1.2.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
