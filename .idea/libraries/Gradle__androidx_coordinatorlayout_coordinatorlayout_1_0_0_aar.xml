@@ -1,25 +1,26 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.0.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/6cd683d095b988ab1349707b8897170b/coordinatorlayout-1.0.0/annotations.zip!/" />
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/ee0420b200644aef4939ff6b26d868a1/coordinatorlayout-1.0.0/annotations.zip!/" />
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/380403d710af7528ca2e2dd870afdbbd/coordinatorlayout-1.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c258ef1810b8114c16ab56736c383351/coordinatorlayout-1.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/6cd683d095b988ab1349707b8897170b/coordinatorlayout-1.0.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/6cd683d095b988ab1349707b8897170b/coordinatorlayout-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/6cd683d095b988ab1349707b8897170b/coordinatorlayout-1.0.0/AndroidManifest.xml" />
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/ee0420b200644aef4939ff6b26d868a1/coordinatorlayout-1.0.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/ee0420b200644aef4939ff6b26d868a1/coordinatorlayout-1.0.0/res" />
       <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/ee0420b200644aef4939ff6b26d868a1/coordinatorlayout-1.0.0/AndroidManifest.xml" />
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/380403d710af7528ca2e2dd870afdbbd/coordinatorlayout-1.0.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/380403d710af7528ca2e2dd870afdbbd/coordinatorlayout-1.0.0/res" />
       <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/380403d710af7528ca2e2dd870afdbbd/coordinatorlayout-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c258ef1810b8114c16ab56736c383351/coordinatorlayout-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c258ef1810b8114c16ab56736c383351/coordinatorlayout-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c258ef1810b8114c16ab56736c383351/coordinatorlayout-1.0.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/androidx.coordinatorlayout/coordinatorlayout/1.0.0/4325b3c4422ad58201ed8dc15ae56bda9accedf2/coordinatorlayout-1.0.0-sources.jar!/" />
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/modules-2/files-2.1/androidx.coordinatorlayout/coordinatorlayout/1.0.0/4325b3c4422ad58201ed8dc15ae56bda9accedf2/coordinatorlayout-1.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/androidx.coordinatorlayout/coordinatorlayout/1.0.0/4325b3c4422ad58201ed8dc15ae56bda9accedf2/coordinatorlayout-1.0.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

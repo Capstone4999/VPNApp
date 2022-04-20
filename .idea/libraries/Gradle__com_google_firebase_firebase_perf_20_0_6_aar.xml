@@ -9,10 +9,14 @@
       <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/eb24cd6bf646ac6a9de4d83fa5a228b7/firebase-perf-20.0.6/res" />
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/eb24cd6bf646ac6a9de4d83fa5a228b7/firebase-perf-20.0.6/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/eb24cd6bf646ac6a9de4d83fa5a228b7/firebase-perf-20.0.6/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/d050e09e4772d7d36a9062c7f0cc9abe/firebase-perf-20.0.6/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/d050e09e4772d7d36a9062c7f0cc9abe/firebase-perf-20.0.6/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/d050e09e4772d7d36a9062c7f0cc9abe/firebase-perf-20.0.6/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.google.firebase/firebase-perf/20.0.6/9eaebc7b326aec08be67a8e042d2409757c4bf52/firebase-perf-20.0.6-javadoc.jar!/" />
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/modules-2/files-2.1/com.google.firebase/firebase-perf/20.0.6/9eaebc7b326aec08be67a8e042d2409757c4bf52/firebase-perf-20.0.6-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-perf/20.0.6/9eaebc7b326aec08be67a8e042d2409757c4bf52/firebase-perf-20.0.6-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES />
   </library>

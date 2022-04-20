@@ -9,10 +9,14 @@
       <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/42db578e1c268f4cbbe573c701c29a62/jetified-transport-backend-cct-3.1.1/res" />
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/42db578e1c268f4cbbe573c701c29a62/jetified-transport-backend-cct-3.1.1/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/42db578e1c268f4cbbe573c701c29a62/jetified-transport-backend-cct-3.1.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/94620ca49294d4981747935842c0ea04/jetified-transport-backend-cct-3.1.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/94620ca49294d4981747935842c0ea04/jetified-transport-backend-cct-3.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/94620ca49294d4981747935842c0ea04/jetified-transport-backend-cct-3.1.1/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.google.android.datatransport/transport-backend-cct/3.1.1/804948d975d169593a5a3b73de902020b5c2be55/transport-backend-cct-3.1.1-javadoc.jar!/" />
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/modules-2/files-2.1/com.google.android.datatransport/transport-backend-cct/3.1.1/804948d975d169593a5a3b73de902020b5c2be55/transport-backend-cct-3.1.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.google.android.datatransport/transport-backend-cct/3.1.1/804948d975d169593a5a3b73de902020b5c2be55/transport-backend-cct-3.1.1-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES />
   </library>

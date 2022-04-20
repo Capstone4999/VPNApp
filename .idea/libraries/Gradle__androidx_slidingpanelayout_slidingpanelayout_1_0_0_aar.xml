@@ -1,9 +1,7 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.0.0@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/861f47fb46c67267b33fae669bf6feee/slidingpanelayout-1.0.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/861f47fb46c67267b33fae669bf6feee/slidingpanelayout-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/861f47fb46c67267b33fae669bf6feee/slidingpanelayout-1.0.0/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/861f47fb46c67267b33fae669bf6feee/slidingpanelayout-1.0.0/res" />
       <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/574c477baf3428e8747236f08a56f325/slidingpanelayout-1.0.0/res" />
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/34657000e27c3e178d3047019bb8549d/slidingpanelayout-1.0.0/jars/classes.jar!/" />
@@ -14,11 +12,15 @@
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/b147b67065b81e98b8c04af782e4710f/slidingpanelayout-1.0.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/b147b67065b81e98b8c04af782e4710f/slidingpanelayout-1.0.0/res" />
       <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/b147b67065b81e98b8c04af782e4710f/slidingpanelayout-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/1f7af4bab9a68ffac2426f2a388a2b5a/slidingpanelayout-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/1f7af4bab9a68ffac2426f2a388a2b5a/slidingpanelayout-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/1f7af4bab9a68ffac2426f2a388a2b5a/slidingpanelayout-1.0.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/androidx.slidingpanelayout/slidingpanelayout/1.0.0/f3f2e4fded24d5969a86e1974ad7e96975d970a0/slidingpanelayout-1.0.0-sources.jar!/" />
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/modules-2/files-2.1/androidx.slidingpanelayout/slidingpanelayout/1.0.0/f3f2e4fded24d5969a86e1974ad7e96975d970a0/slidingpanelayout-1.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/androidx.slidingpanelayout/slidingpanelayout/1.0.0/f3f2e4fded24d5969a86e1974ad7e96975d970a0/slidingpanelayout-1.0.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

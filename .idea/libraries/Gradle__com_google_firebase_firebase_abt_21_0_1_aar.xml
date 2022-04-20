@@ -9,14 +9,19 @@
       <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/fa01f068036e086681fb363dff3e1969/firebase-abt-21.0.1/res" />
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/fa01f068036e086681fb363dff3e1969/firebase-abt-21.0.1/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/fa01f068036e086681fb363dff3e1969/firebase-abt-21.0.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c736546d756968fb527d66c5ecb7a249/firebase-abt-21.0.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c736546d756968fb527d66c5ecb7a249/firebase-abt-21.0.1/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c736546d756968fb527d66c5ecb7a249/firebase-abt-21.0.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.google.firebase/firebase-abt/21.0.1/88230e3612823aea349f4b41f708a842b9d1fcdd/firebase-abt-21.0.1-javadoc.jar!/" />
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/modules-2/files-2.1/com.google.firebase/firebase-abt/21.0.1/88230e3612823aea349f4b41f708a842b9d1fcdd/firebase-abt-21.0.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-abt/21.0.1/88230e3612823aea349f4b41f708a842b9d1fcdd/firebase-abt-21.0.1-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.google.firebase/firebase-abt/21.0.1/a36e7954564f0ef383be425f2c94cf2447fbbc49/firebase-abt-21.0.1-sources.jar!/" />
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/modules-2/files-2.1/com.google.firebase/firebase-abt/21.0.1/a36e7954564f0ef383be425f2c94cf2447fbbc49/firebase-abt-21.0.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-abt/21.0.1/a36e7954564f0ef383be425f2c94cf2447fbbc49/firebase-abt-21.0.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

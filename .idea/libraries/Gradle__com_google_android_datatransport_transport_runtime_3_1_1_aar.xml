@@ -9,10 +9,14 @@
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/e39864a91eca383b7686c51770dafafb/transport-runtime-3.1.1/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/e39864a91eca383b7686c51770dafafb/transport-runtime-3.1.1/res" />
       <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/e39864a91eca383b7686c51770dafafb/transport-runtime-3.1.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/d3b86fcaceb13fdff131565b24971132/transport-runtime-3.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/d3b86fcaceb13fdff131565b24971132/transport-runtime-3.1.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/d3b86fcaceb13fdff131565b24971132/transport-runtime-3.1.1/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.google.android.datatransport/transport-runtime/3.1.1/804948d975d169593a5a3b73de902020b5c2be55/transport-runtime-3.1.1-javadoc.jar!/" />
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/modules-2/files-2.1/com.google.android.datatransport/transport-runtime/3.1.1/804948d975d169593a5a3b73de902020b5c2be55/transport-runtime-3.1.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.google.android.datatransport/transport-runtime/3.1.1/804948d975d169593a5a3b73de902020b5c2be55/transport-runtime-3.1.1-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES />
   </library>
