@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Jackie\\StudioProjects\\android-take2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "outputFile": "C:\\Users\\Jonah\\VPNApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Jackie\\.gradle\\caches\\transforms-2\\files-2.1\\6b08cbcf6ffc9e11ffb140aedbd81bcf\\appcompat-1.1.0\\res\\values-port\\values-port.xml",
+                    "source": "C:\\Users\\Jonah\\IdeaProjects\\VPNServiceandGuide\\caches\\transforms-2\\files-2.1\\78521153bed566d6aa7f9b12797cff63\\appcompat-1.2.0\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

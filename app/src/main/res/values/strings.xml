@@ -1,6 +1,25 @@
 <resources>
     <string name="app_name">Buzz VPN</string>
 
+    <string name="surf">Surf the web worry free!</string>
+    <string name="free_vpn">Free VPN for Everybody!</string>
+    <string name="usernameHint">Email</string>
+    <string name="usernameSignUp">Username</string>
+    <string name="passwordHint">Password</string>
+    <string name="shieldDescription">shield</string>
+    <string name="chooseUsername">Please choose a username</string>
+    <string name="signUp">SIGN UP</string>
+    <string name="enterEmailText">Enter Email</string>
+    <string name="example_hint">example@email.com</string>
+    <string name="reenterEmailText">Re-enter Email</string>
+    <string name="confirmPS">Confirm your password!</string>
+    <string name="or">OR</string>
+    <string name="login">Login</string>
+    <string name="now">sign up now!</string>
+    <string name="secure">SECURE ME!</string>
+
+
+
     <!--<string name="title_activity_server_list">Server Lists</string>
     <string name="action_settings">Settings</string>
     <string name="section_format">Hello World from section: %1$d</string>
@@ -171,4 +190,7 @@
 
 
     <string name="string_of_two_number">%02d</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in_short">Sign In</string>
 </resources>

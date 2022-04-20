@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite"
+    tools:context=".signup_activity">
+
+    <TextView
+        android:id="@+id/signup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/abel"
+        android:includeFontPadding="false"
+        android:text="@string/signUp"
+        android:textColor="#100A0A"
+        android:textSize="48sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.188" />
+
+    <TextView
+        android:id="@+id/chooseUsername"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="@string/chooseUsername"
+        android:textColor="#070404"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.134"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/signup" />
+
+    <EditText
+        android:id="@+id/new_username"
+        android:layout_width="350dp"
+        android:layout_height="30dp"
+        android:background="@drawable/input_bkgrd"
+        android:ems="10"
+        android:gravity="left"
+        android:hint="@string/usernameSignUp"
+        android:autofillHints="username"
+        android:inputType="textPersonName"
+        android:textColorHint="#A154BC"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/chooseUsername" />
+
+    <TextView
+        android:id="@+id/enterEmailText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/enterEmailText"
+        android:textColor="#0C0606"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.087"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/new_username" />
+
+    <EditText
+        android:id="@+id/email1"
+        android:layout_width="350dp"
+        android:layout_height="30dp"
+        android:background="@drawable/input_bkgrd"
+        android:ems="10"
+        android:hint="@string/example_hint"
+        android:autofillHints="exampleHint"
+        android:inputType="textPersonName|textCapWords|textEmailAddress"
+        android:textColorHint="#A154BC"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/enterEmailText" />
+
+
+    <TextView
+        android:id="@+id/reenterEmailText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/reenterEmailText"
+        android:textColor="#000000"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.093"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/email1" />
+
+    <EditText
+        android:id="@+id/email2"
+        android:layout_width="350dp"
+        android:layout_height="30dp"
+        android:background="@drawable/input_bkgrd"
+        android:ems="10"
+        android:hint="@string/example_hint"
+        android:autofillHints="exampleHint"
+        android:inputType="textPersonName|textCapWords|textEmailAddress"
+        android:textColorHint="#A154BC"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/reenterEmailText" />
+
+
+    <TextView
+            android:id="@+id/passwordText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/password"
+            android:textColor="#070303"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.289"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/email2"/>
+    <EditText
+            android:id="@+id/password1"
+            android:layout_width="350dp"
+            android:layout_height="30dp"
+            android:background="@drawable/input_bkgrd"
+            android:ems="10"
+            android:hint="@string/passwordHint"
+            android:autofillHints="passwordHint"
+            android:inputType="textPassword"
+            android:textColorHint="#A154BC"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/passwordText"
+            app:layout_constraintHorizontal_bias="0.491"/>
+    <TextView
+            android:id="@+id/confirmPasswordText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/confirmPS"
+            android:autofillHints="passwordHint"
+            android:textColor="#0E0606"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.122"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/password1"/>
+    <EditText
+            android:id="@+id/password2"
+            android:layout_width="350dp"
+            android:layout_height="30dp"
+            android:background="@drawable/input_bkgrd"
+            android:ems="10"
+            android:hint="@string/passwordHint"
+            android:autofillHints="passwordHint"
+            android:inputType="textPassword"
+            android:textColorHint="#A154BC"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/confirmPasswordText"
+            app:layout_constraintHorizontal_bias="0.524"/>
+    <Button
+            android:id="@+id/secureme"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/secure"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/password1"
+            app:layout_constraintVertical_bias="0.859"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

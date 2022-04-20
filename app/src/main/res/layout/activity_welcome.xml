@@ -99,7 +99,7 @@
                     android:layout_gravity="center"
                     android:layout_margin="@dimen/lo_8dpGrid"
                     android:background="@drawable/button_later"
-                    android:text="Later"
+                    android:text="Next"
                     android:textColor="@color/colorWhite" />
 
                 <View

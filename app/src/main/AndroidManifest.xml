@@ -22,35 +22,24 @@
         android:label="@string/app_name"
         android:supportsRtl="false"
         android:theme="@style/AppTheme">
-
-        <meta-data
-            android:name="android.max_aspect"
-            android:value="2.1" />
-
-        <service
-            android:name="de.blinkt.openvpn.core.OpenVPNService"
-            android:permission="android.permission.BIND_VPN_SERVICE">
+        <activity
+            android:name=".userLogin_activity"
+            android:exported="true">
             <intent-filter>
-                <action android:name="android.net.VpnService" />
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </service>
-        <service
-            android:name="de.blinkt.openvpn.api.ExternalOpenVPNService"
-            tools:ignore="ExportedService">
-            <intent-filter>
-                <action android:name="de.blinkt.openvpn.api.IOpenVPNAPIService" />
-            </intent-filter>
-        </service>
+        </activity>
 
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
             android:screenOrientation="portrait">
             <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
             <intent-filter android:label="@string/app_name">
                 <action android:name="android.intent.action.VIEW" />
 
@@ -63,6 +52,7 @@
                     android:scheme="http" />
             </intent-filter>
         </activity>
+
         <activity
             android:name="de.blinkt.openvpn.LaunchVPN"
             android:excludeFromRecents="true"
@@ -76,10 +66,11 @@
         </activity>
         <activity android:name=".ServerActivity" />
         <activity android:name=".UsageActivity" />
-        <activity android:name=".ContactActivity"/>
+        <activity android:name=".ContactActivity" />
         <activity android:name=".WelcomeActivity" />
         <activity android:name=".FAQActivity" />
         <activity android:name=".ReviewActivity" />
+
     </application>
 
 </manifest>
