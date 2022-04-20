@@ -1,16 +1,26 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.transition:transition:1.0.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/07a9f90ab32ad53ab2f43257c08d9272/transition-1.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/1a943f20187aa10db469e6fda1dde4eb/transition-1.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/7454bc90a2ef735caca346fcf3b24c08/transition-1.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/bc3d0a0e960be7da07a09a26ffb267dc/transition-1.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/07a9f90ab32ad53ab2f43257c08d9272/transition-1.0.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/07a9f90ab32ad53ab2f43257c08d9272/transition-1.0.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/07a9f90ab32ad53ab2f43257c08d9272/transition-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/1a943f20187aa10db469e6fda1dde4eb/transition-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/1a943f20187aa10db469e6fda1dde4eb/transition-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/1a943f20187aa10db469e6fda1dde4eb/transition-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/7454bc90a2ef735caca346fcf3b24c08/transition-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/7454bc90a2ef735caca346fcf3b24c08/transition-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/7454bc90a2ef735caca346fcf3b24c08/transition-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/bc3d0a0e960be7da07a09a26ffb267dc/transition-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/bc3d0a0e960be7da07a09a26ffb267dc/transition-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/bc3d0a0e960be7da07a09a26ffb267dc/transition-1.0.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.transition/transition/1.0.0/9d3d152e753d702c6ae501f0d296e09ddec2fc6/transition-1.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/androidx.transition/transition/1.0.0/9d3d152e753d702c6ae501f0d296e09ddec2fc6/transition-1.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/modules-2/files-2.1/androidx.transition/transition/1.0.0/9d3d152e753d702c6ae501f0d296e09ddec2fc6/transition-1.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/androidx.transition/transition/1.0.0/9d3d152e753d702c6ae501f0d296e09ddec2fc6/transition-1.0.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

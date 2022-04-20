@@ -130,7 +130,7 @@ public class WelcomeActivity extends AppCompatActivity {
             public void onClick(View view) {
                 finish();
                 overridePendingTransition(R.anim.anim_slide_in_right, R.anim.anim_slide_out_left);
-
+                startActivity(new Intent(getApplicationContext(), MainActivity.class));
             }
 
         });

@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-measurement:20.1.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/d2455ff54f041ea8016ca6f7e293fce6/play-services-measurement-20.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/d2455ff54f041ea8016ca6f7e293fce6/play-services-measurement-20.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/d2455ff54f041ea8016ca6f7e293fce6/play-services-measurement-20.1.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/d2455ff54f041ea8016ca6f7e293fce6/play-services-measurement-20.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/f58b192bbdb5c1d10c185529874e7f6d/play-services-measurement-20.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/7e631f4c49b5af1ee225c34fcefe9398/play-services-measurement-20.1.1/res" />
+      <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/7e631f4c49b5af1ee225c34fcefe9398/play-services-measurement-20.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/7e631f4c49b5af1ee225c34fcefe9398/play-services-measurement-20.1.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/abdec1cbb9ed1ae9464a28546289e18f/play-services-measurement-20.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/abdec1cbb9ed1ae9464a28546289e18f/play-services-measurement-20.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/abdec1cbb9ed1ae9464a28546289e18f/play-services-measurement-20.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement/20.1.1/3c6375b0913f21bad5a4c7256f4e8d39e6127187/play-services-measurement-20.1.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement/20.1.1/3c6375b0913f21bad5a4c7256f4e8d39e6127187/play-services-measurement-20.1.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement/20.1.1/3c6375b0913f21bad5a4c7256f4e8d39e6127187/play-services-measurement-20.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

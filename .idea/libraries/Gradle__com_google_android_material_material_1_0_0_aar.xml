@@ -1,12 +1,20 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.android.material:material:1.0.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6ea5a70065943b5f4cccd86c26719bb8/material-1.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/4b4be6f4f63abc6fa781d2718baf1d7e/material-1.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/5aa53e23fa08dd4b1e220091556d2964/material-1.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c9f9169b9ac7bd429301ab48a76a8e2c/material-1.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6ea5a70065943b5f4cccd86c26719bb8/material-1.0.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6ea5a70065943b5f4cccd86c26719bb8/material-1.0.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6ea5a70065943b5f4cccd86c26719bb8/material-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/4b4be6f4f63abc6fa781d2718baf1d7e/material-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/4b4be6f4f63abc6fa781d2718baf1d7e/material-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/4b4be6f4f63abc6fa781d2718baf1d7e/material-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/5aa53e23fa08dd4b1e220091556d2964/material-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/5aa53e23fa08dd4b1e220091556d2964/material-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/5aa53e23fa08dd4b1e220091556d2964/material-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c9f9169b9ac7bd429301ab48a76a8e2c/material-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c9f9169b9ac7bd429301ab48a76a8e2c/material-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c9f9169b9ac7bd429301ab48a76a8e2c/material-1.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

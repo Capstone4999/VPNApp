@@ -640,7 +640,7 @@ public class MainActivity extends AppCompatActivity implements VpnStatus.ByteCou
                                         iv_servers.setImageResource(R.drawable.ic_flag_italy);
                                         break;
                                     default:
-                                        iv_servers.setImageResource(R.drawable.ic_flag_unknown_mali);
+                                        iv_servers.setImageResource(R.drawable.ic_flag_united_states);
                                         break;
 
                                 }

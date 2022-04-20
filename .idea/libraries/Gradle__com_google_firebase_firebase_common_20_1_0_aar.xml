@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-common:20.1.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/ed49e060466159090adbddad74603a32/jetified-firebase-common-20.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/ed49e060466159090adbddad74603a32/jetified-firebase-common-20.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/ed49e060466159090adbddad74603a32/jetified-firebase-common-20.1.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/24b3390c19b254c7d5802e8453cc772f/jetified-firebase-common-20.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/4cfdbc6d6f08d623f297316ebd977a36/jetified-firebase-common-20.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/0ec69f298ff73783cc5ff7efc41f642c/jetified-firebase-common-20.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/0ec69f298ff73783cc5ff7efc41f642c/jetified-firebase-common-20.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/0ec69f298ff73783cc5ff7efc41f642c/jetified-firebase-common-20.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c3173871666bd251f049caed705852ae/jetified-firebase-common-20.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c3173871666bd251f049caed705852ae/jetified-firebase-common-20.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c3173871666bd251f049caed705852ae/jetified-firebase-common-20.1.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.google.firebase/firebase-common/20.1.0/6a93a4494e8fb8a7d153a0e51df9e534e13967ab/firebase-common-20.1.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/modules-2/files-2.1/com.google.firebase/firebase-common/20.1.0/6a93a4494e8fb8a7d153a0e51df9e534e13967ab/firebase-common-20.1.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-common/20.1.0/6a93a4494e8fb8a7d153a0e51df9e534e13967ab/firebase-common-20.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.google.firebase/firebase-common/20.1.0/acb5a4230238dcfb890bc959205eb9f3b5b8cbf/firebase-common-20.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/modules-2/files-2.1/com.google.firebase/firebase-common/20.1.0/acb5a4230238dcfb890bc959205eb9f3b5b8cbf/firebase-common-20.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-common/20.1.0/acb5a4230238dcfb890bc959205eb9f3b5b8cbf/firebase-common-20.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
