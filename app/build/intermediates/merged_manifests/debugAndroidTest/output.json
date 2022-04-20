@@ -1,1 +1,24 @@
-[{"outputType":{"type":"MERGED_MANIFESTS"},"apkData":{"type":"MAIN","splits":[],"versionCode":37,"versionName":"2.8.2000","enabled":true,"outputFile":"app-debug-androidTest.apk","fullName":"debugAndroidTest","baseName":"debug-androidTest","dirName":""},"path":"AndroidManifest.xml","properties":{}}]
+{
+  "version": 1,
+  "applicationId": "com.buzz.vpn.test",
+  "variantType": "ANDROID_TEST",
+  "elements": [
+    {
+      "outputType": {
+        "type": "MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 37,
+        "versionName": "2.8.2000",
+        "outputFile": "app-debug-androidTest.apk",
+        "fullName": "debugAndroidTest",
+        "baseName": "debug-androidTest",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {}
+    }
+  ]
+}

@@ -1,1 +1,28 @@
-[{"outputType":{"type":"INSTANT_APP_MANIFEST"},"apkData":{"type":"MAIN","splits":[],"versionCode":37,"versionName":"2.8.2000","enabled":true,"outputFile":"app-debug.apk","fullName":"debug","baseName":"debug","dirName":""},"path":"AndroidManifest.xml","properties":{"packageId":"com.buzz.vpn","split":"","minSdkVersion":"21"}}]
+{
+  "version": 1,
+  "applicationId": "com.buzz.vpn",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "INSTANT_APP_MANIFEST"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 37,
+        "versionName": "2.8.2000",
+        "outputFile": "app-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.buzz.vpn",
+        "split": "",
+        "minSdkVersion": "21"
+      }
+    }
+  ]
+}

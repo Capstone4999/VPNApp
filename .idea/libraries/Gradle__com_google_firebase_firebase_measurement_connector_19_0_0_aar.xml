@@ -14,8 +14,9 @@
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/ac399440b2755b131f86c28ed28393c2/transformed/jetified-firebase-measurement-connector-19.0.0/res" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/cd4847c29946531b1e6530ec444bc53d/transformed/jetified-firebase-measurement-connector-19.0.0/res" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/f233c901577ce3d043751499c923559a/jetified-firebase-measurement-connector-19.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/f233c901577ce3d043751499c923559a/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/f233c901577ce3d043751499c923559a/jetified-firebase-measurement-connector-19.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/1ad4d9dc586136f8b1fb6ad307c9446f/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/1ad4d9dc586136f8b1fb6ad307c9446f/jetified-firebase-measurement-connector-19.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/1ad4d9dc586136f8b1fb6ad307c9446f/jetified-firebase-measurement-connector-19.0.0/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.google.firebase/firebase-measurement-connector/19.0.0/c0d58b8efa926b2c607984c54fb3d274490badd1/firebase-measurement-connector-19.0.0-javadoc.jar!/" />

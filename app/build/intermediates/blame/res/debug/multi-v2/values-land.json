@@ -4,25 +4,6 @@
             "outputFile": "C:\\Users\\jrangle\\VPNApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\jrangle\\.gradle\\caches\\transforms-2\\files-2.1\\4eae1032412902a50ee771da718b9193\\material-1.0.0\\res\\values-land\\values-land.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "5",
-                        "endColumns": "10",
-                        "endOffsets": "222"
-                    },
-                    "to": {
-                        "startLines": "6",
-                        "startColumns": "4",
-                        "startOffsets": "322",
-                        "endLines": "9",
-                        "endColumns": "10",
-                        "endOffsets": "489"
-                    }
-                },
-                {
                     "source": "C:\\Users\\jrangle\\VPNApp\\app\\src\\main\\res\\values-land\\dimens.xml",
                     "from": {
                         "startLines": "1",
@@ -40,13 +21,32 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\jrangle\\.gradle\\caches\\transforms-2\\files-2.1\\a65218c43f5c365b70965191555cb7f6\\appcompat-1.2.0\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\jrangle\\.gradle\\caches\\transforms-2\\files-2.1\\b6523b8994d8d45ec2d3017ba0f84d31\\appcompat-1.2.0\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
                         "startOffsets": "55,125,196",
                         "endColumns": "69,70,67",
                         "endOffsets": "120,191,259"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jrangle\\.gradle\\caches\\transforms-2\\files-2.1\\f013f4561e83d3b9db9673167e53f1de\\material-1.0.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "10",
+                        "endOffsets": "222"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "322",
+                        "endLines": "9",
+                        "endColumns": "10",
+                        "endOffsets": "489"
                     }
                 }
             ]
