@@ -1,11 +1,9 @@
 <resources>
-    <string name="app_name">Buzz VPN</string>
-
+    <string name="app_name">PVPN LEARNING APP</string>
     <string name="surf">Surf the web worry free!</string>
     <string name="free_vpn">Free VPN for Everybody!</string>
-    <string name="usernameHint">Email</string>
-    <string name="usernameSignUp">Username</string>
-    <string name="passwordHint">Password</string>
+    <string name="usernameHint">USERNAME</string>
+    <string name="passwordHint">PASSWORD</string>
     <string name="shieldDescription">shield</string>
     <string name="chooseUsername">Please choose a username</string>
     <string name="signUp">SIGN UP</string>
@@ -17,7 +15,22 @@
     <string name="login">Login</string>
     <string name="now">sign up now!</string>
     <string name="secure">SECURE ME!</string>
-
+    <string name="vpn_button">button</string>
+    <string name="welcome_pvpn">PVPN LEARNING APP</string>
+    <string name="landing_page_qoute">This app protects, and empower you with cyber security knowledge</string>
+    <string name="free">Its Free!!</string>
+    <string name="fragmentAdds">Blocked Adds</string>
+    <string name="fragmentHome">Home</string>
+    <string name="fragmentLearn">Educate</string>
+    <string name="fragmentQuiz">Challenge</string>
+    <string name="your_protected">You are Protected</string>
+    <string name="location">current location</string>
+    <string name="know_more">Know more about cyber security and challenge your knowledge about it</string>
+    <string name="ring_description">ring</string>
+    <string name="half_circle">half circle</string>
+    <string name="turn_now">Turn VPN ON now!</string>
+    <string name="blockedAdds">Check your blocked adds here<a href="https://www.oakland.edu/" /></string>
+    <string name="usernameSignUp">USERNAME</string>
 
 
     <!--<string name="title_activity_server_list">Server Lists</string>

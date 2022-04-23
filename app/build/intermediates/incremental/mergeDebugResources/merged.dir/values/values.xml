@@ -235,7 +235,7 @@
     <color name="colorLightRed">#F08B89</color>
     <color name="colorLightText">#303030</color>
     <color name="colorLightYellow">#FDD688</color>
-    <color name="colorPrimary">#0543FF</color>
+    <color name="colorPrimary">#A154BC</color>
     <color name="colorRed">#EE7673</color>
     <color name="colorSample">#B0E4FC</color>
     <color name="colorSample2">#005275</color>
@@ -711,11 +711,12 @@
     <string name="action_sign_in_short">Sign In</string>
     <string name="allowed_vpn_apps_info">Allowed VPN apps: %1$s</string>
     <string name="app_is_starting">app is starting</string>
-    <string name="app_name">Buzz VPN</string>
+    <string name="app_name">PVPN LEARNING APP</string>
     <string name="app_no_longer_exists">Package %s is no longer installed, removing it from app allow/disallow list</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="auth_username">Username</string>
     <string name="bits_per_second">%.0f bit/s</string>
+    <string name="blockedAdds">Check your blocked adds here<a href="https://www.oakland.edu/"/></string>
     <string name="bottom_sheet_behavior" translatable="false">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="building_configration">configuring settings</string>
     <string name="built_by">built by %s</string>
@@ -728,7 +729,7 @@
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="check_internet_connection">checking internet connection</string>
     <string name="chooseUsername">Please choose a username</string>
-    <string name="com.crashlytics.android.build_id" ns2:ignore="UnusedResources,TypographyDashes" translatable="false">f968ccc9-41cb-47c4-9dae-a4da96e252e8</string>
+    <string name="com.crashlytics.android.build_id" ns2:ignore="UnusedResources,TypographyDashes" translatable="false">d8f8de74-04a5-4a7f-ac28-a931aebd27bd</string>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
     <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
     <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
@@ -777,6 +778,11 @@
     <string name="fallback_menu_item_copy_link">Copy link</string>
     <string name="fallback_menu_item_open_in_browser">Open in browser</string>
     <string name="fallback_menu_item_share_link">Share link</string>
+    <string name="fragmentAdds">Blocked Adds</string>
+    <string name="fragmentHome">Home</string>
+    <string name="fragmentLearn">Educate</string>
+    <string name="fragmentQuiz">Challenge</string>
+    <string name="free">Its Free!!</string>
     <string name="free_vpn">Free VPN for Everybody!</string>
     <string name="gbits_per_second">%.1f Gbit/s</string>
     <string name="gcm_defaultSenderId" translatable="false">740317045039</string>
@@ -790,6 +796,7 @@
     <string name="google_app_id" translatable="false">1:740317045039:android:511f973677106ae1b501da</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC26ARcUqXve_iU1AwX5dyqzN1S-Bu2c1M</string>
     <string name="google_storage_bucket" translatable="false">vpnandroidapp.appspot.com</string>
+    <string name="half_circle">half circle</string>
     <string name="help">About</string>
     <string name="hide_bottom_view_on_scroll_behavior" translatable="false">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="ignore_multicast_route">Ignoring multicast route: %s</string>
@@ -806,9 +813,12 @@
     <string name="keyChainAccessError">KeyChain Access error: %s</string>
     <string name="keychain_access">Cannot access the Android Keychain Certificates. This can be caused by a firmware upgrade or by restoring a backup of the app/app settings. Please edit the VPN and reselect the certificate under basic settings to recreate the permission to access the certificate.</string>
     <string name="keychain_nocacert">No CA Certificate returned while reading from Android keystore. Authentication will probably fail.</string>
+    <string name="know_more">Know more about cyber security and challenge your knowledge about it</string>
+    <string name="landing_page_qoute">This app protects, and empower you with cyber security knowledge</string>
     <string name="last_openvpn_tun_config">Opening tun interface:</string>
     <string name="latest_update">Latest update </string>
     <string name="local_ip_info">Local IPv4: %1$s/%2$d IPv6: %3$s MTU: %4$d</string>
+    <string name="location">current location</string>
     <string name="login">Login</string>
     <string name="mbits_per_second">%.1f Mbit/s</string>
     <string name="minidump_generated">OpenVPN crashed unexpectedly. Please consider using the send Minidump option in the main menu</string>
@@ -832,7 +842,7 @@
     <string name="opentun_no_ipaddr">Refusing to open tun device without IP information</string>
     <string name="or">OR</string>
     <string name="password">Password</string>
-    <string name="passwordHint">Password</string>
+    <string name="passwordHint">PASSWORD</string>
     <string name="password_toggle_content_description">Show password</string>
     <string name="path_password_eye" translatable="false">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
     <string name="path_password_eye_mask_strike_through" translatable="false">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
@@ -855,6 +865,7 @@
     <string name="remote_warning">By proceeding, you are giving the application permission to completely control OpenVPN for Android and to intercept all network traffic.<b>Do NOT accept unless you trust the application.</b> Otherwise, you run the risk of having your data compromised by malicious software."</string>
     <string name="remove_vpn_query">Remove the VPN Profile \'%s\'?</string>
     <string name="reread_log">Reread (%d) log items from log cache file</string>
+    <string name="ring_description">ring</string>
     <string name="route_not_cidr">Cannot make sense of %1$s and %2$s as IP route with CIDR netmask, using /32 as netmask.</string>
     <string name="route_not_netip">Corrected route %1$s/%2$s to %3$s/%2$s</string>
     <string name="route_rejected">Route rejected by Android</string>
@@ -901,19 +912,23 @@
     <string name="surf">Surf the web worry free!</string>
     <string name="tun_error_helpful">On some custom ICS images the permission on /dev/tun might be wrong, or the tun module might be missing completely. For CM9 images try the fix ownership option under general settings</string>
     <string name="tun_open_error">Failed to open the tun interface</string>
+    <string name="turn_now">Turn VPN ON now!</string>
     <string name="unhandled_exception">Unhandled exception: %1$s\n\n%2$s</string>
     <string name="unhandled_exception_context">%3$s: %1$s\n\n%2$s</string>
     <string name="unknown_state" translatable="false">Unknown state</string>
-    <string name="usernameHint">Email</string>
-    <string name="usernameSignUp">Username</string>
+    <string name="usernameHint">USERNAME</string>
+    <string name="usernameSignUp">USERNAME</string>
     <string name="using_proxy">Using proxy %1$s %2$d</string>
     <string name="volume_byte">%.0f B</string>
     <string name="volume_gbyte">%.1f GB</string>
     <string name="volume_kbyte">%.1f kB</string>
     <string name="volume_mbyte">%.1f MB</string>
+    <string name="vpn_button">button</string>
     <string name="vpn_launch_title">Connecting to VPN…</string>
     <string name="warn_no_dns">No DNS servers being used. Name resolution may not work. Consider setting custom DNS Servers. Please also note that Android will keep using your proxy settings specified for your mobile/Wi-Fi connection when no DNS servers are set.</string>
+    <string name="welcome_pvpn">PVPN LEARNING APP</string>
     <string name="your_app_version">App Version </string>
+    <string name="your_protected">You are Protected</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>

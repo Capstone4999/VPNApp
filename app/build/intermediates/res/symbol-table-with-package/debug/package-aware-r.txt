@@ -1184,6 +1184,7 @@ drawable facebook
 drawable globe
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
+drawable half_circle
 drawable ic_amazon_apps
 drawable ic_apkpure
 drawable ic_app
@@ -1230,10 +1231,14 @@ drawable ic_signal_low
 drawable ic_signal_medium
 drawable ic_signal_normal
 drawable ic_uptodown
+drawable icon_book
+drawable icon_home
 drawable icon_quiz
 drawable img_protected_apps
 drawable input_bkgrd
 drawable instagram
+drawable item_selector
+drawable landing_page_bkgrd
 drawable layout_bubble
 drawable layout_country
 drawable layout_round
@@ -1253,7 +1258,9 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable power_button
 drawable rectangle
+drawable round_corners
 drawable shield_main
 drawable stat_blue_rectangle
 drawable stat_grey_rectangle
@@ -1263,6 +1270,7 @@ drawable tooltip_frame_light
 drawable triangle
 drawable twitter
 drawable vk
+drawable vpn_ring
 drawable yandex
 drawable youtube
 font abel
@@ -1342,8 +1350,11 @@ id auto
 id automatic
 id barrier
 id beginning
+id blockedAdds
+id blocked_adds
 id blocking
 id bottom
+id bottom_navigation_bar
 id browser_actions_header_text
 id browser_actions_menu_item_icon
 id browser_actions_menu_item_text
@@ -1433,6 +1444,7 @@ id ifRoom
 id image
 id imageView
 id imageView2
+id imageView3
 id info
 id invisible
 id italic
@@ -1462,7 +1474,10 @@ id iv_signal_strength
 id la_animation
 id la_review
 id labeled
+id landing_page
 id largeLabel
+id learn_add
+id learning
 id left
 id light
 id line1
@@ -1499,6 +1514,7 @@ id ll_text_bubble
 id ll_update_details
 id ll_welcome_details
 id ll_welcome_loading
+id location
 id login_btn
 id lottie_layer_name
 id ls_servers_list_dark
@@ -1510,6 +1526,9 @@ id mini
 id mtrl_child_content_container
 id mtrl_internal_children_alpha_tag
 id multiply
+id nav_home
+id nav_learn
+id nav_quiz
 id navigation_header_container
 id never
 id new_username
@@ -1536,6 +1555,8 @@ id pin
 id progress_circular
 id progress_horizontal
 id prompt
+id protected_on
+id quiz
 id radio
 id reenterEmailText
 id restart
@@ -1543,6 +1564,7 @@ id reverse
 id right
 id right_icon
 id right_side
+id ring_vpn
 id save_image_matrix
 id save_non_transition_alpha
 id save_password
@@ -1753,6 +1775,7 @@ id viewUsageLight_9
 id view_offset_helper
 id view_tree_view_model_store_owner
 id visible
+id vpn_image_button
 id wide
 id withText
 id wrap
@@ -1812,10 +1835,16 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_blocked_adds
 layout activity_contact
 layout activity_faq
+layout activity_home
+layout activity_home_off
+layout activity_landing_page
+layout activity_learning
 layout activity_login2
 layout activity_main
+layout activity_quiz
 layout activity_review
 layout activity_servers
 layout activity_signup
@@ -1856,6 +1885,7 @@ layout select_dialog_singlechoice_material
 layout server_list_item
 layout support_simple_spinner_dropdown_item
 layout userpass
+menu item_menu
 mipmap ic_app_icon
 mipmap ic_app_icon_round
 mipmap ic_launcher_foreground
@@ -1911,6 +1941,7 @@ string app_no_longer_exists
 string appbar_scrolling_view_behavior
 string auth_username
 string bits_per_second
+string blockedAdds
 string bottom_sheet_behavior
 string building_configration
 string built_by
@@ -1972,6 +2003,11 @@ string fab_transformation_sheet_behavior
 string fallback_menu_item_copy_link
 string fallback_menu_item_open_in_browser
 string fallback_menu_item_share_link
+string fragmentAdds
+string fragmentHome
+string fragmentLearn
+string fragmentQuiz
+string free
 string free_vpn
 string gbits_per_second
 string gcm_defaultSenderId
@@ -1985,6 +2021,7 @@ string google_api_key
 string google_app_id
 string google_crash_reporting_api_key
 string google_storage_bucket
+string half_circle
 string help
 string hide_bottom_view_on_scroll_behavior
 string ignore_multicast_route
@@ -2001,9 +2038,12 @@ string kbits_per_second
 string keyChainAccessError
 string keychain_access
 string keychain_nocacert
+string know_more
+string landing_page_qoute
 string last_openvpn_tun_config
 string latest_update
 string local_ip_info
+string location
 string login
 string mbits_per_second
 string minidump_generated
@@ -2050,6 +2090,7 @@ string remote_trust
 string remote_warning
 string remove_vpn_query
 string reread_log
+string ring_description
 string route_not_cidr
 string route_not_netip
 string route_rejected
@@ -2096,6 +2137,7 @@ string string_of_two_number
 string surf
 string tun_error_helpful
 string tun_open_error
+string turn_now
 string unhandled_exception
 string unhandled_exception_context
 string unknown_state
@@ -2106,9 +2148,12 @@ string volume_byte
 string volume_gbyte
 string volume_kbyte
 string volume_mbyte
+string vpn_button
 string vpn_launch_title
 string warn_no_dns
+string welcome_pvpn
 string your_app_version
+string your_protected
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

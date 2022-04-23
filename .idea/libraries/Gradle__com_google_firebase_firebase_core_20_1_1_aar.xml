@@ -17,11 +17,16 @@
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/94fa467d8cb1b61c0b67e5cfb4cf9b1c/jetified-firebase-core-20.1.1/AndroidManifest.xml" />
       <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/94fa467d8cb1b61c0b67e5cfb4cf9b1c/jetified-firebase-core-20.1.1/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/94fa467d8cb1b61c0b67e5cfb4cf9b1c/jetified-firebase-core-20.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/94fa467d8cb1b61c0b67e5cfb4cf9b1c/jetified-firebase-core-20.1.1/res" />
+      <root url="file://$USER_HOME$/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/58ab9c074d9eb9186dc80af9853d6394/firebase-core-20.1.1/res" />
+      <root url="jar://$USER_HOME$/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/58ab9c074d9eb9186dc80af9853d6394/firebase-core-20.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/58ab9c074d9eb9186dc80af9853d6394/firebase-core-20.1.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.google.firebase/firebase-core/20.1.1/ace98f39b262c59be4be4d52b871d1ba5dfff723/firebase-core-20.1.1-javadoc.jar!/" />
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/modules-2/files-2.1/com.google.firebase/firebase-core/20.1.1/ace98f39b262c59be4be4d52b871d1ba5dfff723/firebase-core-20.1.1-javadoc.jar!/" />
       <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-core/20.1.1/ace98f39b262c59be4be4d52b871d1ba5dfff723/firebase-core-20.1.1-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/gradle-5.6.1/caches/modules-2/files-2.1/com.google.firebase/firebase-core/20.1.1/ace98f39b262c59be4be4d52b871d1ba5dfff723/firebase-core-20.1.1-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES />
   </library>

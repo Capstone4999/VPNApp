@@ -30,12 +30,31 @@
         android:allowBackup="false"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
-        android:icon="@drawable/ic_app_google"
+        android:icon="@drawable/shield_main"
         android:label="@string/app_name"
         android:supportsRtl="false"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
+            android:name="com.buzz.vpn.homeOff"
+            android:exported="false" />
+        <activity
             android:name="com.buzz.vpn.userLogin_activity"
+            android:exported="false" />
+        <activity
+            android:name="com.buzz.vpn.learning"
+            android:exported="false" />
+        <activity
+            android:name="com.buzz.vpn.blockedAdds"
+            android:exported="false" />
+        <activity
+            android:name="com.buzz.vpn.landing_page"
+            android:exported="false" />
+        <activity
+            android:name="com.buzz.vpn.quiz"
+            android:exported="false" />
+        <activity
+            android:name="com.buzz.vpn.home"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
