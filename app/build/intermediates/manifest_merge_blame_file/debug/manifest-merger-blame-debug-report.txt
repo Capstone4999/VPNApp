@@ -36,14 +36,14 @@
 21-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:16:9-37
 22
 23    <uses-permission android:name="android.permission.WAKE_LOCK" />
-23-->[com.google.android.gms:play-services-measurement-api:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/b325b3b7834ade8e0e48c46589a1a180/play-services-measurement-api-20.1.1/AndroidManifest.xml:24:5-68
-23-->[com.google.android.gms:play-services-measurement-api:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/b325b3b7834ade8e0e48c46589a1a180/play-services-measurement-api-20.1.1/AndroidManifest.xml:24:22-65
+23-->[com.google.android.gms:play-services-measurement-api:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/8205989d3a2fd70f679345614dd88122/jetified-play-services-measurement-api-20.1.1/AndroidManifest.xml:24:5-68
+23-->[com.google.android.gms:play-services-measurement-api:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/8205989d3a2fd70f679345614dd88122/jetified-play-services-measurement-api-20.1.1/AndroidManifest.xml:24:22-65
 24    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
-24-->[com.google.android.gms:play-services-measurement-api:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/b325b3b7834ade8e0e48c46589a1a180/play-services-measurement-api-20.1.1/AndroidManifest.xml:25:5-79
-24-->[com.google.android.gms:play-services-measurement-api:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/b325b3b7834ade8e0e48c46589a1a180/play-services-measurement-api-20.1.1/AndroidManifest.xml:25:22-76
+24-->[com.google.android.gms:play-services-measurement-api:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/8205989d3a2fd70f679345614dd88122/jetified-play-services-measurement-api-20.1.1/AndroidManifest.xml:25:5-79
+24-->[com.google.android.gms:play-services-measurement-api:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/8205989d3a2fd70f679345614dd88122/jetified-play-services-measurement-api-20.1.1/AndroidManifest.xml:25:22-76
 25    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
-25-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/d2455ff54f041ea8016ca6f7e293fce6/play-services-measurement-20.1.1/AndroidManifest.xml:26:5-110
-25-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/d2455ff54f041ea8016ca6f7e293fce6/play-services-measurement-20.1.1/AndroidManifest.xml:26:22-107
+25-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/4fdeadbf98c36c585af018db1a2e417a/jetified-play-services-measurement-20.1.1/AndroidManifest.xml:26:5-110
+25-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/4fdeadbf98c36c585af018db1a2e417a/jetified-play-services-measurement-20.1.1/AndroidManifest.xml:26:22-107
 26
 27    <application
 27-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:18:5-88:19
@@ -52,7 +52,7 @@
 29        android:allowBackup="false"
 29-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:20:9-36
 30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-30-->[androidx.core:core:1.3.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/3dec5dcb47b483e952ec565344231d6c/core-1.3.0/AndroidManifest.xml:24:18-86
+30-->[androidx.core:core:1.3.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/00d1ec43854b99a75601e40346db45c6/core-1.3.0/AndroidManifest.xml:24:18-86
 31        android:debuggable="true"
 32        android:icon="@drawable/shield_main"
 32-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:21:9-45
@@ -60,355 +60,354 @@
 33-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:22:9-41
 34        android:supportsRtl="false"
 34-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:23:9-36
-35        android:testOnly="true"
-36        android:theme="@style/AppTheme" >
-36-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:24:9-40
-37        <activity
-37-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:25:9-27:40
-38            android:name="com.buzz.vpn.homeOff"
-38-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:26:13-36
-39            android:exported="false" />
-39-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:27:13-37
-40        <activity
-40-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:28:9-30:40
-41            android:name="com.buzz.vpn.userLogin_activity"
-41-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:29:13-47
-42            android:exported="false" />
-42-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:30:13-37
-43        <activity
-43-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:31:9-33:40
-44            android:name="com.buzz.vpn.learning"
-44-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:32:13-37
-45            android:exported="false" />
-45-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:33:13-37
-46        <activity
-46-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:34:9-36:40
-47            android:name="com.buzz.vpn.blockedAdds"
-47-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:35:13-40
-48            android:exported="false" />
-48-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:36:13-37
-49        <activity
-49-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:37:9-39:40
-50            android:name="com.buzz.vpn.landing_page"
-50-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:38:13-41
-51            android:exported="false" />
-51-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:39:13-37
-52        <activity
-52-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:40:9-42:40
-53            android:name="com.buzz.vpn.quiz"
-53-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:41:13-33
-54            android:exported="false" />
-54-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:42:13-37
-55        <activity
-55-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:43:9-51:20
-56            android:name="com.buzz.vpn.home"
-56-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:44:13-33
-57            android:exported="true" >
-57-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:45:13-36
-58            <intent-filter>
-58-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:46:13-50:29
-59                <action android:name="android.intent.action.MAIN" />
-59-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:47:17-69
-59-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:47:25-66
-60
-61                <category android:name="android.intent.category.LAUNCHER" />
-61-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:49:17-77
-61-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:49:27-74
-62            </intent-filter>
-63        </activity>
-64        <activity
-64-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:52:9-70:20
-65            android:name="com.buzz.vpn.MainActivity"
-65-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:53:13-41
-66            android:launchMode="singleTop"
-66-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:54:13-43
-67            android:screenOrientation="portrait" >
-67-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:55:13-49
-68            <intent-filter>
-68-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:56:13-58:29
-69                <category android:name="android.intent.category.LAUNCHER" />
-69-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:49:17-77
-69-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:49:27-74
-70            </intent-filter>
-71            <intent-filter android:label="@string/app_name" >
-71-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:59:13-69:29
-71-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:59:28-60
-72                <action android:name="android.intent.action.VIEW" />
-72-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:60:17-69
-72-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:60:25-66
-73
-74                <category android:name="android.intent.category.DEFAULT" />
-74-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:62:17-76
-74-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:62:27-73
-75                <category android:name="android.intent.category.BROWSABLE" />
-75-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:63:17-78
-75-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:63:27-75
-76
-77                <data
-77-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:65:17-68:45
-78                    android:host="gayanvoice.github.com"
-78-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:66:21-57
-79                    android:pathPrefix="/"
-79-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:67:21-43
-80                    android:scheme="http" />
-80-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:68:21-42
-81            </intent-filter>
-82        </activity>
-83        <activity
-83-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:71:9-81:20
-84            android:name="de.blinkt.openvpn.LaunchVPN"
-84-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:72:13-55
-85            android:excludeFromRecents="true"
-85-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:73:13-46
-86            android:label="@string/vpn_launch_title" >
-86-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:74:13-53
-87            <intent-filter>
-87-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:76:13-80:29
-88                <action android:name="android.intent.action.MAIN" />
-88-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:47:17-69
-88-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:47:25-66
-89
-90                <category android:name="android.intent.category.DEFAULT" />
-90-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:62:17-76
-90-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:62:27-73
-91            </intent-filter>
-92        </activity>
-93        <activity android:name="com.buzz.vpn.ServerActivity" />
-93-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:82:9-52
-93-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:82:19-49
-94        <activity android:name="com.buzz.vpn.UsageActivity" />
-94-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:83:9-51
-94-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:83:19-48
-95        <activity android:name="com.buzz.vpn.ContactActivity" />
-95-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:84:9-53
-95-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:84:19-50
-96        <activity android:name="com.buzz.vpn.WelcomeActivity" />
-96-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:85:9-53
-96-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:85:19-50
-97        <activity android:name="com.buzz.vpn.FAQActivity" />
-97-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:86:9-49
-97-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:86:19-46
-98        <activity android:name="com.buzz.vpn.ReviewActivity" />
-98-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:87:9-52
-98-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:87:19-49
-99        <activity
-99-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/542da8ce708e086c682e36f31c548b49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:27:9-44:20
-100            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
-100-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/542da8ce708e086c682e36f31c548b49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:28:13-80
-101            android:excludeFromRecents="true"
-101-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/542da8ce708e086c682e36f31c548b49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:29:13-46
-102            android:exported="true"
-102-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/542da8ce708e086c682e36f31c548b49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:30:13-36
-103            android:launchMode="singleTask"
-103-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/542da8ce708e086c682e36f31c548b49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:31:13-44
-104            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-104-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/542da8ce708e086c682e36f31c548b49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:32:13-72
-105            <intent-filter>
-105-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/542da8ce708e086c682e36f31c548b49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:33:13-43:29
-106                <action android:name="android.intent.action.VIEW" />
-106-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:60:17-69
-106-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:60:25-66
-107
-108                <category android:name="android.intent.category.DEFAULT" />
-108-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:62:17-76
-108-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:62:27-73
-109                <category android:name="android.intent.category.BROWSABLE" />
-109-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:63:17-78
-109-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:63:27-75
-110
-111                <data
-111-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:65:17-68:45
-112                    android:host="firebase.auth"
-112-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:66:21-57
-113                    android:path="/"
-114                    android:scheme="genericidp" />
-114-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:68:21-42
-115            </intent-filter>
-116        </activity>
-117        <activity
-117-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/542da8ce708e086c682e36f31c548b49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:45:9-62:20
-118            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
-118-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/542da8ce708e086c682e36f31c548b49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:46:13-79
-119            android:excludeFromRecents="true"
-119-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/542da8ce708e086c682e36f31c548b49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:47:13-46
-120            android:exported="true"
-120-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/542da8ce708e086c682e36f31c548b49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:48:13-36
-121            android:launchMode="singleTask"
-121-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/542da8ce708e086c682e36f31c548b49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:49:13-44
-122            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-122-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/542da8ce708e086c682e36f31c548b49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:50:13-72
-123            <intent-filter>
-123-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/542da8ce708e086c682e36f31c548b49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:51:13-61:29
-124                <action android:name="android.intent.action.VIEW" />
-124-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:60:17-69
-124-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:60:25-66
-125
-126                <category android:name="android.intent.category.DEFAULT" />
-126-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:62:17-76
-126-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:62:27-73
-127                <category android:name="android.intent.category.BROWSABLE" />
-127-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:63:17-78
-127-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:63:27-75
-128
-129                <data
-129-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:65:17-68:45
-130                    android:host="firebase.auth"
-130-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:66:21-57
-131                    android:path="/"
-132                    android:scheme="recaptcha" />
-132-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:68:21-42
-133            </intent-filter>
-134        </activity>
-135
-136        <service
-136-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/542da8ce708e086c682e36f31c548b49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:64:9-70:19
-137            android:name="com.google.firebase.components.ComponentDiscoveryService"
-137-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/542da8ce708e086c682e36f31c548b49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:65:13-84
-138            android:directBootAware="true"
-138-->[com.google.firebase:firebase-common:20.1.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/55f8fc47adb27a9f67d1253a1e61c64b/jetified-firebase-common-20.1.0/AndroidManifest.xml:35:13-43
-139            android:exported="false" >
-139-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/542da8ce708e086c682e36f31c548b49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:66:13-37
-140            <meta-data
-140-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/542da8ce708e086c682e36f31c548b49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:67:13-69:85
-141                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-141-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/542da8ce708e086c682e36f31c548b49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:68:17-109
-142                android:value="com.google.firebase.components.ComponentRegistrar" />
-142-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/542da8ce708e086c682e36f31c548b49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:69:17-82
-143            <meta-data
-143-->[com.google.firebase:firebase-perf:20.0.6] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/89ea2658d31ce6bf940a0d5b340051c6/firebase-perf-20.0.6/AndroidManifest.xml:23:13-25:85
-144                android:name="com.google.firebase.components:com.google.firebase.perf.FirebasePerfRegistrar"
-144-->[com.google.firebase:firebase-perf:20.0.6] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/89ea2658d31ce6bf940a0d5b340051c6/firebase-perf-20.0.6/AndroidManifest.xml:24:17-109
-145                android:value="com.google.firebase.components.ComponentRegistrar" />
-145-->[com.google.firebase:firebase-perf:20.0.6] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/89ea2658d31ce6bf940a0d5b340051c6/firebase-perf-20.0.6/AndroidManifest.xml:25:17-82
-146            <meta-data
-146-->[com.google.firebase:firebase-config:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/bde5ef9bcc9efac02a552d716c2b5956/firebase-config-21.0.2/AndroidManifest.xml:32:13-34:85
-147                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar"
-147-->[com.google.firebase:firebase-config:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/bde5ef9bcc9efac02a552d716c2b5956/firebase-config-21.0.2/AndroidManifest.xml:33:17-117
-148                android:value="com.google.firebase.components.ComponentRegistrar" />
-148-->[com.google.firebase:firebase-config:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/bde5ef9bcc9efac02a552d716c2b5956/firebase-config-21.0.2/AndroidManifest.xml:34:17-82
-149            <meta-data
-149-->[com.google.android.gms:play-services-measurement-api:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/b325b3b7834ade8e0e48c46589a1a180/play-services-measurement-api-20.1.1/AndroidManifest.xml:31:13-33:85
-150                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
-150-->[com.google.android.gms:play-services-measurement-api:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/b325b3b7834ade8e0e48c46589a1a180/play-services-measurement-api-20.1.1/AndroidManifest.xml:32:17-139
-151                android:value="com.google.firebase.components.ComponentRegistrar" />
-151-->[com.google.android.gms:play-services-measurement-api:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/b325b3b7834ade8e0e48c46589a1a180/play-services-measurement-api-20.1.1/AndroidManifest.xml:33:17-82
-152            <meta-data
-152-->[com.google.firebase:firebase-installations:17.0.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/3de66fcf777392a4a7fb48e46d3509c1/firebase-installations-17.0.1/AndroidManifest.xml:18:13-20:85
-153                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-153-->[com.google.firebase:firebase-installations:17.0.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/3de66fcf777392a4a7fb48e46d3509c1/firebase-installations-17.0.1/AndroidManifest.xml:19:17-127
-154                android:value="com.google.firebase.components.ComponentRegistrar" />
-154-->[com.google.firebase:firebase-installations:17.0.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/3de66fcf777392a4a7fb48e46d3509c1/firebase-installations-17.0.1/AndroidManifest.xml:20:17-82
-155            <meta-data
-155-->[com.google.firebase:firebase-datatransport:18.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/3e4b32c79299c6ac90b0a33f65adb749/firebase-datatransport-18.1.1/AndroidManifest.xml:28:13-30:85
-156                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
-156-->[com.google.firebase:firebase-datatransport:18.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/3e4b32c79299c6ac90b0a33f65adb749/firebase-datatransport-18.1.1/AndroidManifest.xml:29:17-115
-157                android:value="com.google.firebase.components.ComponentRegistrar" />
-157-->[com.google.firebase:firebase-datatransport:18.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/3e4b32c79299c6ac90b0a33f65adb749/firebase-datatransport-18.1.1/AndroidManifest.xml:30:17-82
-158            <meta-data
-158-->[com.google.firebase:firebase-abt:21.0.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/7660938c075f2978e8d11cadd9e6cb41/firebase-abt-21.0.1/AndroidManifest.xml:13:13-15:85
-159                android:name="com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar"
-159-->[com.google.firebase:firebase-abt:21.0.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/7660938c075f2978e8d11cadd9e6cb41/firebase-abt-21.0.1/AndroidManifest.xml:14:17-109
-160                android:value="com.google.firebase.components.ComponentRegistrar" />
-160-->[com.google.firebase:firebase-abt:21.0.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/7660938c075f2978e8d11cadd9e6cb41/firebase-abt-21.0.1/AndroidManifest.xml:15:17-82
-161        </service>
-162
-163        <provider
-163-->[com.google.firebase:firebase-perf:20.0.6] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/89ea2658d31ce6bf940a0d5b340051c6/firebase-perf-20.0.6/AndroidManifest.xml:14:9-18:39
-164            android:name="com.google.firebase.perf.provider.FirebasePerfProvider"
-164-->[com.google.firebase:firebase-perf:20.0.6] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/89ea2658d31ce6bf940a0d5b340051c6/firebase-perf-20.0.6/AndroidManifest.xml:15:13-82
-165            android:authorities="com.buzz.vpn.firebaseperfprovider"
-165-->[com.google.firebase:firebase-perf:20.0.6] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/89ea2658d31ce6bf940a0d5b340051c6/firebase-perf-20.0.6/AndroidManifest.xml:16:13-72
-166            android:exported="false"
-166-->[com.google.firebase:firebase-perf:20.0.6] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/89ea2658d31ce6bf940a0d5b340051c6/firebase-perf-20.0.6/AndroidManifest.xml:17:13-37
-167            android:initOrder="101" />
-167-->[com.google.firebase:firebase-perf:20.0.6] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/89ea2658d31ce6bf940a0d5b340051c6/firebase-perf-20.0.6/AndroidManifest.xml:18:13-36
-168        <provider
-168-->[com.google.firebase:firebase-common:20.1.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/55f8fc47adb27a9f67d1253a1e61c64b/jetified-firebase-common-20.1.0/AndroidManifest.xml:26:9-31:39
-169            android:name="com.google.firebase.provider.FirebaseInitProvider"
-169-->[com.google.firebase:firebase-common:20.1.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/55f8fc47adb27a9f67d1253a1e61c64b/jetified-firebase-common-20.1.0/AndroidManifest.xml:27:13-77
-170            android:authorities="com.buzz.vpn.firebaseinitprovider"
-170-->[com.google.firebase:firebase-common:20.1.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/55f8fc47adb27a9f67d1253a1e61c64b/jetified-firebase-common-20.1.0/AndroidManifest.xml:28:13-72
-171            android:directBootAware="true"
-171-->[com.google.firebase:firebase-common:20.1.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/55f8fc47adb27a9f67d1253a1e61c64b/jetified-firebase-common-20.1.0/AndroidManifest.xml:29:13-43
-172            android:exported="false"
-172-->[com.google.firebase:firebase-common:20.1.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/55f8fc47adb27a9f67d1253a1e61c64b/jetified-firebase-common-20.1.0/AndroidManifest.xml:30:13-37
-173            android:initOrder="100" />
-173-->[com.google.firebase:firebase-common:20.1.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/55f8fc47adb27a9f67d1253a1e61c64b/jetified-firebase-common-20.1.0/AndroidManifest.xml:31:13-36
-174
-175        <activity
-175-->[com.google.android.gms:play-services-base:17.1.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/d54e39abad468393d630917788a5af0f/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
-176            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-176-->[com.google.android.gms:play-services-base:17.1.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/d54e39abad468393d630917788a5af0f/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
-177            android:exported="false"
-177-->[com.google.android.gms:play-services-base:17.1.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/d54e39abad468393d630917788a5af0f/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
-178            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-178-->[com.google.android.gms:play-services-base:17.1.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/d54e39abad468393d630917788a5af0f/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
-179
-180        <receiver
-180-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/d2455ff54f041ea8016ca6f7e293fce6/play-services-measurement-20.1.1/AndroidManifest.xml:29:9-33:20
-181            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-181-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/d2455ff54f041ea8016ca6f7e293fce6/play-services-measurement-20.1.1/AndroidManifest.xml:30:13-85
-182            android:enabled="true"
-182-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/d2455ff54f041ea8016ca6f7e293fce6/play-services-measurement-20.1.1/AndroidManifest.xml:31:13-35
-183            android:exported="false" >
-183-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/d2455ff54f041ea8016ca6f7e293fce6/play-services-measurement-20.1.1/AndroidManifest.xml:32:13-37
-184        </receiver>
-185
-186        <service
-186-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/d2455ff54f041ea8016ca6f7e293fce6/play-services-measurement-20.1.1/AndroidManifest.xml:35:9-38:40
-187            android:name="com.google.android.gms.measurement.AppMeasurementService"
-187-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/d2455ff54f041ea8016ca6f7e293fce6/play-services-measurement-20.1.1/AndroidManifest.xml:36:13-84
-188            android:enabled="true"
-188-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/d2455ff54f041ea8016ca6f7e293fce6/play-services-measurement-20.1.1/AndroidManifest.xml:37:13-35
-189            android:exported="false" />
-189-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/d2455ff54f041ea8016ca6f7e293fce6/play-services-measurement-20.1.1/AndroidManifest.xml:38:13-37
-190        <service
-190-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/d2455ff54f041ea8016ca6f7e293fce6/play-services-measurement-20.1.1/AndroidManifest.xml:39:9-43:72
-191            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-191-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/d2455ff54f041ea8016ca6f7e293fce6/play-services-measurement-20.1.1/AndroidManifest.xml:40:13-87
-192            android:enabled="true"
-192-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/d2455ff54f041ea8016ca6f7e293fce6/play-services-measurement-20.1.1/AndroidManifest.xml:41:13-35
-193            android:exported="false"
-193-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/d2455ff54f041ea8016ca6f7e293fce6/play-services-measurement-20.1.1/AndroidManifest.xml:42:13-37
-194            android:permission="android.permission.BIND_JOB_SERVICE" />
-194-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/d2455ff54f041ea8016ca6f7e293fce6/play-services-measurement-20.1.1/AndroidManifest.xml:43:13-69
-195
-196        <meta-data
-196-->[com.google.android.gms:play-services-basement:18.0.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/1951d4a044614480fcefa08f929cd559/play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
-197            android:name="com.google.android.gms.version"
-197-->[com.google.android.gms:play-services-basement:18.0.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/1951d4a044614480fcefa08f929cd559/play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
-198            android:value="@integer/google_play_services_version" />
-198-->[com.google.android.gms:play-services-basement:18.0.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/1951d4a044614480fcefa08f929cd559/play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
-199
-200        <service
-200-->[com.google.android.datatransport:transport-backend-cct:3.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/6f94318cc5e3f9e1d35004bfd246ad81/jetified-transport-backend-cct-3.1.1/AndroidManifest.xml:29:9-35:19
-201            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
-201-->[com.google.android.datatransport:transport-backend-cct:3.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/6f94318cc5e3f9e1d35004bfd246ad81/jetified-transport-backend-cct-3.1.1/AndroidManifest.xml:30:13-103
-202            android:exported="false" >
-202-->[com.google.android.datatransport:transport-backend-cct:3.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/6f94318cc5e3f9e1d35004bfd246ad81/jetified-transport-backend-cct-3.1.1/AndroidManifest.xml:31:13-37
-203            <meta-data
-203-->[com.google.android.datatransport:transport-backend-cct:3.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/6f94318cc5e3f9e1d35004bfd246ad81/jetified-transport-backend-cct-3.1.1/AndroidManifest.xml:32:13-34:39
-204                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
-204-->[com.google.android.datatransport:transport-backend-cct:3.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/6f94318cc5e3f9e1d35004bfd246ad81/jetified-transport-backend-cct-3.1.1/AndroidManifest.xml:33:17-94
-205                android:value="cct" />
-205-->[com.google.android.datatransport:transport-backend-cct:3.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/6f94318cc5e3f9e1d35004bfd246ad81/jetified-transport-backend-cct-3.1.1/AndroidManifest.xml:34:17-36
-206        </service>
-207        <service
-207-->[com.google.android.datatransport:transport-runtime:3.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/40026e495562630ebc25b3a7e03f6ff2/transport-runtime-3.1.1/AndroidManifest.xml:26:9-30:19
-208            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
-208-->[com.google.android.datatransport:transport-runtime:3.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/40026e495562630ebc25b3a7e03f6ff2/transport-runtime-3.1.1/AndroidManifest.xml:27:13-117
-209            android:exported="false"
-209-->[com.google.android.datatransport:transport-runtime:3.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/40026e495562630ebc25b3a7e03f6ff2/transport-runtime-3.1.1/AndroidManifest.xml:28:13-37
-210            android:permission="android.permission.BIND_JOB_SERVICE" >
-210-->[com.google.android.datatransport:transport-runtime:3.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/40026e495562630ebc25b3a7e03f6ff2/transport-runtime-3.1.1/AndroidManifest.xml:29:13-69
-211        </service>
-212
-213        <receiver
-213-->[com.google.android.datatransport:transport-runtime:3.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/40026e495562630ebc25b3a7e03f6ff2/transport-runtime-3.1.1/AndroidManifest.xml:32:9-34:40
-214            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
-214-->[com.google.android.datatransport:transport-runtime:3.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/40026e495562630ebc25b3a7e03f6ff2/transport-runtime-3.1.1/AndroidManifest.xml:33:13-132
-215            android:exported="false" />
-215-->[com.google.android.datatransport:transport-runtime:3.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/40026e495562630ebc25b3a7e03f6ff2/transport-runtime-3.1.1/AndroidManifest.xml:34:13-37
-216    </application>
-217
-218</manifest>
+35        android:theme="@style/AppTheme" >
+35-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:24:9-40
+36        <activity
+36-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:25:9-27:40
+37            android:name="com.buzz.vpn.homeOff"
+37-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:26:13-36
+38            android:exported="false" />
+38-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:27:13-37
+39        <activity
+39-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:28:9-30:40
+40            android:name="com.buzz.vpn.home"
+40-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:29:13-33
+41            android:exported="false" />
+41-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:30:13-37
+42        <activity
+42-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:31:9-33:40
+43            android:name="com.buzz.vpn.learning"
+43-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:32:13-37
+44            android:exported="false" />
+44-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:33:13-37
+45        <activity
+45-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:34:9-36:40
+46            android:name="com.buzz.vpn.blockedAdds"
+46-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:35:13-40
+47            android:exported="false" />
+47-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:36:13-37
+48        <activity
+48-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:37:9-39:40
+49            android:name="com.buzz.vpn.landing_page"
+49-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:38:13-41
+50            android:exported="false" />
+50-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:39:13-37
+51        <activity
+51-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:40:9-42:40
+52            android:name="com.buzz.vpn.quiz"
+52-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:41:13-33
+53            android:exported="false" />
+53-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:42:13-37
+54        <activity
+54-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:43:9-51:20
+55            android:name="com.buzz.vpn.userLogin_activity"
+55-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:44:13-47
+56            android:exported="true" >
+56-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:45:13-36
+57            <intent-filter>
+57-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:46:13-50:29
+58                <action android:name="android.intent.action.MAIN" />
+58-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:47:17-69
+58-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:47:25-66
+59
+60                <category android:name="android.intent.category.LAUNCHER" />
+60-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:49:17-77
+60-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:49:27-74
+61            </intent-filter>
+62        </activity>
+63        <activity
+63-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:52:9-70:20
+64            android:name="com.buzz.vpn.MainActivity"
+64-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:53:13-41
+65            android:launchMode="singleTop"
+65-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:54:13-43
+66            android:screenOrientation="portrait" >
+66-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:55:13-49
+67            <intent-filter>
+67-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:56:13-58:29
+68                <category android:name="android.intent.category.LAUNCHER" />
+68-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:49:17-77
+68-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:49:27-74
+69            </intent-filter>
+70            <intent-filter android:label="@string/app_name" >
+70-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:59:13-69:29
+70-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:59:28-60
+71                <action android:name="android.intent.action.VIEW" />
+71-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:60:17-69
+71-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:60:25-66
+72
+73                <category android:name="android.intent.category.DEFAULT" />
+73-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:62:17-76
+73-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:62:27-73
+74                <category android:name="android.intent.category.BROWSABLE" />
+74-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:63:17-78
+74-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:63:27-75
+75
+76                <data
+76-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:65:17-68:45
+77                    android:host="gayanvoice.github.com"
+77-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:66:21-57
+78                    android:pathPrefix="/"
+78-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:67:21-43
+79                    android:scheme="http" />
+79-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:68:21-42
+80            </intent-filter>
+81        </activity>
+82        <activity
+82-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:71:9-81:20
+83            android:name="de.blinkt.openvpn.LaunchVPN"
+83-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:72:13-55
+84            android:excludeFromRecents="true"
+84-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:73:13-46
+85            android:label="@string/vpn_launch_title" >
+85-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:74:13-53
+86            <intent-filter>
+86-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:76:13-80:29
+87                <action android:name="android.intent.action.MAIN" />
+87-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:47:17-69
+87-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:47:25-66
+88
+89                <category android:name="android.intent.category.DEFAULT" />
+89-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:62:17-76
+89-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:62:27-73
+90            </intent-filter>
+91        </activity>
+92        <activity android:name="com.buzz.vpn.ServerActivity" />
+92-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:82:9-52
+92-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:82:19-49
+93        <activity android:name="com.buzz.vpn.UsageActivity" />
+93-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:83:9-51
+93-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:83:19-48
+94        <activity android:name="com.buzz.vpn.ContactActivity" />
+94-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:84:9-53
+94-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:84:19-50
+95        <activity android:name="com.buzz.vpn.WelcomeActivity" />
+95-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:85:9-53
+95-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:85:19-50
+96        <activity android:name="com.buzz.vpn.FAQActivity" />
+96-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:86:9-49
+96-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:86:19-46
+97        <activity android:name="com.buzz.vpn.ReviewActivity" />
+97-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:87:9-52
+97-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:87:19-49
+98        <activity
+98-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/ef02bd41fde0f56e9cd4943e42158c49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:27:9-44:20
+99            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+99-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/ef02bd41fde0f56e9cd4943e42158c49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:28:13-80
+100            android:excludeFromRecents="true"
+100-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/ef02bd41fde0f56e9cd4943e42158c49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:29:13-46
+101            android:exported="true"
+101-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/ef02bd41fde0f56e9cd4943e42158c49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:30:13-36
+102            android:launchMode="singleTask"
+102-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/ef02bd41fde0f56e9cd4943e42158c49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:31:13-44
+103            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+103-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/ef02bd41fde0f56e9cd4943e42158c49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:32:13-72
+104            <intent-filter>
+104-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/ef02bd41fde0f56e9cd4943e42158c49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:33:13-43:29
+105                <action android:name="android.intent.action.VIEW" />
+105-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:60:17-69
+105-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:60:25-66
+106
+107                <category android:name="android.intent.category.DEFAULT" />
+107-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:62:17-76
+107-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:62:27-73
+108                <category android:name="android.intent.category.BROWSABLE" />
+108-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:63:17-78
+108-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:63:27-75
+109
+110                <data
+110-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:65:17-68:45
+111                    android:host="firebase.auth"
+111-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:66:21-57
+112                    android:path="/"
+113                    android:scheme="genericidp" />
+113-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:68:21-42
+114            </intent-filter>
+115        </activity>
+116        <activity
+116-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/ef02bd41fde0f56e9cd4943e42158c49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:45:9-62:20
+117            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+117-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/ef02bd41fde0f56e9cd4943e42158c49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:46:13-79
+118            android:excludeFromRecents="true"
+118-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/ef02bd41fde0f56e9cd4943e42158c49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:47:13-46
+119            android:exported="true"
+119-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/ef02bd41fde0f56e9cd4943e42158c49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:48:13-36
+120            android:launchMode="singleTask"
+120-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/ef02bd41fde0f56e9cd4943e42158c49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:49:13-44
+121            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+121-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/ef02bd41fde0f56e9cd4943e42158c49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:50:13-72
+122            <intent-filter>
+122-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/ef02bd41fde0f56e9cd4943e42158c49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:51:13-61:29
+123                <action android:name="android.intent.action.VIEW" />
+123-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:60:17-69
+123-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:60:25-66
+124
+125                <category android:name="android.intent.category.DEFAULT" />
+125-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:62:17-76
+125-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:62:27-73
+126                <category android:name="android.intent.category.BROWSABLE" />
+126-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:63:17-78
+126-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:63:27-75
+127
+128                <data
+128-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:65:17-68:45
+129                    android:host="firebase.auth"
+129-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:66:21-57
+130                    android:path="/"
+131                    android:scheme="recaptcha" />
+131-->/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/AndroidManifest.xml:68:21-42
+132            </intent-filter>
+133        </activity>
+134
+135        <service
+135-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/ef02bd41fde0f56e9cd4943e42158c49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:64:9-70:19
+136            android:name="com.google.firebase.components.ComponentDiscoveryService"
+136-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/ef02bd41fde0f56e9cd4943e42158c49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:65:13-84
+137            android:directBootAware="true"
+137-->[com.google.firebase:firebase-common:20.1.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/0ec0bf3632d3bfa6e625886f0b2d0dec/jetified-firebase-common-20.1.0/AndroidManifest.xml:35:13-43
+138            android:exported="false" >
+138-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/ef02bd41fde0f56e9cd4943e42158c49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:66:13-37
+139            <meta-data
+139-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/ef02bd41fde0f56e9cd4943e42158c49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:67:13-69:85
+140                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+140-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/ef02bd41fde0f56e9cd4943e42158c49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:68:17-109
+141                android:value="com.google.firebase.components.ComponentRegistrar" />
+141-->[com.google.firebase:firebase-auth:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/ef02bd41fde0f56e9cd4943e42158c49/jetified-firebase-auth-21.0.2/AndroidManifest.xml:69:17-82
+142            <meta-data
+142-->[com.google.firebase:firebase-perf:20.0.6] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/2df676f417d9cc5bc50fb9a0b12ef813/jetified-firebase-perf-20.0.6/AndroidManifest.xml:23:13-25:85
+143                android:name="com.google.firebase.components:com.google.firebase.perf.FirebasePerfRegistrar"
+143-->[com.google.firebase:firebase-perf:20.0.6] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/2df676f417d9cc5bc50fb9a0b12ef813/jetified-firebase-perf-20.0.6/AndroidManifest.xml:24:17-109
+144                android:value="com.google.firebase.components.ComponentRegistrar" />
+144-->[com.google.firebase:firebase-perf:20.0.6] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/2df676f417d9cc5bc50fb9a0b12ef813/jetified-firebase-perf-20.0.6/AndroidManifest.xml:25:17-82
+145            <meta-data
+145-->[com.google.firebase:firebase-config:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/e2e29b2b68dc08dd0593aa8501ed3af2/jetified-firebase-config-21.0.2/AndroidManifest.xml:32:13-34:85
+146                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar"
+146-->[com.google.firebase:firebase-config:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/e2e29b2b68dc08dd0593aa8501ed3af2/jetified-firebase-config-21.0.2/AndroidManifest.xml:33:17-117
+147                android:value="com.google.firebase.components.ComponentRegistrar" />
+147-->[com.google.firebase:firebase-config:21.0.2] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/e2e29b2b68dc08dd0593aa8501ed3af2/jetified-firebase-config-21.0.2/AndroidManifest.xml:34:17-82
+148            <meta-data
+148-->[com.google.android.gms:play-services-measurement-api:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/8205989d3a2fd70f679345614dd88122/jetified-play-services-measurement-api-20.1.1/AndroidManifest.xml:31:13-33:85
+149                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+149-->[com.google.android.gms:play-services-measurement-api:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/8205989d3a2fd70f679345614dd88122/jetified-play-services-measurement-api-20.1.1/AndroidManifest.xml:32:17-139
+150                android:value="com.google.firebase.components.ComponentRegistrar" />
+150-->[com.google.android.gms:play-services-measurement-api:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/8205989d3a2fd70f679345614dd88122/jetified-play-services-measurement-api-20.1.1/AndroidManifest.xml:33:17-82
+151            <meta-data
+151-->[com.google.firebase:firebase-installations:17.0.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/aff0283cc73c36dce1235f3b59855b22/jetified-firebase-installations-17.0.1/AndroidManifest.xml:18:13-20:85
+152                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+152-->[com.google.firebase:firebase-installations:17.0.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/aff0283cc73c36dce1235f3b59855b22/jetified-firebase-installations-17.0.1/AndroidManifest.xml:19:17-127
+153                android:value="com.google.firebase.components.ComponentRegistrar" />
+153-->[com.google.firebase:firebase-installations:17.0.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/aff0283cc73c36dce1235f3b59855b22/jetified-firebase-installations-17.0.1/AndroidManifest.xml:20:17-82
+154            <meta-data
+154-->[com.google.firebase:firebase-datatransport:18.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/c168bfdb8dd3c3a12be827ecadfdc9d5/jetified-firebase-datatransport-18.1.1/AndroidManifest.xml:28:13-30:85
+155                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+155-->[com.google.firebase:firebase-datatransport:18.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/c168bfdb8dd3c3a12be827ecadfdc9d5/jetified-firebase-datatransport-18.1.1/AndroidManifest.xml:29:17-115
+156                android:value="com.google.firebase.components.ComponentRegistrar" />
+156-->[com.google.firebase:firebase-datatransport:18.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/c168bfdb8dd3c3a12be827ecadfdc9d5/jetified-firebase-datatransport-18.1.1/AndroidManifest.xml:30:17-82
+157            <meta-data
+157-->[com.google.firebase:firebase-abt:21.0.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/5cdca1e6f42ef8d0546cab48718b79f6/jetified-firebase-abt-21.0.1/AndroidManifest.xml:13:13-15:85
+158                android:name="com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar"
+158-->[com.google.firebase:firebase-abt:21.0.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/5cdca1e6f42ef8d0546cab48718b79f6/jetified-firebase-abt-21.0.1/AndroidManifest.xml:14:17-109
+159                android:value="com.google.firebase.components.ComponentRegistrar" />
+159-->[com.google.firebase:firebase-abt:21.0.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/5cdca1e6f42ef8d0546cab48718b79f6/jetified-firebase-abt-21.0.1/AndroidManifest.xml:15:17-82
+160        </service>
+161
+162        <provider
+162-->[com.google.firebase:firebase-perf:20.0.6] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/2df676f417d9cc5bc50fb9a0b12ef813/jetified-firebase-perf-20.0.6/AndroidManifest.xml:14:9-18:39
+163            android:name="com.google.firebase.perf.provider.FirebasePerfProvider"
+163-->[com.google.firebase:firebase-perf:20.0.6] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/2df676f417d9cc5bc50fb9a0b12ef813/jetified-firebase-perf-20.0.6/AndroidManifest.xml:15:13-82
+164            android:authorities="com.buzz.vpn.firebaseperfprovider"
+164-->[com.google.firebase:firebase-perf:20.0.6] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/2df676f417d9cc5bc50fb9a0b12ef813/jetified-firebase-perf-20.0.6/AndroidManifest.xml:16:13-72
+165            android:exported="false"
+165-->[com.google.firebase:firebase-perf:20.0.6] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/2df676f417d9cc5bc50fb9a0b12ef813/jetified-firebase-perf-20.0.6/AndroidManifest.xml:17:13-37
+166            android:initOrder="101" />
+166-->[com.google.firebase:firebase-perf:20.0.6] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/2df676f417d9cc5bc50fb9a0b12ef813/jetified-firebase-perf-20.0.6/AndroidManifest.xml:18:13-36
+167        <provider
+167-->[com.google.firebase:firebase-common:20.1.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/0ec0bf3632d3bfa6e625886f0b2d0dec/jetified-firebase-common-20.1.0/AndroidManifest.xml:26:9-31:39
+168            android:name="com.google.firebase.provider.FirebaseInitProvider"
+168-->[com.google.firebase:firebase-common:20.1.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/0ec0bf3632d3bfa6e625886f0b2d0dec/jetified-firebase-common-20.1.0/AndroidManifest.xml:27:13-77
+169            android:authorities="com.buzz.vpn.firebaseinitprovider"
+169-->[com.google.firebase:firebase-common:20.1.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/0ec0bf3632d3bfa6e625886f0b2d0dec/jetified-firebase-common-20.1.0/AndroidManifest.xml:28:13-72
+170            android:directBootAware="true"
+170-->[com.google.firebase:firebase-common:20.1.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/0ec0bf3632d3bfa6e625886f0b2d0dec/jetified-firebase-common-20.1.0/AndroidManifest.xml:29:13-43
+171            android:exported="false"
+171-->[com.google.firebase:firebase-common:20.1.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/0ec0bf3632d3bfa6e625886f0b2d0dec/jetified-firebase-common-20.1.0/AndroidManifest.xml:30:13-37
+172            android:initOrder="100" />
+172-->[com.google.firebase:firebase-common:20.1.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/0ec0bf3632d3bfa6e625886f0b2d0dec/jetified-firebase-common-20.1.0/AndroidManifest.xml:31:13-36
+173
+174        <activity
+174-->[com.google.android.gms:play-services-base:17.1.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/cdde69aac863ec48a03f4b0fe220fb81/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+175            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+175-->[com.google.android.gms:play-services-base:17.1.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/cdde69aac863ec48a03f4b0fe220fb81/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+176            android:exported="false"
+176-->[com.google.android.gms:play-services-base:17.1.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/cdde69aac863ec48a03f4b0fe220fb81/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+177            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+177-->[com.google.android.gms:play-services-base:17.1.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/cdde69aac863ec48a03f4b0fe220fb81/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+178
+179        <receiver
+179-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/4fdeadbf98c36c585af018db1a2e417a/jetified-play-services-measurement-20.1.1/AndroidManifest.xml:29:9-33:20
+180            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+180-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/4fdeadbf98c36c585af018db1a2e417a/jetified-play-services-measurement-20.1.1/AndroidManifest.xml:30:13-85
+181            android:enabled="true"
+181-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/4fdeadbf98c36c585af018db1a2e417a/jetified-play-services-measurement-20.1.1/AndroidManifest.xml:31:13-35
+182            android:exported="false" >
+182-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/4fdeadbf98c36c585af018db1a2e417a/jetified-play-services-measurement-20.1.1/AndroidManifest.xml:32:13-37
+183        </receiver>
+184
+185        <service
+185-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/4fdeadbf98c36c585af018db1a2e417a/jetified-play-services-measurement-20.1.1/AndroidManifest.xml:35:9-38:40
+186            android:name="com.google.android.gms.measurement.AppMeasurementService"
+186-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/4fdeadbf98c36c585af018db1a2e417a/jetified-play-services-measurement-20.1.1/AndroidManifest.xml:36:13-84
+187            android:enabled="true"
+187-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/4fdeadbf98c36c585af018db1a2e417a/jetified-play-services-measurement-20.1.1/AndroidManifest.xml:37:13-35
+188            android:exported="false" />
+188-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/4fdeadbf98c36c585af018db1a2e417a/jetified-play-services-measurement-20.1.1/AndroidManifest.xml:38:13-37
+189        <service
+189-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/4fdeadbf98c36c585af018db1a2e417a/jetified-play-services-measurement-20.1.1/AndroidManifest.xml:39:9-43:72
+190            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+190-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/4fdeadbf98c36c585af018db1a2e417a/jetified-play-services-measurement-20.1.1/AndroidManifest.xml:40:13-87
+191            android:enabled="true"
+191-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/4fdeadbf98c36c585af018db1a2e417a/jetified-play-services-measurement-20.1.1/AndroidManifest.xml:41:13-35
+192            android:exported="false"
+192-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/4fdeadbf98c36c585af018db1a2e417a/jetified-play-services-measurement-20.1.1/AndroidManifest.xml:42:13-37
+193            android:permission="android.permission.BIND_JOB_SERVICE" />
+193-->[com.google.android.gms:play-services-measurement:20.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/4fdeadbf98c36c585af018db1a2e417a/jetified-play-services-measurement-20.1.1/AndroidManifest.xml:43:13-69
+194
+195        <meta-data
+195-->[com.google.android.gms:play-services-basement:18.0.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/51cb3c708dfff9fb1637fd4842017f77/jetified-play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+196            android:name="com.google.android.gms.version"
+196-->[com.google.android.gms:play-services-basement:18.0.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/51cb3c708dfff9fb1637fd4842017f77/jetified-play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+197            android:value="@integer/google_play_services_version" />
+197-->[com.google.android.gms:play-services-basement:18.0.0] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/51cb3c708dfff9fb1637fd4842017f77/jetified-play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+198
+199        <service
+199-->[com.google.android.datatransport:transport-backend-cct:3.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/682a7616e6bdc992782a6ce9b810a9ad/jetified-transport-backend-cct-3.1.1/AndroidManifest.xml:29:9-35:19
+200            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+200-->[com.google.android.datatransport:transport-backend-cct:3.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/682a7616e6bdc992782a6ce9b810a9ad/jetified-transport-backend-cct-3.1.1/AndroidManifest.xml:30:13-103
+201            android:exported="false" >
+201-->[com.google.android.datatransport:transport-backend-cct:3.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/682a7616e6bdc992782a6ce9b810a9ad/jetified-transport-backend-cct-3.1.1/AndroidManifest.xml:31:13-37
+202            <meta-data
+202-->[com.google.android.datatransport:transport-backend-cct:3.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/682a7616e6bdc992782a6ce9b810a9ad/jetified-transport-backend-cct-3.1.1/AndroidManifest.xml:32:13-34:39
+203                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+203-->[com.google.android.datatransport:transport-backend-cct:3.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/682a7616e6bdc992782a6ce9b810a9ad/jetified-transport-backend-cct-3.1.1/AndroidManifest.xml:33:17-94
+204                android:value="cct" />
+204-->[com.google.android.datatransport:transport-backend-cct:3.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/682a7616e6bdc992782a6ce9b810a9ad/jetified-transport-backend-cct-3.1.1/AndroidManifest.xml:34:17-36
+205        </service>
+206        <service
+206-->[com.google.android.datatransport:transport-runtime:3.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/27a3693bbe19bb3a967bfe520af2a9e2/jetified-transport-runtime-3.1.1/AndroidManifest.xml:26:9-30:19
+207            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+207-->[com.google.android.datatransport:transport-runtime:3.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/27a3693bbe19bb3a967bfe520af2a9e2/jetified-transport-runtime-3.1.1/AndroidManifest.xml:27:13-117
+208            android:exported="false"
+208-->[com.google.android.datatransport:transport-runtime:3.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/27a3693bbe19bb3a967bfe520af2a9e2/jetified-transport-runtime-3.1.1/AndroidManifest.xml:28:13-37
+209            android:permission="android.permission.BIND_JOB_SERVICE" >
+209-->[com.google.android.datatransport:transport-runtime:3.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/27a3693bbe19bb3a967bfe520af2a9e2/jetified-transport-runtime-3.1.1/AndroidManifest.xml:29:13-69
+210        </service>
+211
+212        <receiver
+212-->[com.google.android.datatransport:transport-runtime:3.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/27a3693bbe19bb3a967bfe520af2a9e2/jetified-transport-runtime-3.1.1/AndroidManifest.xml:32:9-34:40
+213            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+213-->[com.google.android.datatransport:transport-runtime:3.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/27a3693bbe19bb3a967bfe520af2a9e2/jetified-transport-runtime-3.1.1/AndroidManifest.xml:33:13-132
+214            android:exported="false" />
+214-->[com.google.android.datatransport:transport-runtime:3.1.1] /Users/paulhww/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/27a3693bbe19bb3a967bfe520af2a9e2/jetified-transport-runtime-3.1.1/AndroidManifest.xml:34:13-37
+215    </application>
+216
+217</manifest>
