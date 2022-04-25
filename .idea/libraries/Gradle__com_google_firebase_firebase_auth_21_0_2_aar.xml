@@ -1,9 +1,7 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.firebase:firebase-auth:21.0.2@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/e0eff010def6c0791cc2b212d274242f/jetified-firebase-auth-21.0.2/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/e0eff010def6c0791cc2b212d274242f/jetified-firebase-auth-21.0.2/res" />
-      <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/e0eff010def6c0791cc2b212d274242f/jetified-firebase-auth-21.0.2/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/de46a4d6c650ad78b2fe6b1e0be07537/jetified-firebase-auth-21.0.2/res" />
       <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/19c5190c751f5abc9de310886a7a1cfd/jetified-firebase-auth-21.0.2/res" />
       <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/070bb6dfd0e1bf27a4378a97cc5c3f44/jetified-firebase-auth-21.0.2/AndroidManifest.xml" />
@@ -21,12 +19,19 @@
       <root url="jar://$USER_HOME$/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/542da8ce708e086c682e36f31c548b49/jetified-firebase-auth-21.0.2/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/542da8ce708e086c682e36f31c548b49/jetified-firebase-auth-21.0.2/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/542da8ce708e086c682e36f31c548b49/jetified-firebase-auth-21.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/de46a4d6c650ad78b2fe6b1e0be07537/jetified-firebase-auth-21.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/19c5190c751f5abc9de310886a7a1cfd/jetified-firebase-auth-21.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/7723ea7b73da7ce319e2518121bd2601/jetified-firebase-auth-21.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/92e3dd1d5ab44ccb5808525774434505/jetified-firebase-auth-21.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/00ee191487ff13ac2e8df84863287b02/jetified-firebase-auth-21.0.2/res" />
+      <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/e0eff010def6c0791cc2b212d274242f/jetified-firebase-auth-21.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/e0eff010def6c0791cc2b212d274242f/jetified-firebase-auth-21.0.2/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.google.firebase/firebase-auth/21.0.2/bbf7ee26b22b41d9fd1802c7618feb451f3a9c90/firebase-auth-21.0.2-javadoc.jar!/" />
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/modules-2/files-2.1/com.google.firebase/firebase-auth/21.0.2/bbf7ee26b22b41d9fd1802c7618feb451f3a9c90/firebase-auth-21.0.2-javadoc.jar!/" />
       <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-auth/21.0.2/bbf7ee26b22b41d9fd1802c7618feb451f3a9c90/firebase-auth-21.0.2-javadoc.jar!/" />
       <root url="jar://$USER_HOME$/Downloads/gradle-5.6.1/caches/modules-2/files-2.1/com.google.firebase/firebase-auth/21.0.2/bbf7ee26b22b41d9fd1802c7618feb451f3a9c90/firebase-auth-21.0.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.google.firebase/firebase-auth/21.0.2/bbf7ee26b22b41d9fd1802c7618feb451f3a9c90/firebase-auth-21.0.2-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES />
   </library>

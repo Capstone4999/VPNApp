@@ -1,15 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: com.airbnb.android:lottie:3.0.7@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/9f148fe2ee95d1cecf9002e16302ea29/lottie-3.0.7/annotations.zip!/" />
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/ca3eda3fe41d5397ae3e1106e5a5b901/lottie-3.0.7/annotations.zip!/" />
       <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/f0c9f53e8b74c9fd392c501a522ab945/jetified-lottie-3.0.7/annotations.zip!/" />
       <root url="jar://$USER_HOME$/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/9f148fe2ee95d1cecf9002e16302ea29/lottie-3.0.7/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/9f148fe2ee95d1cecf9002e16302ea29/lottie-3.0.7/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/9f148fe2ee95d1cecf9002e16302ea29/lottie-3.0.7/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/9f148fe2ee95d1cecf9002e16302ea29/lottie-3.0.7/res" />
-      <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/9f148fe2ee95d1cecf9002e16302ea29/lottie-3.0.7/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/ca3eda3fe41d5397ae3e1106e5a5b901/lottie-3.0.7/AndroidManifest.xml" />
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/ca3eda3fe41d5397ae3e1106e5a5b901/lottie-3.0.7/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/ca3eda3fe41d5397ae3e1106e5a5b901/lottie-3.0.7/res" />
@@ -19,18 +16,21 @@
       <root url="file://$USER_HOME$/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/9f148fe2ee95d1cecf9002e16302ea29/lottie-3.0.7/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/9f148fe2ee95d1cecf9002e16302ea29/lottie-3.0.7/res" />
       <root url="jar://$USER_HOME$/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/9f148fe2ee95d1cecf9002e16302ea29/lottie-3.0.7/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/9f148fe2ee95d1cecf9002e16302ea29/lottie-3.0.7/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/9f148fe2ee95d1cecf9002e16302ea29/lottie-3.0.7/res" />
+      <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/9f148fe2ee95d1cecf9002e16302ea29/lottie-3.0.7/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.airbnb.android/lottie/3.0.7/580fd0fe486848fbbd165865673acca5a7565de0/lottie-3.0.7-javadoc.jar!/" />
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/modules-2/files-2.1/com.airbnb.android/lottie/3.0.7/580fd0fe486848fbbd165865673acca5a7565de0/lottie-3.0.7-javadoc.jar!/" />
       <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.airbnb.android/lottie/3.0.7/580fd0fe486848fbbd165865673acca5a7565de0/lottie-3.0.7-javadoc.jar!/" />
       <root url="jar://$USER_HOME$/Downloads/gradle-5.6.1/caches/modules-2/files-2.1/com.airbnb.android/lottie/3.0.7/580fd0fe486848fbbd165865673acca5a7565de0/lottie-3.0.7-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.airbnb.android/lottie/3.0.7/580fd0fe486848fbbd165865673acca5a7565de0/lottie-3.0.7-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.airbnb.android/lottie/3.0.7/76ee19f80c682e9301b8a2986394f7778a3326f7/lottie-3.0.7-sources.jar!/" />
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/modules-2/files-2.1/com.airbnb.android/lottie/3.0.7/76ee19f80c682e9301b8a2986394f7778a3326f7/lottie-3.0.7-sources.jar!/" />
       <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.airbnb.android/lottie/3.0.7/76ee19f80c682e9301b8a2986394f7778a3326f7/lottie-3.0.7-sources.jar!/" />
       <root url="jar://$USER_HOME$/Downloads/gradle-5.6.1/caches/modules-2/files-2.1/com.airbnb.android/lottie/3.0.7/76ee19f80c682e9301b8a2986394f7778a3326f7/lottie-3.0.7-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.airbnb.android/lottie/3.0.7/76ee19f80c682e9301b8a2986394f7778a3326f7/lottie-3.0.7-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

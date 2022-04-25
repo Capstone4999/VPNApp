@@ -1,9 +1,7 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.firebase:firebase-config:21.0.2@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/bde5ef9bcc9efac02a552d716c2b5956/firebase-config-21.0.2/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/bde5ef9bcc9efac02a552d716c2b5956/firebase-config-21.0.2/res" />
-      <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/bde5ef9bcc9efac02a552d716c2b5956/firebase-config-21.0.2/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/bde5ef9bcc9efac02a552d716c2b5956/firebase-config-21.0.2/res" />
       <root url="file://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/44ada220aed04395112e1871d5bbcc1c/firebase-config-21.0.2/res" />
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/7dedece9d8ac0d8a439bba318205bd48/firebase-config-21.0.2/jars/classes.jar!/" />
@@ -21,18 +19,25 @@
       <root url="jar://$USER_HOME$/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/bde5ef9bcc9efac02a552d716c2b5956/firebase-config-21.0.2/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/bde5ef9bcc9efac02a552d716c2b5956/firebase-config-21.0.2/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/bde5ef9bcc9efac02a552d716c2b5956/firebase-config-21.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bde5ef9bcc9efac02a552d716c2b5956/firebase-config-21.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/44ada220aed04395112e1871d5bbcc1c/firebase-config-21.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/a20c90e4e7d2890e789b7a1abc1314c9/firebase-config-21.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/53ea7713c80587d1fd34ebbf8227b7a6/firebase-config-21.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/233067c569eb56e4a20dc15392219f9e/firebase-config-21.0.2/res" />
+      <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/bde5ef9bcc9efac02a552d716c2b5956/firebase-config-21.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/bde5ef9bcc9efac02a552d716c2b5956/firebase-config-21.0.2/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.google.firebase/firebase-config/21.0.2/54075569865466c9ff854134a80f313c373c7da7/firebase-config-21.0.2-javadoc.jar!/" />
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/modules-2/files-2.1/com.google.firebase/firebase-config/21.0.2/54075569865466c9ff854134a80f313c373c7da7/firebase-config-21.0.2-javadoc.jar!/" />
       <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-config/21.0.2/54075569865466c9ff854134a80f313c373c7da7/firebase-config-21.0.2-javadoc.jar!/" />
       <root url="jar://$USER_HOME$/Downloads/gradle-5.6.1/caches/modules-2/files-2.1/com.google.firebase/firebase-config/21.0.2/54075569865466c9ff854134a80f313c373c7da7/firebase-config-21.0.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.google.firebase/firebase-config/21.0.2/54075569865466c9ff854134a80f313c373c7da7/firebase-config-21.0.2-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.google.firebase/firebase-config/21.0.2/f2d5b7fe562fbd5c425eb89f01d281fdb8b80a8d/firebase-config-21.0.2-sources.jar!/" />
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/modules-2/files-2.1/com.google.firebase/firebase-config/21.0.2/f2d5b7fe562fbd5c425eb89f01d281fdb8b80a8d/firebase-config-21.0.2-sources.jar!/" />
       <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-config/21.0.2/f2d5b7fe562fbd5c425eb89f01d281fdb8b80a8d/firebase-config-21.0.2-sources.jar!/" />
       <root url="jar://$USER_HOME$/Downloads/gradle-5.6.1/caches/modules-2/files-2.1/com.google.firebase/firebase-config/21.0.2/f2d5b7fe562fbd5c425eb89f01d281fdb8b80a8d/firebase-config-21.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.google.firebase/firebase-config/21.0.2/f2d5b7fe562fbd5c425eb89f01d281fdb8b80a8d/firebase-config-21.0.2-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

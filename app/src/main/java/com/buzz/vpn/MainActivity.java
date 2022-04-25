@@ -22,18 +22,14 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.core.content.ContextCompat;
-
 import com.airbnb.lottie.LottieAnimationView;
 import com.google.firebase.analytics.FirebaseAnalytics;
-
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
-
 import java.io.BufferedReader;
 import java.io.ByteArrayInputStream;
 import java.io.InputStream;
@@ -42,7 +38,6 @@ import java.nio.charset.Charset;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
-
 import de.blinkt.openvpn.LaunchVPN;
 import de.blinkt.openvpn.VpnProfile;
 import de.blinkt.openvpn.core.App;
@@ -313,7 +308,7 @@ public class MainActivity extends AppCompatActivity implements VpnStatus.ByteCou
                                             }
                                         }, 1000);
 
-                                        startAnimation(MainActivity.this, R.id.la_animation, R.anim.fade_in_1000, true);
+                                        //startAnimation(MainActivity.this, R.id.la_animation, R.anim.fade_in_1000, true);
                                         la_animation.cancelAnimation();
                                         la_animation.setAnimation(R.raw.conneting);
                                         la_animation.playAnimation();
@@ -379,7 +374,7 @@ public class MainActivity extends AppCompatActivity implements VpnStatus.ByteCou
                                                             handlerToday.postDelayed(new Runnable() {
                                                                 @Override
                                                                 public void run() {
-                                                                    startAnimation(MainActivity.this, R.id.ll_main_data, R.anim.slide_down_800, false);
+                                                                    //startAnimation(MainActivity.this, R.id.ll_main_data, R.anim.slide_down_800, false);
                                                                 }
                                                             }, 500);
 
@@ -387,7 +382,7 @@ public class MainActivity extends AppCompatActivity implements VpnStatus.ByteCou
                                                             handlerData.postDelayed(new Runnable() {
                                                                 @Override
                                                                 public void run() {
-                                                                    startAnimation(MainActivity.this, R.id.ll_main_today, R.anim.slide_up_800, true);
+                                                                    //startAnimation(MainActivity.this, R.id.ll_main_today, R.anim.slide_up_800, true);
                                                                 }
                                                             }, 1000);
 
@@ -516,6 +511,7 @@ public class MainActivity extends AppCompatActivity implements VpnStatus.ByteCou
         // ui refresh
         thread = new Thread() {
             boolean ShowData = true;
+            //boolean ShowAnimation = false;
             boolean ShowAnimation = true;
 
             @Override
@@ -601,7 +597,7 @@ public class MainActivity extends AppCompatActivity implements VpnStatus.ByteCou
                                         iv_servers.setImageResource(R.drawable.ic_flag_vietnam);
                                         break;
                                     case "unitedstates":
-                                        iv_servers.setImageResource(R.drawable.ic_flag_united_states);
+                                        //iv_servers.setImageResource(R.drawable.ic_flag_united_states);
                                         break;
                                     case "unitedkingdom":
                                         iv_servers.setImageResource(R.drawable.ic_flag_united_kingdom);
@@ -640,6 +636,7 @@ public class MainActivity extends AppCompatActivity implements VpnStatus.ByteCou
                                         iv_servers.setImageResource(R.drawable.ic_flag_italy);
                                         break;
                                     default:
+                                        //iv_servers.setImageResource(R.drawable.ic_flag_unknown_mali);
                                         iv_servers.setImageResource(R.drawable.ic_flag_united_states);
                                         break;
 
@@ -1045,8 +1042,8 @@ public class MainActivity extends AppCompatActivity implements VpnStatus.ByteCou
         } else {
             Element.setVisibility(View.INVISIBLE);
         }
-        Animation anim = AnimationUtils.loadAnimation(ctx, animation);
-        Element.startAnimation(anim);
+        //Animation anim = AnimationUtils.loadAnimation(ctx, animation);
+        //Element.startAnimation(anim);
     }
 
 

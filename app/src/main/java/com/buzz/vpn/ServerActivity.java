@@ -347,7 +347,7 @@ public class ServerActivity extends Activity {
                         iv_flag.setImageResource(R.drawable.ic_flag_vietnam);
                         break;
                     case "unitedstates":
-                        iv_flag.setImageResource(R.drawable.ic_flag_united_states);
+                        //iv_flag.setImageResource(R.drawable.ic_flag_united_states);
                         break;
                     case "unitedkingdom":
                         iv_flag.setImageResource(R.drawable.ic_flag_united_kingdom);
@@ -386,7 +386,8 @@ public class ServerActivity extends Activity {
                         iv_flag.setImageResource(R.drawable.ic_flag_italy);
                         break;
                     default:
-                        iv_flag.setImageResource(R.drawable.ic_flag_unknown_mali);
+                        //iv_flag.setImageResource(R.drawable.ic_flag_unknown_mali);
+                        iv_flag.setImageResource(R.drawable.ic_flag_united_states);
                         break;
                 }
 

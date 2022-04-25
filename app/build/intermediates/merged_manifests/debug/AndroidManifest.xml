@@ -46,13 +46,13 @@
             android:name="com.buzz.vpn.blockedAdds"
             android:exported="false" />
         <activity
-            android:name="com.buzz.vpn.landing_page"
+            android:name="com.buzz.vpn.userLogin_activity"
             android:exported="false" />
         <activity
             android:name="com.buzz.vpn.quiz"
             android:exported="false" />
         <activity
-            android:name="com.buzz.vpn.userLogin_activity"
+            android:name="com.buzz.vpn.landing_page"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -95,6 +95,7 @@
         <activity android:name="com.buzz.vpn.WelcomeActivity" />
         <activity android:name="com.buzz.vpn.FAQActivity" />
         <activity android:name="com.buzz.vpn.ReviewActivity" />
+        <activity android:name="com.buzz.vpn.signup_activity" />
         <activity
             android:name="com.google.firebase.auth.internal.GenericIdpActivity"
             android:excludeFromRecents="true"

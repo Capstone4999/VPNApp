@@ -1,60 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".landing_page"
-    android:background="@drawable/landing_page_bkgrd"
-    android:id="@+id/landing_page"
-    >
+    android:background="#FFFFFF"
+    tools:context=".landing_page">
 
-    <FrameLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        >
+    <TextView
+        android:id="@+id/surf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/abel"
+        android:text="@string/surf"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.121" />
 
-        <ImageView
-            android:id="@+id/imageView3"
-            android:layout_width="120dp"
-            android:layout_height="120dp"
-            app:srcCompat="@drawable/shield_main"
-            android:layout_gravity="center"
-            android:contentDescription="@string/shieldDescription"
+    <TextView
+        android:id="@+id/free"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/abel"
+        android:text="@string/welcome_pvpn"
+        android:textColor="#120909"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/surf"
+        app:layout_constraintHorizontal_bias="0.382"
+        app:layout_constraintStart_toStartOf="@+id/surf"
+        app:layout_constraintTop_toBottomOf="@+id/surf"
+        app:layout_constraintVertical_bias="0.0" />
 
-            />
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="100dp"
-            android:text="@string/welcome_pvpn"
-            android:textSize="35sp"
-            android:textColor="#0D0D0D"
-            android:gravity="center"
-            android:layout_marginTop="160dp"
-            />
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="100sp"
-            android:text="@string/landing_page_qoute"
-            android:textSize="24sp"
-            android:textColor="#0D0D0D"
-            android:gravity="center"
-            android:layout_marginTop="200dp"
-
-            />
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="100dp"
-            android:text="@string/free"
-            android:textSize="23sp"
-            android:textColor="#0D0D0D"
-            android:gravity="center"
-            android:layout_marginTop="380dp"
-
-            />
-    </FrameLayout>
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="8dp"
+        android:contentDescription="@string/shieldDescription"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:paddingEnd="10dp"
+        android:paddingBottom="20dp"
+        app:layout_constraintEnd_toEndOf="@+id/free"
+        app:layout_constraintHorizontal_bias="0.437"
+        app:layout_constraintStart_toStartOf="@+id/free"
+        app:layout_constraintTop_toBottomOf="@+id/free"
+        app:srcCompat="@drawable/shield_main" />
 
 
+    <EditText
+        android:id="@+id/username"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:background="@drawable/input_bkgrd"
+        android:backgroundTint="#EEEEEE"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="@string/usernameHint"
+        android:inputType="textEmailAddress"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:textColorHint="#A154BC"
+        android:visibility="invisible"
+        app:layout_constraintEnd_toEndOf="@+id/imageView3"
+        app:layout_constraintHorizontal_bias="0.516"
+        app:layout_constraintStart_toStartOf="@+id/imageView3"
+        app:layout_constraintTop_toBottomOf="@+id/imageView3" />
 
+    <TextView
+        android:id="@+id/or"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="@string/free"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/username" />
 
-</androidx.coordinatorlayout.widget.CoordinatorLayout>
+    <Button
+        android:id="@+id/signup_button"
+        style="@style/Widget.AppCompat.Button.Borderless.Colored"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="60dp"
+        android:background="@drawable/btn_bkgrd"
+        android:text="@string/start"
+        app:layout_constraintEnd_toEndOf="@+id/or"
+        app:layout_constraintStart_toStartOf="@+id/or"
+        app:layout_constraintTop_toBottomOf="@+id/or" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
