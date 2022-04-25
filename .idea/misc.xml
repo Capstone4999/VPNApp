@@ -43,6 +43,26 @@
         <entry key="..\:/Users/Jonah/VPNApp/app/src/main/res/layout/activity_main.xml" value="0.1875" />
         <entry key="..\:/Users/Jonah/VPNApp/app/src/main/res/layout/activity_signup.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Jonah/VPNApp/app/src/main/res/layout/activity_welcome.xml" value="0.16" />
+        <entry key="..\:/Users/jslif/VPNApp/app/src/main/res/drawable-hdpi/item_selector.xml" value="0.273" />
+        <entry key="..\:/Users/jslif/VPNApp/app/src/main/res/layout/activity_blocked_adds.xml" value="0.13804457953394123" />
+        <entry key="..\:/Users/jslif/VPNApp/app/src/main/res/layout/activity_contact.xml" value="0.13804457953394123" />
+        <entry key="..\:/Users/jslif/VPNApp/app/src/main/res/layout/activity_faq.xml" value="0.13804457953394123" />
+        <entry key="..\:/Users/jslif/VPNApp/app/src/main/res/layout/activity_home.xml" value="0.13804457953394123" />
+        <entry key="..\:/Users/jslif/VPNApp/app/src/main/res/layout/activity_home_off.xml" value="0.13804457953394123" />
+        <entry key="..\:/Users/jslif/VPNApp/app/src/main/res/layout/activity_landing_page.xml" value="0.2838541666666667" />
+        <entry key="..\:/Users/jslif/VPNApp/app/src/main/res/layout/activity_learning.xml" value="0.13804457953394123" />
+        <entry key="..\:/Users/jslif/VPNApp/app/src/main/res/layout/activity_login2.xml" value="0.13804457953394123" />
+        <entry key="..\:/Users/jslif/VPNApp/app/src/main/res/layout/activity_main.xml" value="0.13804457953394123" />
+        <entry key="..\:/Users/jslif/VPNApp/app/src/main/res/layout/activity_quiz.xml" value="0.1" />
+        <entry key="..\:/Users/jslif/VPNApp/app/src/main/res/layout/activity_review.xml" value="0.13804457953394123" />
+        <entry key="..\:/Users/jslif/VPNApp/app/src/main/res/layout/activity_servers.xml" value="0.13804457953394123" />
+        <entry key="..\:/Users/jslif/VPNApp/app/src/main/res/layout/activity_signup.xml" value="0.13804457953394123" />
+        <entry key="..\:/Users/jslif/VPNApp/app/src/main/res/layout/activity_usage.xml" value="0.13804457953394123" />
+        <entry key="..\:/Users/jslif/VPNApp/app/src/main/res/layout/activity_user_login.xml" value="0.13804457953394123" />
+        <entry key="..\:/Users/jslif/VPNApp/app/src/main/res/layout/learning_content.xml" value="0.10460992907801418" />
+        <entry key="..\:/Users/jslif/VPNApp/app/src/main/res/layout/learning_content_1.xml" value="0.2838541666666667" />
+        <entry key="..\:/Users/jslif/VPNApp/app/src/main/res/layout/learning_content_2.xml" value="0.2838541666666667" />
+        <entry key="..\:/Users/jslif/VPNApp/app/src/main/res/layout/practice_questions.xml" value="0.2" />
         <entry key="app/src/main/res/drawable-hdpi/half_circle.xml" value="0.1" />
         <entry key="app/src/main/res/drawable-hdpi/item_selector.xml" value="0.1" />
         <entry key="app/src/main/res/drawable-hdpi/landing_page_bkgrd.xml" value="0.1" />
