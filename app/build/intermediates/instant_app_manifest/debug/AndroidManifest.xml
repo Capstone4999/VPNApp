@@ -12,6 +12,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <supports-screens
         android:anyDensity="true"
@@ -33,12 +34,13 @@
         android:icon="@drawable/shield_main"
         android:label="@string/app_name"
         android:supportsRtl="false"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.buzz.vpn.homeOff"
             android:exported="false" />
         <activity
-            android:name="com.buzz.vpn.home"
+            android:name="com.buzz.vpn.userLogin_activity"
             android:exported="false" />
         <activity
             android:name="com.buzz.vpn.learning"
@@ -53,7 +55,16 @@
             android:name="com.buzz.vpn.quiz"
             android:exported="false" />
         <activity
-            android:name="com.buzz.vpn.userLogin_activity"
+            android:name="com.buzz.vpn.learning_content"
+            android:exported="false" />
+        <activity
+            android:name="com.buzz.vpn.learning_content_1"
+            android:exported="false" />
+        <activity
+            android:name="com.buzz.vpn.learning_content_2"
+            android:exported="false" />
+        <activity
+            android:name="com.buzz.vpn.home"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

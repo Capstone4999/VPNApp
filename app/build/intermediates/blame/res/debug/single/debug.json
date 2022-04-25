@@ -1,930 +1,990 @@
 [
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_flag_vietnam.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_flag_vietnam.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_flag_france.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_flag_france.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_app_google.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/ic_app_google.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_app.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\ic_app.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_home_white.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_home_white.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_aptoid.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_aptoid.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-mdpi_stat_blue_rectangle.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-mdpi/stat_blue_rectangle.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cloud_download.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-mdpi\\ic_cloud_download.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_flag_vietnam.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_flag_vietnam.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_go_forward_white.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-anydpi\\ic_go_forward_white.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_flag_japan.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_flag_japan.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home_white.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\ic_home_white.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_flag_russia.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_flag_russia.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_aptoid.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\ic_aptoid.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_go_forward.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-mdpi/ic_go_forward.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_unsplash_eusvweosble2.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable\\unsplash_eusvweosble2.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/anim_anim_slide_up_1400d.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/anim/anim_slide_up_1400d.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_cloud_download.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-anydpi/ic_cloud_download.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home_white.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_home_white.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_signal_normal.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_signal_normal.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bkgrd.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable\\btn_bkgrd.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_flag_united_kingdom.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_flag_united_kingdom.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_servers_cloud.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_servers_cloud.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_go_back.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-anydpi/ic_go_back.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_app_icon.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_app_icon.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_servers_process.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/ic_servers_process.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_app_icon.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_app_icon.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_home.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-anydpi/ic_home.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_slide_up_1400d.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\anim\\anim_slide_up_1400d.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_go_back_white.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_go_back_white.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_learning_content.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\layout\\learning_content.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_app_google.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_app_google.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_app.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_app.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_flag_netherlands.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_flag_netherlands.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_faq.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\layout\\activity_faq.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/layout_activity_review.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/layout/activity_review.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_youtube.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\youtube.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_yandex.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/yandex.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_servers_process.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-anydpi\\ic_servers_process.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable_button_connect.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable/button_connect.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_signal_medium.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_signal_medium.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-anydpi_button_later.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-anydpi/button_later.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_signal_low.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_signal_low.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_app_icon.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/mipmap-mdpi/ic_app_icon.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_data.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-anydpi\\ic_data.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_app_logo_white.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_app_logo_white.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_uptodown.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\ic_uptodown.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_aptoid.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_aptoid.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_flag_finland.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_flag_finland.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_uptodown.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/ic_uptodown.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_flag_south_korea.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_flag_south_korea.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_flag_united_states.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_flag_united_states.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_instagram.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\instagram.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_go_forward_white.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/ic_go_forward_white.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_twitter.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\twitter.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_signal_low.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_signal_low.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_button_later.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-anydpi\\button_later.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_home.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/ic_home.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\anim\\anim_slide_out_left.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_signal_low.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_signal_low.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_flag_luxemburg.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_flag_luxemburg.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_servers_cloud.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-anydpi\\ic_servers_cloud.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-mdpi_button_disconnect.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-mdpi/button_disconnect.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_go_back.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-anydpi\\ic_go_back.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_flag_united_states.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_flag_united_states.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_flag_south_korea.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_flag_south_korea.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_signal_low.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/ic_signal_low.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_app_logo_white.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-mdpi\\ic_app_logo_white.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_flag_unknown_mali.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_flag_unknown_mali.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_contact.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\layout\\activity_contact.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_flag_germany.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_flag_germany.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_learning_content_1.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\layout\\learning_content_1.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_aptoid.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-mdpi/ic_aptoid.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_learning.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\layout\\activity_learning.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable_layout_round.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable/layout_round.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_go_forward_white.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_go_forward_white.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_flag_luxemburg.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_flag_luxemburg.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_go_back_white.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_go_back_white.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_instagram.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/instagram.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\layout\\activity_signup.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_flag_singapore.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_flag_singapore.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_flag_italy.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_flag_italy.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_data.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-mdpi/ic_data.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_yandex.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\yandex.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_home.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_home.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_flag_poland.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_flag_poland.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/layout_activity_quiz.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/layout/activity_quiz.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_info.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-mdpi\\ic_info.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_app_google.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_app_google.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_flag_luxemburg.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_flag_luxemburg.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-mdpi_facebook.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-mdpi/facebook.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_item_menu.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\menu\\item_menu.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_servers_cloud.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-mdpi/ic_servers_cloud.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_flag_finland.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_flag_finland.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_home_white.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/ic_home_white.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_flag_russia.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_flag_russia.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/anim_slide_down_800.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/anim/slide_down_800.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_go_forward.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_go_forward.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_app_icon_round.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/mipmap-mdpi/ic_app_icon_round.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_aptoid.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_aptoid.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_servers_cloud.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-anydpi/ic_servers_cloud.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectangle_24.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable\\rectangle_24.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_flag_australia.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_flag_australia.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_signal_low.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\ic_signal_low.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_flag_germany.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_flag_germany.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_signal_full.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_signal_full.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_go_forward.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-anydpi/ic_go_forward.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\anim\\anim_slide_in_left.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_flag_italy.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_flag_italy.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_twitter.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\twitter.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_flag_thailand.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_flag_thailand.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_servers_process.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_servers_process.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_signal_full.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/ic_signal_full.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_signal_medium.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\ic_signal_medium.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_flag_netherlands.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_flag_netherlands.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_instagram.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\instagram.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable_btn_bkgrd.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable/btn_bkgrd.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_go_back_white.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\ic_go_back_white.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_google_play.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_google_play.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/anim_anim_slide_out_left.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/anim/anim_slide_out_left.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\layout\\activity_home.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-mdpi_globe.PNG.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-mdpi/globe.PNG"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_youtube.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\youtube.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_go_forward_white.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_go_forward_white.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_go_forward.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-anydpi\\ic_go_forward.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_go_back_white.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/ic_go_back_white.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_flag_united_kingdom.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_flag_united_kingdom.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_instagram.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/instagram.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_info.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_info.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable_layout_bubble.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable/layout_bubble.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_apkpure.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-ldpi\\ic_apkpure.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_flag_united_kingdom.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_flag_united_kingdom.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_server_list_item.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\layout\\server_list_item.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_flag_luxemburg.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_flag_luxemburg.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_servers_process.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_servers_process.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_uptodown.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-mdpi/ic_uptodown.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_go_forward_white.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_go_forward_white.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/raw_stars.json.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/raw/stars.json"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_quiz.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\layout\\activity_quiz.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/anim_fade_out_500.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/anim/fade_out_500.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_flag_germany.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_flag_germany.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_go_back_white.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_go_back_white.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_servers_process.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\ic_servers_process.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/raw_conneting.json.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/raw/conneting.json"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_usage.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\layout\\activity_usage.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable_button_retry.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable/button_retry.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_data.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\ic_data.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_signal_normal.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_signal_normal.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_unsplash_peujyoylfe422.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable\\unsplash_peujyoylfe422.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_twitter.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/twitter.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_app_google.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\ic_app_google.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_vpn_ring.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/vpn_ring.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_status_update.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable\\status_update.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_amazon_apps.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-ldpi/ic_amazon_apps.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_flag_canada.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_flag_canada.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_app.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_app.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_uptodown.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_uptodown.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_go_forward_white.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_go_forward_white.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_aptoid.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-mdpi\\ic_aptoid.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_power_button.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/power_button.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_flag_netherlands.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_flag_netherlands.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/anim_anim_slide_up.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/anim/anim_slide_up.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_app_icon_round.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_app_icon_round.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_flag_canada.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_flag_canada.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_app_icon.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_app_icon.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_twitter.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/twitter.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_servers.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\layout\\activity_servers.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_apkpure.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-mdpi/ic_apkpure.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable_triangle.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable/triangle.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_button_update.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-anydpi\\button_update.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/anim_anim_slide_in_left.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/anim/anim_slide_in_left.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_flag_australia.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_flag_australia.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-anydpi_button_update.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-anydpi/button_update.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_half_circle.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\half_circle.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_apkpure.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/ic_apkpure.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_signal_normal.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\ic_signal_normal.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_flag_finland.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_flag_finland.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_servers_cloud.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-mdpi\\ic_servers_cloud.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_app_icon.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/mipmap-xxhdpi/ic_app_icon.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_info.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_info.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/anim_fade_in_1000.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/anim/fade_in_1000.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home_off.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\layout\\activity_home_off.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_flag_unknown_mali.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_flag_unknown_mali.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_flag_singapore.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_flag_singapore.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_youtube.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/youtube.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_flag_japan.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_flag_japan.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_retry.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable\\button_retry.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_flag_france.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_flag_france.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_up_800.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\anim\\slide_up_800.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_flag_canada.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_flag_canada.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_unsplash_jjjsppzzpku3.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-mdpi\\unsplash_jjjsppzzpku3.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_signal_medium.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/ic_signal_medium.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_update.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\layout\\dialog_update.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_flag_finland.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_flag_finland.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_go_back.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_go_back.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_info.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_info.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_flag_united_kingdom.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_flag_united_kingdom.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/layout_dialog_update.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/layout/dialog_update.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_stat_blue_rectangle.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-mdpi\\stat_blue_rectangle.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_servers_process.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-anydpi/ic_servers_process.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_learning_content_2.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\layout\\learning_content_2.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_facebook.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/facebook.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_home_white.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-anydpi\\ic_home_white.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_data.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/ic_data.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\anim\\anim_slide_in_right.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_info.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-anydpi/ic_info.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button_disconnect.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-mdpi\\button_disconnect.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_signal_medium.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_signal_medium.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_signal_full.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\ic_signal_full.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_go_back_white.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-mdpi/ic_go_back_white.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_servers_cloud.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\ic_servers_cloud.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_signal_medium.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_signal_medium.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_google_play.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\ic_google_play.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_app_icon_round.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/mipmap-hdpi/ic_app_icon_round.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_flag_thailand.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_flag_thailand.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/layout_userpass.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/layout/userpass.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\font_abel.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\font\\abel.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_data.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_data.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_conneting.json.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\raw\\conneting.json"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/layout_activity_learning.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/layout/activity_learning.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_unsplash_xjxwbfso2f0.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable\\unsplash_xjxwbfso2f0.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_aptoid.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_aptoid.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_layout_country.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\layout_country.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/anim_anim_slide_down.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/anim/anim_slide_down.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_app_icon_round.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_app_icon_round.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\anim\\anim_slide_out_right.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable_layout_view.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable/layout_view.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_layout_bubble.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable\\layout_bubble.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_flag_italy.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_flag_italy.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login2.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\layout\\activity_login2.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_amazon_apps.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-mdpi/ic_amazon_apps.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_vk.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\vk.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_google_play.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_google_play.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_data.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_data.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_signal_full.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_signal_full.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_signal_medium.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_signal_medium.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_app_icon_round.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/mipmap-xxxhdpi/ic_app_icon_round.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_flag_russia.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_flag_russia.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_signal_full.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_signal_full.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_data.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-mdpi\\ic_data.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_flag_thailand.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_flag_thailand.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_app_icon.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_app_icon.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_app_icon.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/mipmap-anydpi-v26/ic_app_icon.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_home.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable\\icon_home.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_go_back.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-mdpi/ic_go_back.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_item_selector.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\item_selector.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/raw_loading_circle.json.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/raw/loading_circle.json"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_loading.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\layout\\dialog_loading.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_info.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-mdpi/ic_info.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_layout_round.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable\\layout_round.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/layout_activity_welcome.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/layout/activity_welcome.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_app_icon_round.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_app_icon_round.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_app_logo_white.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_app_logo_white.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_unsplash_89xup_xmyrac.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable\\unsplash_89xup_xmyrac.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_cloud_download.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/ic_cloud_download.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_ninjainsecure.json.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\raw\\ninjainsecure.json"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_app_logo_white.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-mdpi/ic_app_logo_white.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_google_play.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-mdpi\\ic_google_play.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_app_icon.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/mipmap-xxxhdpi/ic_app_icon.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_flag_unknown_mali.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_flag_unknown_mali.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_layout_country.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/layout_country.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_go_back_white.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_go_back_white.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/layout_server_list_item.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/layout/server_list_item.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_api_confirm.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\layout\\api_confirm.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_shield_main.PNG.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/shield_main.PNG"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_servers_process.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_servers_process.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_unsplash_ozubnc_6e2s11.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable\\unsplash_ozubnc_6e2s11.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_flag_spain.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_flag_spain.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_landing_page.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\layout\\activity_landing_page.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_servers_process.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-mdpi/ic_servers_process.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_flag_vietnam.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_flag_vietnam.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_home.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_home.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_down_800.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\anim\\slide_down_800.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/layout_api_confirm.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/layout/api_confirm.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_flag_united_states.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_flag_united_states.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/layout_activity_contact.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/layout/activity_contact.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_flag_japan.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_flag_japan.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_servers_cloud.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_servers_cloud.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_facebook.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\facebook.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_flag_south_korea.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_flag_south_korea.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_flag_australia.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_flag_australia.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/layout_activity_landing_page.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/layout/activity_landing_page.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_signal_low.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_signal_low.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_go_forward.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\ic_go_forward.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_vk.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/vk.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_stat_grey_rectangle.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-mdpi\\stat_grey_rectangle.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/anim_anim_slide_out_right.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/anim/anim_slide_out_right.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_layout_view.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable\\layout_view.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_flag_france.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_flag_france.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_landing_page_bkgrd.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\landing_page_bkgrd.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_app_icon.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/mipmap-xhdpi/ic_app_icon.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_flag_netherlands.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_flag_netherlands.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_facebook.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/facebook.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_vpn_ring.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\vpn_ring.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/raw_ninjasecure.json.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/raw/ninjasecure.json"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_flag_france.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_flag_france.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable_status_update.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable/status_update.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_quiz.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable\\icon_quiz.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/anim_anim_slide_in_right.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/anim/anim_slide_in_right.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_yandex.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\yandex.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_go_back.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/ic_go_back.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_connect.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable\\button_connect.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_go_forward.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/ic_go_forward.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_servers_process.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-mdpi\\ic_servers_process.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_app_icon_round.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/mipmap-xxhdpi/ic_app_icon_round.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home_white.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-mdpi\\ic_home_white.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/layout_activity_signup.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/layout/activity_signup.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_flag_poland.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_flag_poland.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_flag_singapore.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_flag_singapore.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_app_icon.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_app_icon.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/layout_activity_faq.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/layout/activity_faq.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home_white.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home_white.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/layout_activity_usage.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/layout/activity_usage.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_app_logo_white.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/ic_app_logo_white.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_home_white.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-anydpi/ic_home_white.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_flag_singapore.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_flag_singapore.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable_icon_home.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable/icon_home.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_stars.json.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\raw\\stars.json"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-mdpi_img_protected_apps.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-mdpi/img_protected_apps.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_flag_thailand.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_flag_thailand.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_home_white.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-mdpi/ic_home_white.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_slide_down.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\anim\\anim_slide_down.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_google_play.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-mdpi/ic_google_play.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_app_logo_white.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\ic_app_logo_white.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable_rectangle.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable/rectangle.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\ic_home.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_flag_spain.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_flag_spain.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_info.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-anydpi\\ic_info.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_app_icon_round.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_app_icon_round.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_servers_cloud.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_servers_cloud.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_app_google.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_app_google.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_go_forward_white.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-mdpi/ic_go_forward_white.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_blocked_adds.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\layout\\activity_blocked_adds.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable_icon_quiz.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable/icon_quiz.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_input_bkgrd.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable\\input_bkgrd.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_flag_south_korea.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_flag_south_korea.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cloud_download.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_cloud_download.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_signal_normal.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/ic_signal_normal.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_flag_spain.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_flag_spain.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/layout_activity_user_login.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/layout/activity_user_login.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_round_corners.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/round_corners.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_amazon_apps.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-mdpi\\ic_amazon_apps.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_go_forward.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_go_forward.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_flag_vietnam.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_flag_vietnam.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/font_abel.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/font/abel.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_shield_main.PNG.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\shield_main.PNG"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/menu_item_menu.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/menu/item_menu.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_book.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable\\icon_book.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_yandex.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/yandex.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_app_icon.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_app_icon.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_go_back.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_go_back.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_out_1000.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\anim\\fade_out_1000.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_flag_australia.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_flag_australia.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_facebook.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-mdpi\\facebook.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_half_circle.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/half_circle.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_signal_full.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_signal_full.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_google_play.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/ic_google_play.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_flag_canada.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_flag_canada.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_data.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_data.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in_1000.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\anim\\fade_in_1000.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_data.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-anydpi/ic_data.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_go_forward_white.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-mdpi\\ic_go_forward_white.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_item_selector.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/item_selector.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_app_logo_white.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_app_logo_white.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/layout_activity_login2.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/layout/activity_login2.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_img_protected_apps.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-mdpi\\img_protected_apps.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/anim_fade_out_1000.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/anim/fade_out_1000.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_signal_normal.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_signal_normal.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_info.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/ic_info.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_userpass.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\layout\\userpass.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/layout_activity_home.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/layout/activity_home.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectangle_23.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable\\rectangle_23.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_youtube.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/youtube.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_review.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\layout\\activity_review.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/layout/activity_main.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cloud_download.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\ic_cloud_download.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_servers_cloud.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/ic_servers_cloud.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_app_icon_round.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_app_icon_round.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_flag_poland.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_flag_poland.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_app_logo_white.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_app_logo_white.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_servers_process.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_servers_process.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectangle_15.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable\\rectangle_15.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_uptodown.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_uptodown.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_unsplash_ah_heguoe9k33.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\unsplash_ah_heguoe9k33.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_cloud_download.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_cloud_download.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_round.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable\\button_round.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable_input_bkgrd.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable/input_bkgrd.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_cloud_download.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-anydpi\\ic_cloud_download.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/layout_activity_home_off.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/layout/activity_home_off.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_app_google.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_app_google.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_flag_japan.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_flag_japan.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_app_logo_white.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-anydpi\\ic_app_logo_white.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable_icon_book.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable/icon_book.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_go_back_white.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-mdpi\\ic_go_back_white.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/anim_slide_up_800.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/anim/slide_up_800.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectangle.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable\\rectangle.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_app_icon_round.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/mipmap-xhdpi/ic_app_icon_round.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_app_icon_round.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_app_icon_round.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable_button_round.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable/button_round.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_go_back.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_go_back.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_flag_russia.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_flag_russia.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\layout\\activity_welcome.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_app_icon_round.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/mipmap-anydpi-v26/ic_app_icon_round.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_out_500.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\anim\\fade_out_500.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_cloud_download.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_cloud_download.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_round_corners.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\round_corners.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_app_icon.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/mipmap-hdpi/ic_app_icon.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_home.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_home_white.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_home_white.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectangle_22.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable\\rectangle_22.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_go_forward_white.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-anydpi/ic_go_forward_white.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_go_forward.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-mdpi\\ic_go_forward.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_app.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_app.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_amazon_apps.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-ldpi\\ic_amazon_apps.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/layout_dialog_loading.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/layout/dialog_loading.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_facebook.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\facebook.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_landing_page_bkgrd.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/landing_page_bkgrd.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cloud_download.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_cloud_download.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/layout_activity_blocked_adds.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/layout/activity_blocked_adds.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_signal_normal.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_signal_normal.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_app_logo_white.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-anydpi/ic_app_logo_white.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_home.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-anydpi\\ic_home.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-mdpi_stat_grey_rectangle.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-mdpi/stat_grey_rectangle.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_globe.PNG.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-mdpi\\globe.PNG"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_cloud_download.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-mdpi/ic_cloud_download.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable\\triangle.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_info.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_info.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_ninjasecure.json.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\raw\\ninjasecure.json"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_apkpure.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-ldpi/ic_apkpure.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_apkpure.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\ic_apkpure.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_flag_poland.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_flag_poland.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_uptodown.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-mdpi\\ic_uptodown.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_app.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/ic_app.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_go_back_white.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-anydpi\\ic_go_back_white.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/raw_newupdate.json.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/raw/newupdate.json"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_go_back.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xhdpi/ic_go_back.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_slide_up.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\anim\\anim_slide_up.xml"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_aptoid.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-hdpi/ic_aptoid.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_newupdate.json.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\raw\\newupdate.json"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/layout_activity_servers.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/layout/activity_servers.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_apkpure.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-mdpi\\ic_apkpure.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_home.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-mdpi/ic_home.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_loading_circle.json.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\raw\\loading_circle.json"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_go_forward.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-xxhdpi/ic_go_forward.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_info.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\ic_info.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/raw_ninjainsecure.json.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/raw/ninjainsecure.json"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_servers_cloud.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_servers_cloud.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-ldpi_facebook.png.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-ldpi/facebook.png"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_flag_spain.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_flag_spain.png"
     },
     {
-        "merged": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_go_back_white.xml.flat",
-        "source": "/Users/paulhww/AndroidStudioProjects/paul-branch01/app/src/main/res/drawable-anydpi/ic_go_back_white.xml"
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_power_button.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\power_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_data.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_data.png"
+    },
+    {
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_flag_italy.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_flag_italy.png"
+    },
+    {
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_go_back.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-mdpi\\ic_go_back.png"
+    },
+    {
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_facebook.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-ldpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_flag_unknown_mali.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_flag_unknown_mali.png"
+    },
+    {
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_go_forward.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_go_forward.png"
+    },
+    {
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_go_back.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\ic_go_back.png"
+    },
+    {
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_practice_questions.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\layout\\practice_questions.xml"
+    },
+    {
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_flag_germany.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_flag_germany.png"
+    },
+    {
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_app.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_app.png"
+    },
+    {
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_login.xml.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\layout\\activity_user_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_flag_united_states.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_flag_united_states.png"
+    },
+    {
+        "merged": "C:\\Users\\jslif\\VPNApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_go_forward_white.png.flat",
+        "source": "C:\\Users\\jslif\\VPNApp\\app\\src\\main\\res\\drawable-hdpi\\ic_go_forward_white.png"
     }
 ]

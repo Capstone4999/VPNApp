@@ -15,12 +15,13 @@
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/a0e5253e4b3dcb274e8e17e0f86ab372/transformed/jetified-play-services-safetynet-17.0.0/res" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/6989f1d0cca385b972c4db4b903946fb/jetified-play-services-safetynet-17.0.0/res" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/cbf1b3021cc8dd6f70da5d52abf05d2c/jetified-play-services-safetynet-17.0.0/res" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/cbf1b3021cc8dd6f70da5d52abf05d2c/jetified-play-services-safetynet-17.0.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/cbf1b3021cc8dd6f70da5d52abf05d2c/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cbf1b3021cc8dd6f70da5d52abf05d2c/jetified-play-services-safetynet-17.0.0/res" />
-      <root url="file://$USER_HOME$/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/d847c365540419bb294dec5b8535d814/play-services-safetynet-17.0.0/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/d847c365540419bb294dec5b8535d814/play-services-safetynet-17.0.0/res" />
-      <root url="jar://$USER_HOME$/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/d847c365540419bb294dec5b8535d814/play-services-safetynet-17.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/cbf1b3021cc8dd6f70da5d52abf05d2c/jetified-play-services-safetynet-17.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/d847c365540419bb294dec5b8535d814/play-services-safetynet-17.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/d847c365540419bb294dec5b8535d814/play-services-safetynet-17.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/d847c365540419bb294dec5b8535d814/play-services-safetynet-17.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/1fd163f3faa2ed2f24da6d3e03dae161/play-services-safetynet-17.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/d847c365540419bb294dec5b8535d814/play-services-safetynet-17.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/d847c365540419bb294dec5b8535d814/play-services-safetynet-17.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
