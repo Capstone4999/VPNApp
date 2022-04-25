@@ -19,9 +19,9 @@
       <root url="file://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/226ce7eec77b54e6659b1fa5bab2a4fb/firebase-analytics-20.1.1/AndroidManifest.xml" />
       <root url="jar://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/226ce7eec77b54e6659b1fa5bab2a4fb/firebase-analytics-20.1.1/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/226ce7eec77b54e6659b1fa5bab2a4fb/firebase-analytics-20.1.1/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/f9cd833349291dc50bed3b3d3adb9ba9/firebase-analytics-20.1.1/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/f9cd833349291dc50bed3b3d3adb9ba9/firebase-analytics-20.1.1/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/f9cd833349291dc50bed3b3d3adb9ba9/firebase-analytics-20.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/226ce7eec77b54e6659b1fa5bab2a4fb/firebase-analytics-20.1.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/226ce7eec77b54e6659b1fa5bab2a4fb/firebase-analytics-20.1.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.google.firebase/firebase-analytics/20.1.1/ace98f39b262c59be4be4d52b871d1ba5dfff723/firebase-analytics-20.1.1-javadoc.jar!/" />

@@ -20,8 +20,8 @@
       <root url="file://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/c794fad193c5b2710a740860d6973f2b/play-services-auth-api-phone-17.4.0/AndroidManifest.xml" />
       <root url="jar://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/c794fad193c5b2710a740860d6973f2b/play-services-auth-api-phone-17.4.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/1aa48663f9f31bc8f242663abbc1a908/play-services-auth-api-phone-17.4.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/1aa48663f9f31bc8f242663abbc1a908/play-services-auth-api-phone-17.4.0/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/1aa48663f9f31bc8f242663abbc1a908/play-services-auth-api-phone-17.4.0/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c794fad193c5b2710a740860d6973f2b/play-services-auth-api-phone-17.4.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c794fad193c5b2710a740860d6973f2b/play-services-auth-api-phone-17.4.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.google.android.gms/play-services-auth-api-phone/17.4.0/b6b7f35110232b40de7a1374921fcff1eaa864ba/play-services-auth-api-phone-17.4.0-javadoc.jar!/" />

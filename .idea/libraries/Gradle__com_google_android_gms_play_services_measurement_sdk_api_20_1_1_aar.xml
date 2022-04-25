@@ -19,9 +19,9 @@
       <root url="jar://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/8d5ae1e776b0d854022708dd140089c5/play-services-measurement-sdk-api-20.1.1/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/8d5ae1e776b0d854022708dd140089c5/play-services-measurement-sdk-api-20.1.1/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/8d5ae1e776b0d854022708dd140089c5/play-services-measurement-sdk-api-20.1.1/res" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/1e04b41a7dd25037ce15b025e02cba15/play-services-measurement-sdk-api-20.1.1/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/1e04b41a7dd25037ce15b025e02cba15/play-services-measurement-sdk-api-20.1.1/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/1e04b41a7dd25037ce15b025e02cba15/play-services-measurement-sdk-api-20.1.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/8d5ae1e776b0d854022708dd140089c5/play-services-measurement-sdk-api-20.1.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/8d5ae1e776b0d854022708dd140089c5/play-services-measurement-sdk-api-20.1.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement-sdk-api/20.1.1/ace98f39b262c59be4be4d52b871d1ba5dfff723/play-services-measurement-sdk-api-20.1.1-javadoc.jar!/" />

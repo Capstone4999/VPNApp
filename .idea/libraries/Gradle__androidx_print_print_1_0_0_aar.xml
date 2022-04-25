@@ -4,7 +4,7 @@
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/6fff69741977472f27da8fce547a213d/print-1.0.0/annotations.zip!/" />
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/90e6976cfc8cdad6aead3a5ad1ae7396/print-1.0.0/annotations.zip!/" />
       <root url="jar://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/6fff69741977472f27da8fce547a213d/print-1.0.0/annotations.zip!/" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/0f9ed348b339df6e57a1b7c1b228da98/print-1.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/6fff69741977472f27da8fce547a213d/print-1.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/d354020b53b66b562f45fc842b97819e/print-1.0.0/res" />
@@ -28,9 +28,9 @@
       <root url="file://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/6fff69741977472f27da8fce547a213d/print-1.0.0/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/6fff69741977472f27da8fce547a213d/print-1.0.0/res" />
       <root url="jar://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/6fff69741977472f27da8fce547a213d/print-1.0.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/0f9ed348b339df6e57a1b7c1b228da98/print-1.0.0/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/0f9ed348b339df6e57a1b7c1b228da98/print-1.0.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/0f9ed348b339df6e57a1b7c1b228da98/print-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/6fff69741977472f27da8fce547a213d/print-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/6fff69741977472f27da8fce547a213d/print-1.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

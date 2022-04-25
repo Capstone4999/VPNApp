@@ -19,9 +19,9 @@
       <root url="jar://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/d3bcc780645cfa33477ef3923eb3671a/play-services-tasks-18.0.1/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/d3bcc780645cfa33477ef3923eb3671a/play-services-tasks-18.0.1/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/d3bcc780645cfa33477ef3923eb3671a/play-services-tasks-18.0.1/res" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/df52f2f0641b3030ff1ebba5b9883427/play-services-tasks-18.0.1/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/df52f2f0641b3030ff1ebba5b9883427/play-services-tasks-18.0.1/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/df52f2f0641b3030ff1ebba5b9883427/play-services-tasks-18.0.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/d3bcc780645cfa33477ef3923eb3671a/play-services-tasks-18.0.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/d3bcc780645cfa33477ef3923eb3671a/play-services-tasks-18.0.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.google.android.gms/play-services-tasks/18.0.1/2e3c5d886f131c9c8ae2d93dcf32aa58dad438e3/play-services-tasks-18.0.1-javadoc.jar!/" />

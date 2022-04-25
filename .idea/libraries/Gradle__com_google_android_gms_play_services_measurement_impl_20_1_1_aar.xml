@@ -20,8 +20,8 @@
       <root url="file://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/66d5e5abc297462afea8b13c969e7a17/play-services-measurement-impl-20.1.1/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/66d5e5abc297462afea8b13c969e7a17/play-services-measurement-impl-20.1.1/res" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/07dd19ac3ee262cc0cf1b0c5b905979e/play-services-measurement-impl-20.1.1/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/07dd19ac3ee262cc0cf1b0c5b905979e/play-services-measurement-impl-20.1.1/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/07dd19ac3ee262cc0cf1b0c5b905979e/play-services-measurement-impl-20.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/66d5e5abc297462afea8b13c969e7a17/play-services-measurement-impl-20.1.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/66d5e5abc297462afea8b13c969e7a17/play-services-measurement-impl-20.1.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement-impl/20.1.1/6408cdd09735e828af74dd0c71746a3fd9bace95/play-services-measurement-impl-20.1.1-javadoc.jar!/" />

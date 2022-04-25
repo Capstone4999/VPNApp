@@ -19,9 +19,10 @@
       <root url="jar://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/6f94318cc5e3f9e1d35004bfd246ad81/jetified-transport-backend-cct-3.1.1/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/6f94318cc5e3f9e1d35004bfd246ad81/jetified-transport-backend-cct-3.1.1/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/6f94318cc5e3f9e1d35004bfd246ad81/jetified-transport-backend-cct-3.1.1/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/5f3ae964bb4e648b88c6c0ca8f22b3a6/jetified-transport-backend-cct-3.1.1/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/5f3ae964bb4e648b88c6c0ca8f22b3a6/jetified-transport-backend-cct-3.1.1/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/5f3ae964bb4e648b88c6c0ca8f22b3a6/jetified-transport-backend-cct-3.1.1/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c934872e3ac210d6c0d45c46115da660/jetified-transport-backend-cct-3.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c934872e3ac210d6c0d45c46115da660/jetified-transport-backend-cct-3.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c934872e3ac210d6c0d45c46115da660/jetified-transport-backend-cct-3.1.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.google.android.datatransport/transport-backend-cct/3.1.1/804948d975d169593a5a3b73de902020b5c2be55/transport-backend-cct-3.1.1-javadoc.jar!/" />

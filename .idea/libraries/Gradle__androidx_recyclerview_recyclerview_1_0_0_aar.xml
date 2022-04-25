@@ -4,7 +4,7 @@
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/26605d088917db48591387e8e03e7abe/recyclerview-1.0.0/annotations.zip!/" />
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/887f47ed4f57deb2af9133becdbc9b8c/recyclerview-1.0.0/annotations.zip!/" />
       <root url="jar://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/26605d088917db48591387e8e03e7abe/recyclerview-1.0.0/annotations.zip!/" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/454278879062f85fa248f9b72ecf22b6/recyclerview-1.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/26605d088917db48591387e8e03e7abe/recyclerview-1.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/26605d088917db48591387e8e03e7abe/recyclerview-1.0.0/AndroidManifest.xml" />
@@ -16,9 +16,9 @@
       <root url="file://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/26605d088917db48591387e8e03e7abe/recyclerview-1.0.0/res" />
       <root url="jar://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/26605d088917db48591387e8e03e7abe/recyclerview-1.0.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/26605d088917db48591387e8e03e7abe/recyclerview-1.0.0/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/454278879062f85fa248f9b72ecf22b6/recyclerview-1.0.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/454278879062f85fa248f9b72ecf22b6/recyclerview-1.0.0/AndroidManifest.xml" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/454278879062f85fa248f9b72ecf22b6/recyclerview-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/26605d088917db48591387e8e03e7abe/recyclerview-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/26605d088917db48591387e8e03e7abe/recyclerview-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/26605d088917db48591387e8e03e7abe/recyclerview-1.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
