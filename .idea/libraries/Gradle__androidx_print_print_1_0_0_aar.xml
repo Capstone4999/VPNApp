@@ -3,8 +3,8 @@
     <ANNOTATIONS>
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/transforms-2/files-2.1/6fff69741977472f27da8fce547a213d/print-1.0.0/annotations.zip!/" />
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/transforms-2/files-2.1/90e6976cfc8cdad6aead3a5ad1ae7396/print-1.0.0/annotations.zip!/" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/6c3bfea89164f69782cf0e45cd483e68/print-1.0.0/annotations.zip!/" />
-      <root url="jar://$USER_HOME$/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/6fff69741977472f27da8fce547a213d/print-1.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/6fff69741977472f27da8fce547a213d/print-1.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/0f9ed348b339df6e57a1b7c1b228da98/print-1.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/d354020b53b66b562f45fc842b97819e/print-1.0.0/res" />
@@ -23,20 +23,21 @@
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/56d32b4d3c12313a25c9f8b6054d668d/transformed/print-1.0.0/res" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/fea0f63021bad34ac208c65030a8d099/transformed/print-1.0.0/res" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/835691c004d7abd16b60d7e20fa07372/print-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/6c3bfea89164f69782cf0e45cd483e68/print-1.0.0/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/6c3bfea89164f69782cf0e45cd483e68/print-1.0.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/6c3bfea89164f69782cf0e45cd483e68/print-1.0.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6c3bfea89164f69782cf0e45cd483e68/print-1.0.0/res" />
-      <root url="file://$USER_HOME$/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/6fff69741977472f27da8fce547a213d/print-1.0.0/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/6fff69741977472f27da8fce547a213d/print-1.0.0/res" />
-      <root url="jar://$USER_HOME$/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/6fff69741977472f27da8fce547a213d/print-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/6c3bfea89164f69782cf0e45cd483e68/print-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/6fff69741977472f27da8fce547a213d/print-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/6fff69741977472f27da8fce547a213d/print-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/6fff69741977472f27da8fce547a213d/print-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/0f9ed348b339df6e57a1b7c1b228da98/print-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/0f9ed348b339df6e57a1b7c1b228da98/print-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/0f9ed348b339df6e57a1b7c1b228da98/print-1.0.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/androidx.print/print/1.0.0/71fc2d9acf7cce6b96230c5af263268b1664914a/print-1.0.0-sources.jar!/" />
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/modules-2/files-2.1/androidx.print/print/1.0.0/71fc2d9acf7cce6b96230c5af263268b1664914a/print-1.0.0-sources.jar!/" />
       <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/androidx.print/print/1.0.0/71fc2d9acf7cce6b96230c5af263268b1664914a/print-1.0.0-sources.jar!/" />
-      <root url="jar://$USER_HOME$/Downloads/gradle-5.6.1/caches/modules-2/files-2.1/androidx.print/print/1.0.0/71fc2d9acf7cce6b96230c5af263268b1664914a/print-1.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/modules-2/files-2.1/androidx.print/print/1.0.0/71fc2d9acf7cce6b96230c5af263268b1664914a/print-1.0.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

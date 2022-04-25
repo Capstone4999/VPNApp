@@ -14,19 +14,20 @@
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/22a2ef0dac4196bc88e5c5a0b5f5d9e5/transformed/jetified-transport-runtime-3.1.1/res" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/20d71536126ff72108b222286eb21e24/transformed/jetified-transport-runtime-3.1.1/res" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/2308597cb5a5a52d5c8c2c8e0f5bf3c7/jetified-transport-runtime-3.1.1/res" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/27a3693bbe19bb3a967bfe520af2a9e2/jetified-transport-runtime-3.1.1/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/27a3693bbe19bb3a967bfe520af2a9e2/jetified-transport-runtime-3.1.1/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/27a3693bbe19bb3a967bfe520af2a9e2/jetified-transport-runtime-3.1.1/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/27a3693bbe19bb3a967bfe520af2a9e2/jetified-transport-runtime-3.1.1/res" />
-      <root url="file://$USER_HOME$/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/40026e495562630ebc25b3a7e03f6ff2/transport-runtime-3.1.1/res" />
-      <root url="file://$USER_HOME$/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/40026e495562630ebc25b3a7e03f6ff2/transport-runtime-3.1.1/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/40026e495562630ebc25b3a7e03f6ff2/transport-runtime-3.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/27a3693bbe19bb3a967bfe520af2a9e2/jetified-transport-runtime-3.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/40026e495562630ebc25b3a7e03f6ff2/transport-runtime-3.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/40026e495562630ebc25b3a7e03f6ff2/transport-runtime-3.1.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/transforms-2/files-2.1/40026e495562630ebc25b3a7e03f6ff2/transport-runtime-3.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/9a717a31728de9c4a2f3ccdb6c208707/transport-runtime-3.1.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/9a717a31728de9c4a2f3ccdb6c208707/transport-runtime-3.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/9a717a31728de9c4a2f3ccdb6c208707/transport-runtime-3.1.1/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../VPNServiceandGuide/caches/modules-2/files-2.1/com.google.android.datatransport/transport-runtime/3.1.1/804948d975d169593a5a3b73de902020b5c2be55/transport-runtime-3.1.1-javadoc.jar!/" />
       <root url="jar://$PROJECT_DIR$/../IdeaProjects/VPNServiceandGuide/caches/modules-2/files-2.1/com.google.android.datatransport/transport-runtime/3.1.1/804948d975d169593a5a3b73de902020b5c2be55/transport-runtime-3.1.1-javadoc.jar!/" />
       <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.google.android.datatransport/transport-runtime/3.1.1/804948d975d169593a5a3b73de902020b5c2be55/transport-runtime-3.1.1-javadoc.jar!/" />
-      <root url="jar://$USER_HOME$/Downloads/gradle-5.6.1/caches/modules-2/files-2.1/com.google.android.datatransport/transport-runtime/3.1.1/804948d975d169593a5a3b73de902020b5c2be55/transport-runtime-3.1.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/gradle-5.6.1/caches/modules-2/files-2.1/com.google.android.datatransport/transport-runtime/3.1.1/804948d975d169593a5a3b73de902020b5c2be55/transport-runtime-3.1.1-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES />
   </library>

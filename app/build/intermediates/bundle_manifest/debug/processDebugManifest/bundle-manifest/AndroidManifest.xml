@@ -11,6 +11,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <supports-screens
         android:anyDensity="true"
@@ -51,6 +52,15 @@
             android:exported="false" />
         <activity
             android:name="com.buzz.vpn.quiz"
+            android:exported="false" />
+        <activity
+            android:name="com.buzz.vpn.learning_content"
+            android:exported="false" />
+        <activity
+            android:name="com.buzz.vpn.learning_content_1"
+            android:exported="false" />
+        <activity
+            android:name="com.buzz.vpn.learning_content_2"
             android:exported="false" />
         <activity
             android:name="com.buzz.vpn.home"
@@ -147,13 +157,13 @@
                 android:name="com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
             <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
                 android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
             <meta-data
                 android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-                android:value="com.google.firebase.components.ComponentRegistrar" />
-            <meta-data
-                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
             <meta-data
                 android:name="com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar"
