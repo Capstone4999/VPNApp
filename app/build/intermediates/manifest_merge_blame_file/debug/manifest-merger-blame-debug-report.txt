@@ -6,430 +6,427 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml
+8-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="28" />
-9-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml
+9-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:6:5-67
-11-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:6:22-64
+11-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:6:22-64
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-12-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:7:5-79
-12-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:7:22-76
+12-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:7:5-79
+12-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:7:22-76
 13    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-13-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:8:5-77
-13-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:8:22-74
+13-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:8:5-77
+13-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:8:22-74
 14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-14-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:9:5-79
-14-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:9:22-77
+14-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:9:5-79
+14-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:9:22-77
 15
 16    <supports-screens
-16-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:11:5-17:40
+16-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:11:5-17:40
 17        android:anyDensity="true"
-17-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:12:9-34
+17-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:12:9-34
 18        android:largeScreens="true"
-18-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:13:9-36
+18-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:13:9-36
 19        android:normalScreens="true"
-19-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:14:9-37
+19-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:14:9-37
 20        android:resizeable="true"
-20-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:15:9-34
+20-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:15:9-34
 21        android:smallScreens="true"
-21-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:16:9-36
+21-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:16:9-36
 22        android:xlargeScreens="true" />
-22-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:17:9-37
+22-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:17:9-37
 23
 24    <uses-permission android:name="android.permission.WAKE_LOCK" />
-24-->[com.google.android.gms:play-services-measurement-api:20.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\8205989d3a2fd70f679345614dd88122\jetified-play-services-measurement-api-20.1.1\AndroidManifest.xml:24:5-68
-24-->[com.google.android.gms:play-services-measurement-api:20.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\8205989d3a2fd70f679345614dd88122\jetified-play-services-measurement-api-20.1.1\AndroidManifest.xml:24:22-65
+24-->[com.google.android.gms:play-services-measurement-api:20.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\8205989d3a2fd70f679345614dd88122\jetified-play-services-measurement-api-20.1.1\AndroidManifest.xml:24:5-68
+24-->[com.google.android.gms:play-services-measurement-api:20.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\8205989d3a2fd70f679345614dd88122\jetified-play-services-measurement-api-20.1.1\AndroidManifest.xml:24:22-65
 25    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
-25-->[com.google.android.gms:play-services-measurement-api:20.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\8205989d3a2fd70f679345614dd88122\jetified-play-services-measurement-api-20.1.1\AndroidManifest.xml:25:5-79
-25-->[com.google.android.gms:play-services-measurement-api:20.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\8205989d3a2fd70f679345614dd88122\jetified-play-services-measurement-api-20.1.1\AndroidManifest.xml:25:22-76
+25-->[com.google.android.gms:play-services-measurement-api:20.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\8205989d3a2fd70f679345614dd88122\jetified-play-services-measurement-api-20.1.1\AndroidManifest.xml:25:5-79
+25-->[com.google.android.gms:play-services-measurement-api:20.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\8205989d3a2fd70f679345614dd88122\jetified-play-services-measurement-api-20.1.1\AndroidManifest.xml:25:22-76
 26    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
-26-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:26:5-110
-26-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:26:22-107
+26-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:26:5-110
+26-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:26:22-107
 27
 28    <application
-28-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:19:5-98:19
+28-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:19:5-96:19
 29        android:name="de.blinkt.openvpn.core.App"
-29-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:20:9-50
+29-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:20:9-50
 30        android:allowBackup="false"
-30-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:21:9-36
+30-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:21:9-36
 31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-31-->[androidx.core:core:1.3.0] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\00d1ec43854b99a75601e40346db45c6\core-1.3.0\AndroidManifest.xml:24:18-86
+31-->[androidx.core:core:1.3.0] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\00d1ec43854b99a75601e40346db45c6\core-1.3.0\AndroidManifest.xml:24:18-86
 32        android:debuggable="true"
 33        android:icon="@drawable/shield_main"
-33-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:22:9-45
+33-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:22:9-45
 34        android:label="@string/app_name"
-34-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:23:9-41
+34-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:23:9-41
 35        android:supportsRtl="false"
-35-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:24:9-36
+35-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:24:9-36
 36        android:testOnly="true"
 37        android:theme="@style/AppTheme" >
-37-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:25:9-40
+37-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:25:9-40
 38        <activity
-38-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:26:9-28:40
+38-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:26:9-28:40
 39            android:name="com.buzz.vpn.homeOff"
-39-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:27:13-36
+39-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:27:13-36
 40            android:exported="false" />
-40-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:28:13-37
+40-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:28:13-37
 41        <activity
-41-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:29:9-31:40
+41-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:29:9-31:40
 42            android:name="com.buzz.vpn.userLogin_activity"
-42-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:30:13-47
+42-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:30:13-47
 43            android:exported="false" />
-43-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:31:13-37
+43-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:31:13-37
 44        <activity
-44-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:32:9-34:40
+44-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:32:9-34:40
 45            android:name="com.buzz.vpn.learning"
-45-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:33:13-37
+45-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:33:13-37
 46            android:exported="false" />
-46-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:34:13-37
+46-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:34:13-37
 47        <activity
-47-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:35:9-37:40
+47-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:35:9-37:40
 48            android:name="com.buzz.vpn.blockedAdds"
-48-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:36:13-40
+48-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:36:13-40
 49            android:exported="false" />
-49-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:37:13-37
+49-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:37:13-37
 50        <activity
-50-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:38:9-40:40
-51            android:name="com.buzz.vpn.landing_page"
-51-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:39:13-41
+50-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:38:9-40:40
+51            android:name="com.buzz.vpn.quiz"
+51-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:39:13-33
 52            android:exported="false" />
-52-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:40:13-37
+52-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:40:13-37
 53        <activity
-53-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:41:9-43:40
-54            android:name="com.buzz.vpn.quiz"
-54-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:42:13-33
+53-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:41:9-43:40
+54            android:name="com.buzz.vpn.learning_content"
+54-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:42:13-45
 55            android:exported="false" />
-55-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:43:13-37
+55-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:43:13-37
 56        <activity
-56-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:44:9-46:40
-57            android:name="com.buzz.vpn.learning_content"
-57-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:45:13-45
+56-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:44:9-46:40
+57            android:name="com.buzz.vpn.learning_content_1"
+57-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:45:13-47
 58            android:exported="false" />
-58-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:46:13-37
+58-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:46:13-37
 59        <activity
-59-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:47:9-49:40
-60            android:name="com.buzz.vpn.learning_content_1"
-60-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:48:13-47
+59-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:47:9-49:40
+60            android:name="com.buzz.vpn.learning_content_2"
+60-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:48:13-47
 61            android:exported="false" />
-61-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:49:13-37
+61-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:49:13-37
 62        <activity
-62-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:50:9-52:40
-63            android:name="com.buzz.vpn.learning_content_2"
-63-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:51:13-47
-64            android:exported="false" />
-64-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:52:13-37
-65        <activity
-65-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:53:9-61:20
-66            android:name="com.buzz.vpn.home"
-66-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:54:13-33
-67            android:exported="true" >
-67-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:55:13-36
-68            <intent-filter>
-68-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:56:13-60:29
-69                <action android:name="android.intent.action.MAIN" />
-69-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:57:17-69
-69-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:57:25-66
-70
-71                <category android:name="android.intent.category.LAUNCHER" />
-71-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:59:17-77
-71-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:59:27-74
-72            </intent-filter>
-73        </activity>
-74        <activity
-74-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:62:9-80:20
-75            android:name="com.buzz.vpn.MainActivity"
-75-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:63:13-41
-76            android:launchMode="singleTop"
-76-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:64:13-43
-77            android:screenOrientation="portrait" >
-77-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:65:13-49
-78            <intent-filter>
-78-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:66:13-68:29
-79                <category android:name="android.intent.category.LAUNCHER" />
-79-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:59:17-77
-79-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:59:27-74
-80            </intent-filter>
-81            <intent-filter android:label="@string/app_name" >
-81-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:69:13-79:29
-81-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:69:28-60
-82                <action android:name="android.intent.action.VIEW" />
-82-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:70:17-69
-82-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:70:25-66
+62-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:50:9-58:20
+63            android:name="com.buzz.vpn.landing_page"
+63-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:51:13-41
+64            android:exported="true" >
+64-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:52:13-36
+65            <intent-filter>
+65-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:53:13-57:29
+66                <action android:name="android.intent.action.MAIN" />
+66-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:54:17-69
+66-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:54:25-66
+67
+68                <category android:name="android.intent.category.LAUNCHER" />
+68-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:56:17-77
+68-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:56:27-74
+69            </intent-filter>
+70        </activity>
+71        <activity
+71-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:59:9-77:20
+72            android:name="com.buzz.vpn.MainActivity"
+72-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:60:13-41
+73            android:launchMode="singleTop"
+73-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:61:13-43
+74            android:screenOrientation="portrait" >
+74-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:62:13-49
+75            <intent-filter>
+75-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:63:13-65:29
+76                <category android:name="android.intent.category.LAUNCHER" />
+76-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:56:17-77
+76-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:56:27-74
+77            </intent-filter>
+78            <intent-filter android:label="@string/app_name" >
+78-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:66:13-76:29
+78-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:66:28-60
+79                <action android:name="android.intent.action.VIEW" />
+79-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:67:17-69
+79-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:67:25-66
+80
+81                <category android:name="android.intent.category.DEFAULT" />
+81-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:69:17-76
+81-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:69:27-73
+82                <category android:name="android.intent.category.BROWSABLE" />
+82-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:70:17-78
+82-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:70:27-75
 83
-84                <category android:name="android.intent.category.DEFAULT" />
-84-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:72:17-76
-84-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:72:27-73
-85                <category android:name="android.intent.category.BROWSABLE" />
-85-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:73:17-78
-85-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:73:27-75
-86
-87                <data
-87-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:75:17-78:45
-88                    android:host="gayanvoice.github.com"
-88-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:76:21-57
-89                    android:pathPrefix="/"
-89-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:77:21-43
-90                    android:scheme="http" />
-90-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:78:21-42
-91            </intent-filter>
-92        </activity>
-93        <activity
-93-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:81:9-91:20
-94            android:name="de.blinkt.openvpn.LaunchVPN"
-94-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:82:13-55
-95            android:excludeFromRecents="true"
-95-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:83:13-46
-96            android:label="@string/vpn_launch_title" >
-96-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:84:13-53
-97            <intent-filter>
-97-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:86:13-90:29
-98                <action android:name="android.intent.action.MAIN" />
-98-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:57:17-69
-98-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:57:25-66
-99
-100                <category android:name="android.intent.category.DEFAULT" />
-100-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:72:17-76
-100-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:72:27-73
-101            </intent-filter>
-102        </activity>
-103        <activity android:name="com.buzz.vpn.ServerActivity" />
-103-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:92:9-52
-103-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:92:19-49
-104        <activity android:name="com.buzz.vpn.UsageActivity" />
-104-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:93:9-51
-104-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:93:19-48
-105        <activity android:name="com.buzz.vpn.ContactActivity" />
-105-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:94:9-53
-105-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:94:19-50
-106        <activity android:name="com.buzz.vpn.WelcomeActivity" />
-106-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:95:9-53
-106-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:95:19-50
-107        <activity android:name="com.buzz.vpn.FAQActivity" />
-107-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:96:9-49
-107-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:96:19-46
-108        <activity android:name="com.buzz.vpn.ReviewActivity" />
-108-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:97:9-52
-108-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:97:19-49
-109        <activity
-109-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:27:9-44:20
-110            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
-110-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:28:13-80
-111            android:excludeFromRecents="true"
-111-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:29:13-46
-112            android:exported="true"
-112-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:30:13-36
-113            android:launchMode="singleTask"
-113-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:31:13-44
-114            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-114-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:32:13-72
-115            <intent-filter>
-115-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:33:13-43:29
-116                <action android:name="android.intent.action.VIEW" />
-116-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:70:17-69
-116-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:70:25-66
-117
-118                <category android:name="android.intent.category.DEFAULT" />
-118-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:72:17-76
-118-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:72:27-73
-119                <category android:name="android.intent.category.BROWSABLE" />
-119-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:73:17-78
-119-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:73:27-75
-120
-121                <data
-121-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:75:17-78:45
-122                    android:host="firebase.auth"
-122-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:76:21-57
-123                    android:path="/"
-124                    android:scheme="genericidp" />
-124-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:78:21-42
-125            </intent-filter>
-126        </activity>
-127        <activity
-127-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:45:9-62:20
-128            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
-128-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:46:13-79
-129            android:excludeFromRecents="true"
-129-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:47:13-46
-130            android:exported="true"
-130-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:48:13-36
-131            android:launchMode="singleTask"
-131-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:49:13-44
-132            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-132-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:50:13-72
-133            <intent-filter>
-133-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:51:13-61:29
-134                <action android:name="android.intent.action.VIEW" />
-134-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:70:17-69
-134-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:70:25-66
-135
-136                <category android:name="android.intent.category.DEFAULT" />
-136-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:72:17-76
-136-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:72:27-73
-137                <category android:name="android.intent.category.BROWSABLE" />
-137-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:73:17-78
-137-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:73:27-75
-138
-139                <data
-139-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:75:17-78:45
-140                    android:host="firebase.auth"
-140-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:76:21-57
-141                    android:path="/"
-142                    android:scheme="recaptcha" />
-142-->C:\Users\jslif\VPNApp\app\src\main\AndroidManifest.xml:78:21-42
-143            </intent-filter>
-144        </activity>
-145
-146        <service
-146-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:64:9-70:19
-147            android:name="com.google.firebase.components.ComponentDiscoveryService"
-147-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:65:13-84
-148            android:directBootAware="true"
-148-->[com.google.firebase:firebase-common:20.1.0] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\0ec0bf3632d3bfa6e625886f0b2d0dec\jetified-firebase-common-20.1.0\AndroidManifest.xml:35:13-43
-149            android:exported="false" >
-149-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:66:13-37
-150            <meta-data
-150-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:67:13-69:85
-151                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-151-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:68:17-109
-152                android:value="com.google.firebase.components.ComponentRegistrar" />
-152-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:69:17-82
-153            <meta-data
-153-->[com.google.firebase:firebase-perf:20.0.6] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\2df676f417d9cc5bc50fb9a0b12ef813\jetified-firebase-perf-20.0.6\AndroidManifest.xml:23:13-25:85
-154                android:name="com.google.firebase.components:com.google.firebase.perf.FirebasePerfRegistrar"
-154-->[com.google.firebase:firebase-perf:20.0.6] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\2df676f417d9cc5bc50fb9a0b12ef813\jetified-firebase-perf-20.0.6\AndroidManifest.xml:24:17-109
-155                android:value="com.google.firebase.components.ComponentRegistrar" />
-155-->[com.google.firebase:firebase-perf:20.0.6] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\2df676f417d9cc5bc50fb9a0b12ef813\jetified-firebase-perf-20.0.6\AndroidManifest.xml:25:17-82
-156            <meta-data
-156-->[com.google.firebase:firebase-config:21.0.2] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\e2e29b2b68dc08dd0593aa8501ed3af2\jetified-firebase-config-21.0.2\AndroidManifest.xml:32:13-34:85
-157                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar"
-157-->[com.google.firebase:firebase-config:21.0.2] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\e2e29b2b68dc08dd0593aa8501ed3af2\jetified-firebase-config-21.0.2\AndroidManifest.xml:33:17-117
-158                android:value="com.google.firebase.components.ComponentRegistrar" />
-158-->[com.google.firebase:firebase-config:21.0.2] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\e2e29b2b68dc08dd0593aa8501ed3af2\jetified-firebase-config-21.0.2\AndroidManifest.xml:34:17-82
-159            <meta-data
-159-->[com.google.android.gms:play-services-measurement-api:20.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\8205989d3a2fd70f679345614dd88122\jetified-play-services-measurement-api-20.1.1\AndroidManifest.xml:31:13-33:85
-160                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
-160-->[com.google.android.gms:play-services-measurement-api:20.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\8205989d3a2fd70f679345614dd88122\jetified-play-services-measurement-api-20.1.1\AndroidManifest.xml:32:17-139
-161                android:value="com.google.firebase.components.ComponentRegistrar" />
-161-->[com.google.android.gms:play-services-measurement-api:20.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\8205989d3a2fd70f679345614dd88122\jetified-play-services-measurement-api-20.1.1\AndroidManifest.xml:33:17-82
-162            <meta-data
-162-->[com.google.firebase:firebase-installations:17.0.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\aff0283cc73c36dce1235f3b59855b22\jetified-firebase-installations-17.0.1\AndroidManifest.xml:18:13-20:85
-163                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-163-->[com.google.firebase:firebase-installations:17.0.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\aff0283cc73c36dce1235f3b59855b22\jetified-firebase-installations-17.0.1\AndroidManifest.xml:19:17-127
-164                android:value="com.google.firebase.components.ComponentRegistrar" />
-164-->[com.google.firebase:firebase-installations:17.0.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\aff0283cc73c36dce1235f3b59855b22\jetified-firebase-installations-17.0.1\AndroidManifest.xml:20:17-82
-165            <meta-data
-165-->[com.google.firebase:firebase-datatransport:18.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\c168bfdb8dd3c3a12be827ecadfdc9d5\jetified-firebase-datatransport-18.1.1\AndroidManifest.xml:28:13-30:85
-166                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
-166-->[com.google.firebase:firebase-datatransport:18.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\c168bfdb8dd3c3a12be827ecadfdc9d5\jetified-firebase-datatransport-18.1.1\AndroidManifest.xml:29:17-115
-167                android:value="com.google.firebase.components.ComponentRegistrar" />
-167-->[com.google.firebase:firebase-datatransport:18.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\c168bfdb8dd3c3a12be827ecadfdc9d5\jetified-firebase-datatransport-18.1.1\AndroidManifest.xml:30:17-82
-168            <meta-data
-168-->[com.google.firebase:firebase-abt:21.0.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\5cdca1e6f42ef8d0546cab48718b79f6\jetified-firebase-abt-21.0.1\AndroidManifest.xml:13:13-15:85
-169                android:name="com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar"
-169-->[com.google.firebase:firebase-abt:21.0.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\5cdca1e6f42ef8d0546cab48718b79f6\jetified-firebase-abt-21.0.1\AndroidManifest.xml:14:17-109
-170                android:value="com.google.firebase.components.ComponentRegistrar" />
-170-->[com.google.firebase:firebase-abt:21.0.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\5cdca1e6f42ef8d0546cab48718b79f6\jetified-firebase-abt-21.0.1\AndroidManifest.xml:15:17-82
-171        </service>
-172
-173        <provider
-173-->[com.google.firebase:firebase-perf:20.0.6] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\2df676f417d9cc5bc50fb9a0b12ef813\jetified-firebase-perf-20.0.6\AndroidManifest.xml:14:9-18:39
-174            android:name="com.google.firebase.perf.provider.FirebasePerfProvider"
-174-->[com.google.firebase:firebase-perf:20.0.6] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\2df676f417d9cc5bc50fb9a0b12ef813\jetified-firebase-perf-20.0.6\AndroidManifest.xml:15:13-82
-175            android:authorities="com.buzz.vpn.firebaseperfprovider"
-175-->[com.google.firebase:firebase-perf:20.0.6] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\2df676f417d9cc5bc50fb9a0b12ef813\jetified-firebase-perf-20.0.6\AndroidManifest.xml:16:13-72
-176            android:exported="false"
-176-->[com.google.firebase:firebase-perf:20.0.6] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\2df676f417d9cc5bc50fb9a0b12ef813\jetified-firebase-perf-20.0.6\AndroidManifest.xml:17:13-37
-177            android:initOrder="101" />
-177-->[com.google.firebase:firebase-perf:20.0.6] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\2df676f417d9cc5bc50fb9a0b12ef813\jetified-firebase-perf-20.0.6\AndroidManifest.xml:18:13-36
-178        <provider
-178-->[com.google.firebase:firebase-common:20.1.0] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\0ec0bf3632d3bfa6e625886f0b2d0dec\jetified-firebase-common-20.1.0\AndroidManifest.xml:26:9-31:39
-179            android:name="com.google.firebase.provider.FirebaseInitProvider"
-179-->[com.google.firebase:firebase-common:20.1.0] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\0ec0bf3632d3bfa6e625886f0b2d0dec\jetified-firebase-common-20.1.0\AndroidManifest.xml:27:13-77
-180            android:authorities="com.buzz.vpn.firebaseinitprovider"
-180-->[com.google.firebase:firebase-common:20.1.0] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\0ec0bf3632d3bfa6e625886f0b2d0dec\jetified-firebase-common-20.1.0\AndroidManifest.xml:28:13-72
-181            android:directBootAware="true"
-181-->[com.google.firebase:firebase-common:20.1.0] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\0ec0bf3632d3bfa6e625886f0b2d0dec\jetified-firebase-common-20.1.0\AndroidManifest.xml:29:13-43
-182            android:exported="false"
-182-->[com.google.firebase:firebase-common:20.1.0] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\0ec0bf3632d3bfa6e625886f0b2d0dec\jetified-firebase-common-20.1.0\AndroidManifest.xml:30:13-37
-183            android:initOrder="100" />
-183-->[com.google.firebase:firebase-common:20.1.0] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\0ec0bf3632d3bfa6e625886f0b2d0dec\jetified-firebase-common-20.1.0\AndroidManifest.xml:31:13-36
-184
-185        <activity
-185-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\cdde69aac863ec48a03f4b0fe220fb81\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
-186            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-186-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\cdde69aac863ec48a03f4b0fe220fb81\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
-187            android:exported="false"
-187-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\cdde69aac863ec48a03f4b0fe220fb81\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
-188            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-188-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\cdde69aac863ec48a03f4b0fe220fb81\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
-189
-190        <receiver
-190-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:29:9-33:20
-191            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-191-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:30:13-85
-192            android:enabled="true"
-192-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:31:13-35
-193            android:exported="false" >
-193-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:32:13-37
-194        </receiver>
-195
-196        <service
-196-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:35:9-38:40
-197            android:name="com.google.android.gms.measurement.AppMeasurementService"
-197-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:36:13-84
-198            android:enabled="true"
-198-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:37:13-35
-199            android:exported="false" />
-199-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:38:13-37
-200        <service
-200-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:39:9-43:72
-201            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-201-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:40:13-87
-202            android:enabled="true"
-202-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:41:13-35
-203            android:exported="false"
-203-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:42:13-37
-204            android:permission="android.permission.BIND_JOB_SERVICE" />
-204-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:43:13-69
-205
-206        <meta-data
-206-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\51cb3c708dfff9fb1637fd4842017f77\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
-207            android:name="com.google.android.gms.version"
-207-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\51cb3c708dfff9fb1637fd4842017f77\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
-208            android:value="@integer/google_play_services_version" />
-208-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\51cb3c708dfff9fb1637fd4842017f77\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
-209
-210        <service
-210-->[com.google.android.datatransport:transport-backend-cct:3.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\682a7616e6bdc992782a6ce9b810a9ad\jetified-transport-backend-cct-3.1.1\AndroidManifest.xml:29:9-35:19
-211            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
-211-->[com.google.android.datatransport:transport-backend-cct:3.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\682a7616e6bdc992782a6ce9b810a9ad\jetified-transport-backend-cct-3.1.1\AndroidManifest.xml:30:13-103
-212            android:exported="false" >
-212-->[com.google.android.datatransport:transport-backend-cct:3.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\682a7616e6bdc992782a6ce9b810a9ad\jetified-transport-backend-cct-3.1.1\AndroidManifest.xml:31:13-37
-213            <meta-data
-213-->[com.google.android.datatransport:transport-backend-cct:3.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\682a7616e6bdc992782a6ce9b810a9ad\jetified-transport-backend-cct-3.1.1\AndroidManifest.xml:32:13-34:39
-214                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
-214-->[com.google.android.datatransport:transport-backend-cct:3.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\682a7616e6bdc992782a6ce9b810a9ad\jetified-transport-backend-cct-3.1.1\AndroidManifest.xml:33:17-94
-215                android:value="cct" />
-215-->[com.google.android.datatransport:transport-backend-cct:3.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\682a7616e6bdc992782a6ce9b810a9ad\jetified-transport-backend-cct-3.1.1\AndroidManifest.xml:34:17-36
-216        </service>
-217        <service
-217-->[com.google.android.datatransport:transport-runtime:3.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\27a3693bbe19bb3a967bfe520af2a9e2\jetified-transport-runtime-3.1.1\AndroidManifest.xml:26:9-30:19
-218            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
-218-->[com.google.android.datatransport:transport-runtime:3.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\27a3693bbe19bb3a967bfe520af2a9e2\jetified-transport-runtime-3.1.1\AndroidManifest.xml:27:13-117
-219            android:exported="false"
-219-->[com.google.android.datatransport:transport-runtime:3.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\27a3693bbe19bb3a967bfe520af2a9e2\jetified-transport-runtime-3.1.1\AndroidManifest.xml:28:13-37
-220            android:permission="android.permission.BIND_JOB_SERVICE" >
-220-->[com.google.android.datatransport:transport-runtime:3.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\27a3693bbe19bb3a967bfe520af2a9e2\jetified-transport-runtime-3.1.1\AndroidManifest.xml:29:13-69
-221        </service>
-222
-223        <receiver
-223-->[com.google.android.datatransport:transport-runtime:3.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\27a3693bbe19bb3a967bfe520af2a9e2\jetified-transport-runtime-3.1.1\AndroidManifest.xml:32:9-34:40
-224            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
-224-->[com.google.android.datatransport:transport-runtime:3.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\27a3693bbe19bb3a967bfe520af2a9e2\jetified-transport-runtime-3.1.1\AndroidManifest.xml:33:13-132
-225            android:exported="false" />
-225-->[com.google.android.datatransport:transport-runtime:3.1.1] C:\Users\jslif\.gradle\caches\transforms-2\files-2.1\27a3693bbe19bb3a967bfe520af2a9e2\jetified-transport-runtime-3.1.1\AndroidManifest.xml:34:13-37
-226    </application>
-227
-228</manifest>
+84                <data
+84-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:72:17-75:45
+85                    android:host="gayanvoice.github.com"
+85-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:73:21-57
+86                    android:pathPrefix="/"
+86-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:74:21-43
+87                    android:scheme="http" />
+87-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:75:21-42
+88            </intent-filter>
+89        </activity>
+90        <activity
+90-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:78:9-88:20
+91            android:name="de.blinkt.openvpn.LaunchVPN"
+91-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:79:13-55
+92            android:excludeFromRecents="true"
+92-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:80:13-46
+93            android:label="@string/vpn_launch_title" >
+93-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:81:13-53
+94            <intent-filter>
+94-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:83:13-87:29
+95                <action android:name="android.intent.action.MAIN" />
+95-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:54:17-69
+95-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:54:25-66
+96
+97                <category android:name="android.intent.category.DEFAULT" />
+97-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:69:17-76
+97-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:69:27-73
+98            </intent-filter>
+99        </activity>
+100        <activity android:name="com.buzz.vpn.ServerActivity" />
+100-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:89:9-52
+100-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:89:19-49
+101        <activity android:name="com.buzz.vpn.UsageActivity" />
+101-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:90:9-51
+101-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:90:19-48
+102        <activity android:name="com.buzz.vpn.ContactActivity" />
+102-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:91:9-53
+102-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:91:19-50
+103        <activity android:name="com.buzz.vpn.WelcomeActivity" />
+103-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:92:9-53
+103-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:92:19-50
+104        <activity android:name="com.buzz.vpn.FAQActivity" />
+104-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:93:9-49
+104-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:93:19-46
+105        <activity android:name="com.buzz.vpn.ReviewActivity" />
+105-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:94:9-52
+105-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:94:19-49
+106        <activity android:name="com.buzz.vpn.signup_activity" />
+106-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:95:9-52
+106-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:95:19-50
+107        <activity
+107-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:27:9-44:20
+108            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+108-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:28:13-80
+109            android:excludeFromRecents="true"
+109-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:29:13-46
+110            android:exported="true"
+110-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:30:13-36
+111            android:launchMode="singleTask"
+111-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:31:13-44
+112            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+112-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:32:13-72
+113            <intent-filter>
+113-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:33:13-43:29
+114                <action android:name="android.intent.action.VIEW" />
+114-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:67:17-69
+114-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:67:25-66
+115
+116                <category android:name="android.intent.category.DEFAULT" />
+116-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:69:17-76
+116-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:69:27-73
+117                <category android:name="android.intent.category.BROWSABLE" />
+117-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:70:17-78
+117-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:70:27-75
+118
+119                <data
+119-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:72:17-75:45
+120                    android:host="firebase.auth"
+120-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:73:21-57
+121                    android:path="/"
+122                    android:scheme="genericidp" />
+122-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:75:21-42
+123            </intent-filter>
+124        </activity>
+125        <activity
+125-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:45:9-62:20
+126            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+126-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:46:13-79
+127            android:excludeFromRecents="true"
+127-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:47:13-46
+128            android:exported="true"
+128-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:48:13-36
+129            android:launchMode="singleTask"
+129-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:49:13-44
+130            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+130-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:50:13-72
+131            <intent-filter>
+131-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:51:13-61:29
+132                <action android:name="android.intent.action.VIEW" />
+132-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:67:17-69
+132-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:67:25-66
+133
+134                <category android:name="android.intent.category.DEFAULT" />
+134-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:69:17-76
+134-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:69:27-73
+135                <category android:name="android.intent.category.BROWSABLE" />
+135-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:70:17-78
+135-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:70:27-75
+136
+137                <data
+137-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:72:17-75:45
+138                    android:host="firebase.auth"
+138-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:73:21-57
+139                    android:path="/"
+140                    android:scheme="recaptcha" />
+140-->C:\Users\Jonah\IdeaProjects\VPNAppJonathon\app\src\main\AndroidManifest.xml:75:21-42
+141            </intent-filter>
+142        </activity>
+143
+144        <service
+144-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:64:9-70:19
+145            android:name="com.google.firebase.components.ComponentDiscoveryService"
+145-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:65:13-84
+146            android:directBootAware="true"
+146-->[com.google.firebase:firebase-common:20.1.0] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\0ec0bf3632d3bfa6e625886f0b2d0dec\jetified-firebase-common-20.1.0\AndroidManifest.xml:35:13-43
+147            android:exported="false" >
+147-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:66:13-37
+148            <meta-data
+148-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:67:13-69:85
+149                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+149-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:68:17-109
+150                android:value="com.google.firebase.components.ComponentRegistrar" />
+150-->[com.google.firebase:firebase-auth:21.0.2] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\ef02bd41fde0f56e9cd4943e42158c49\jetified-firebase-auth-21.0.2\AndroidManifest.xml:69:17-82
+151            <meta-data
+151-->[com.google.firebase:firebase-perf:20.0.6] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\2df676f417d9cc5bc50fb9a0b12ef813\jetified-firebase-perf-20.0.6\AndroidManifest.xml:23:13-25:85
+152                android:name="com.google.firebase.components:com.google.firebase.perf.FirebasePerfRegistrar"
+152-->[com.google.firebase:firebase-perf:20.0.6] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\2df676f417d9cc5bc50fb9a0b12ef813\jetified-firebase-perf-20.0.6\AndroidManifest.xml:24:17-109
+153                android:value="com.google.firebase.components.ComponentRegistrar" />
+153-->[com.google.firebase:firebase-perf:20.0.6] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\2df676f417d9cc5bc50fb9a0b12ef813\jetified-firebase-perf-20.0.6\AndroidManifest.xml:25:17-82
+154            <meta-data
+154-->[com.google.firebase:firebase-config:21.0.2] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\e2e29b2b68dc08dd0593aa8501ed3af2\jetified-firebase-config-21.0.2\AndroidManifest.xml:32:13-34:85
+155                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar"
+155-->[com.google.firebase:firebase-config:21.0.2] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\e2e29b2b68dc08dd0593aa8501ed3af2\jetified-firebase-config-21.0.2\AndroidManifest.xml:33:17-117
+156                android:value="com.google.firebase.components.ComponentRegistrar" />
+156-->[com.google.firebase:firebase-config:21.0.2] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\e2e29b2b68dc08dd0593aa8501ed3af2\jetified-firebase-config-21.0.2\AndroidManifest.xml:34:17-82
+157            <meta-data
+157-->[com.google.android.gms:play-services-measurement-api:20.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\8205989d3a2fd70f679345614dd88122\jetified-play-services-measurement-api-20.1.1\AndroidManifest.xml:31:13-33:85
+158                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+158-->[com.google.android.gms:play-services-measurement-api:20.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\8205989d3a2fd70f679345614dd88122\jetified-play-services-measurement-api-20.1.1\AndroidManifest.xml:32:17-139
+159                android:value="com.google.firebase.components.ComponentRegistrar" />
+159-->[com.google.android.gms:play-services-measurement-api:20.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\8205989d3a2fd70f679345614dd88122\jetified-play-services-measurement-api-20.1.1\AndroidManifest.xml:33:17-82
+160            <meta-data
+160-->[com.google.firebase:firebase-installations:17.0.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\aff0283cc73c36dce1235f3b59855b22\jetified-firebase-installations-17.0.1\AndroidManifest.xml:18:13-20:85
+161                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+161-->[com.google.firebase:firebase-installations:17.0.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\aff0283cc73c36dce1235f3b59855b22\jetified-firebase-installations-17.0.1\AndroidManifest.xml:19:17-127
+162                android:value="com.google.firebase.components.ComponentRegistrar" />
+162-->[com.google.firebase:firebase-installations:17.0.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\aff0283cc73c36dce1235f3b59855b22\jetified-firebase-installations-17.0.1\AndroidManifest.xml:20:17-82
+163            <meta-data
+163-->[com.google.firebase:firebase-datatransport:18.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\c168bfdb8dd3c3a12be827ecadfdc9d5\jetified-firebase-datatransport-18.1.1\AndroidManifest.xml:28:13-30:85
+164                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+164-->[com.google.firebase:firebase-datatransport:18.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\c168bfdb8dd3c3a12be827ecadfdc9d5\jetified-firebase-datatransport-18.1.1\AndroidManifest.xml:29:17-115
+165                android:value="com.google.firebase.components.ComponentRegistrar" />
+165-->[com.google.firebase:firebase-datatransport:18.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\c168bfdb8dd3c3a12be827ecadfdc9d5\jetified-firebase-datatransport-18.1.1\AndroidManifest.xml:30:17-82
+166            <meta-data
+166-->[com.google.firebase:firebase-abt:21.0.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\5cdca1e6f42ef8d0546cab48718b79f6\jetified-firebase-abt-21.0.1\AndroidManifest.xml:13:13-15:85
+167                android:name="com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar"
+167-->[com.google.firebase:firebase-abt:21.0.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\5cdca1e6f42ef8d0546cab48718b79f6\jetified-firebase-abt-21.0.1\AndroidManifest.xml:14:17-109
+168                android:value="com.google.firebase.components.ComponentRegistrar" />
+168-->[com.google.firebase:firebase-abt:21.0.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\5cdca1e6f42ef8d0546cab48718b79f6\jetified-firebase-abt-21.0.1\AndroidManifest.xml:15:17-82
+169        </service>
+170
+171        <provider
+171-->[com.google.firebase:firebase-perf:20.0.6] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\2df676f417d9cc5bc50fb9a0b12ef813\jetified-firebase-perf-20.0.6\AndroidManifest.xml:14:9-18:39
+172            android:name="com.google.firebase.perf.provider.FirebasePerfProvider"
+172-->[com.google.firebase:firebase-perf:20.0.6] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\2df676f417d9cc5bc50fb9a0b12ef813\jetified-firebase-perf-20.0.6\AndroidManifest.xml:15:13-82
+173            android:authorities="com.buzz.vpn.firebaseperfprovider"
+173-->[com.google.firebase:firebase-perf:20.0.6] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\2df676f417d9cc5bc50fb9a0b12ef813\jetified-firebase-perf-20.0.6\AndroidManifest.xml:16:13-72
+174            android:exported="false"
+174-->[com.google.firebase:firebase-perf:20.0.6] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\2df676f417d9cc5bc50fb9a0b12ef813\jetified-firebase-perf-20.0.6\AndroidManifest.xml:17:13-37
+175            android:initOrder="101" />
+175-->[com.google.firebase:firebase-perf:20.0.6] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\2df676f417d9cc5bc50fb9a0b12ef813\jetified-firebase-perf-20.0.6\AndroidManifest.xml:18:13-36
+176        <provider
+176-->[com.google.firebase:firebase-common:20.1.0] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\0ec0bf3632d3bfa6e625886f0b2d0dec\jetified-firebase-common-20.1.0\AndroidManifest.xml:26:9-31:39
+177            android:name="com.google.firebase.provider.FirebaseInitProvider"
+177-->[com.google.firebase:firebase-common:20.1.0] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\0ec0bf3632d3bfa6e625886f0b2d0dec\jetified-firebase-common-20.1.0\AndroidManifest.xml:27:13-77
+178            android:authorities="com.buzz.vpn.firebaseinitprovider"
+178-->[com.google.firebase:firebase-common:20.1.0] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\0ec0bf3632d3bfa6e625886f0b2d0dec\jetified-firebase-common-20.1.0\AndroidManifest.xml:28:13-72
+179            android:directBootAware="true"
+179-->[com.google.firebase:firebase-common:20.1.0] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\0ec0bf3632d3bfa6e625886f0b2d0dec\jetified-firebase-common-20.1.0\AndroidManifest.xml:29:13-43
+180            android:exported="false"
+180-->[com.google.firebase:firebase-common:20.1.0] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\0ec0bf3632d3bfa6e625886f0b2d0dec\jetified-firebase-common-20.1.0\AndroidManifest.xml:30:13-37
+181            android:initOrder="100" />
+181-->[com.google.firebase:firebase-common:20.1.0] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\0ec0bf3632d3bfa6e625886f0b2d0dec\jetified-firebase-common-20.1.0\AndroidManifest.xml:31:13-36
+182
+183        <activity
+183-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\cdde69aac863ec48a03f4b0fe220fb81\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+184            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+184-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\cdde69aac863ec48a03f4b0fe220fb81\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+185            android:exported="false"
+185-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\cdde69aac863ec48a03f4b0fe220fb81\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+186            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+186-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\cdde69aac863ec48a03f4b0fe220fb81\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+187
+188        <receiver
+188-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:29:9-33:20
+189            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+189-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:30:13-85
+190            android:enabled="true"
+190-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:31:13-35
+191            android:exported="false" >
+191-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:32:13-37
+192        </receiver>
+193
+194        <service
+194-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:35:9-38:40
+195            android:name="com.google.android.gms.measurement.AppMeasurementService"
+195-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:36:13-84
+196            android:enabled="true"
+196-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:37:13-35
+197            android:exported="false" />
+197-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:38:13-37
+198        <service
+198-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:39:9-43:72
+199            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+199-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:40:13-87
+200            android:enabled="true"
+200-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:41:13-35
+201            android:exported="false"
+201-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:42:13-37
+202            android:permission="android.permission.BIND_JOB_SERVICE" />
+202-->[com.google.android.gms:play-services-measurement:20.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\4fdeadbf98c36c585af018db1a2e417a\jetified-play-services-measurement-20.1.1\AndroidManifest.xml:43:13-69
+203
+204        <meta-data
+204-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\51cb3c708dfff9fb1637fd4842017f77\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+205            android:name="com.google.android.gms.version"
+205-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\51cb3c708dfff9fb1637fd4842017f77\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+206            android:value="@integer/google_play_services_version" />
+206-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\51cb3c708dfff9fb1637fd4842017f77\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+207
+208        <service
+208-->[com.google.android.datatransport:transport-backend-cct:3.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\682a7616e6bdc992782a6ce9b810a9ad\jetified-transport-backend-cct-3.1.1\AndroidManifest.xml:29:9-35:19
+209            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+209-->[com.google.android.datatransport:transport-backend-cct:3.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\682a7616e6bdc992782a6ce9b810a9ad\jetified-transport-backend-cct-3.1.1\AndroidManifest.xml:30:13-103
+210            android:exported="false" >
+210-->[com.google.android.datatransport:transport-backend-cct:3.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\682a7616e6bdc992782a6ce9b810a9ad\jetified-transport-backend-cct-3.1.1\AndroidManifest.xml:31:13-37
+211            <meta-data
+211-->[com.google.android.datatransport:transport-backend-cct:3.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\682a7616e6bdc992782a6ce9b810a9ad\jetified-transport-backend-cct-3.1.1\AndroidManifest.xml:32:13-34:39
+212                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+212-->[com.google.android.datatransport:transport-backend-cct:3.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\682a7616e6bdc992782a6ce9b810a9ad\jetified-transport-backend-cct-3.1.1\AndroidManifest.xml:33:17-94
+213                android:value="cct" />
+213-->[com.google.android.datatransport:transport-backend-cct:3.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\682a7616e6bdc992782a6ce9b810a9ad\jetified-transport-backend-cct-3.1.1\AndroidManifest.xml:34:17-36
+214        </service>
+215        <service
+215-->[com.google.android.datatransport:transport-runtime:3.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\27a3693bbe19bb3a967bfe520af2a9e2\jetified-transport-runtime-3.1.1\AndroidManifest.xml:26:9-30:19
+216            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+216-->[com.google.android.datatransport:transport-runtime:3.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\27a3693bbe19bb3a967bfe520af2a9e2\jetified-transport-runtime-3.1.1\AndroidManifest.xml:27:13-117
+217            android:exported="false"
+217-->[com.google.android.datatransport:transport-runtime:3.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\27a3693bbe19bb3a967bfe520af2a9e2\jetified-transport-runtime-3.1.1\AndroidManifest.xml:28:13-37
+218            android:permission="android.permission.BIND_JOB_SERVICE" >
+218-->[com.google.android.datatransport:transport-runtime:3.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\27a3693bbe19bb3a967bfe520af2a9e2\jetified-transport-runtime-3.1.1\AndroidManifest.xml:29:13-69
+219        </service>
+220
+221        <receiver
+221-->[com.google.android.datatransport:transport-runtime:3.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\27a3693bbe19bb3a967bfe520af2a9e2\jetified-transport-runtime-3.1.1\AndroidManifest.xml:32:9-34:40
+222            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+222-->[com.google.android.datatransport:transport-runtime:3.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\27a3693bbe19bb3a967bfe520af2a9e2\jetified-transport-runtime-3.1.1\AndroidManifest.xml:33:13-132
+223            android:exported="false" />
+223-->[com.google.android.datatransport:transport-runtime:3.1.1] C:\Users\Jonah\IdeaProjects\VPNServiceandGuide\caches\transforms-2\files-2.1\27a3693bbe19bb3a967bfe520af2a9e2\jetified-transport-runtime-3.1.1\AndroidManifest.xml:34:13-37
+224    </application>
+225
+226</manifest>

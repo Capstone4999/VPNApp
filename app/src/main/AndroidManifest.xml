@@ -36,9 +36,6 @@
             android:name=".blockedAdds"
             android:exported="false" />
         <activity
-            android:name=".landing_page"
-            android:exported="false" />
-        <activity
             android:name=".quiz"
             android:exported="false" />
         <activity
@@ -51,7 +48,7 @@
             android:name=".learning_content_2"
             android:exported="false" />
         <activity
-            android:name=".home"
+            android:name=".landing_page"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -95,6 +92,7 @@
         <activity android:name=".WelcomeActivity" />
         <activity android:name=".FAQActivity" />
         <activity android:name=".ReviewActivity" />
+        <activity android:name=".signup_activity"/>
     </application>
 
 </manifest>

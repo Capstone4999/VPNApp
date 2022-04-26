@@ -30,6 +30,7 @@
         android:layout_marginTop="32dp"
         android:text="@string/chooseUsername"
         android:textColor="#070404"
+        android:visibility="invisible"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.134"
         app:layout_constraintStart_toStartOf="parent"
@@ -39,13 +40,14 @@
         android:id="@+id/new_username"
         android:layout_width="350dp"
         android:layout_height="30dp"
+        android:autofillHints="username"
         android:background="@drawable/input_bkgrd"
         android:ems="10"
         android:gravity="left"
         android:hint="@string/usernameSignUp"
-        android:autofillHints="username"
         android:inputType="textPersonName"
         android:textColorHint="#A154BC"
+        android:visibility="invisible"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/chooseUsername" />
@@ -69,7 +71,7 @@
         android:ems="10"
         android:hint="@string/example_hint"
         android:autofillHints="exampleHint"
-        android:inputType="textPersonName|textCapWords|textEmailAddress"
+        android:inputType="textEmailAddress"
         android:textColorHint="#A154BC"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -95,7 +97,7 @@
         android:ems="10"
         android:hint="@string/example_hint"
         android:autofillHints="exampleHint"
-        android:inputType="textPersonName|textCapWords|textEmailAddress"
+        android:inputType="textEmailAddress"
         android:textColorHint="#A154BC"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -151,16 +153,29 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/confirmPasswordText"
             app:layout_constraintHorizontal_bias="0.524"/>
+
     <Button
-            android:id="@+id/secureme"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/secure"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.498"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/password1"
-            app:layout_constraintVertical_bias="0.859"/>
+        android:id="@+id/secureme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/secure"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/password1"
+        app:layout_constraintVertical_bias="0.759" />
+
+    <ProgressBar
+        android:id="@+id/iv_progress_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/secureme"
+        app:layout_constraintVertical_bias="0.255" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

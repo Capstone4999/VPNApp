@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VPNApp.iml" filepath="$PROJECT_DIR$/.idea/modules/VPNApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/VPNApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/VPNApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VPNAppJonathon.iml" filepath="$PROJECT_DIR$/.idea/modules/VPNAppJonathon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/VPNAppJonathon.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/VPNAppJonathon.app.iml" />
     </modules>
   </component>
 </project>
