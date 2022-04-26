@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".landing_page"
-    android:background="@drawable/landing_page_bkgrd"
+    android:background="#FFFFFF"
     android:id="@+id/landing_page"
     >
 
@@ -49,9 +49,23 @@
             android:textSize="23sp"
             android:textColor="#0D0D0D"
             android:gravity="center"
-            android:layout_marginTop="380dp"
+            android:layout_marginTop="410dp"
 
             />
+
+        <Button
+            android:id="@+id/signup_button"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="180dp"
+            android:background="@drawable/btn_bkgrd"
+            android:text="@string/start"
+            app:layout_constraintEnd_toEndOf="@+id/or"
+            app:layout_constraintStart_toStartOf="@+id/or"
+            app:layout_constraintTop_toBottomOf="@+id/or" />
+
     </FrameLayout>
 
 

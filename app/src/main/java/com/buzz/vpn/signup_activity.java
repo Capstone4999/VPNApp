@@ -2,17 +2,15 @@ package com.buzz.vpn;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
+import android.os.Bundle;
 import android.text.TextUtils;
-//import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ProgressBar;
-import android.os.Bundle;
+import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
-//import com.google.android.gms.common.ConnectionResult;
-import android.widget.Toast;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
@@ -36,6 +34,8 @@ public class signup_activity extends AppCompatActivity {
         mail2 = findViewById(R.id.email2);
         pword1 = findViewById(R.id.password1);
         pword2 = findViewById(R.id.password2);
+        progressBar = findViewById(R.id.iv_progress_bar);
+
 
         signUpButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -44,28 +44,39 @@ public class signup_activity extends AppCompatActivity {
                 String email_2 = mail2.getText().toString().trim();
                 String word_1 = pword1.getText().toString().trim();
                 String word_2 = pword2.getText().toString().trim();
-                if(TextUtils.equals(email_1, email_2)){
-
-                } else{
+                if(TextUtils.isEmpty(email_1)){
+                    mail1.setError("Email is Required");
+                    return;
+                }
+                if(!TextUtils.equals(email_1, email_2)){
                     mail2.setError("Emails Are Not The Same");
+                    //Toast.makeText(signup_activity.this, "Emails Are Not The Same", Toast.LENGTH_SHORT).show();
                     return;
                 }
-                if(TextUtils.equals(word_1, word_2)){
-
-                } else{
+                if(!isEmailValid(email_1)){
+                    mail2.setError("Not a Valid Email");
+                    return;
+                }
+                if(TextUtils.isEmpty(word_1)){
+                    pword1.setError("Password is Required");
+                    return;
+                }
+                if(!TextUtils.equals(word_1, word_2)){
                     pword2.setError("Passwords Are Not The Same");
+                    //Toast.makeText(signup_activity.this, "Passwords Are Not The Same", Toast.LENGTH_SHORT).show();
                     return;
                 }
-                //progressBar.setVisibility(View.VISIBLE);
+                progressBar.setVisibility(View.VISIBLE);
 
                 fAuth.createUserWithEmailAndPassword(email_1, word_1).addOnCompleteListener(new OnCompleteListener<AuthResult>() {
                     @Override
                     public void onComplete(@NonNull Task<AuthResult> task) {
                         if(task.isSuccessful()){
                             Toast.makeText(signup_activity.this, "User Created", Toast.LENGTH_SHORT).show(); // TODO send email verification
-                            startActivity(new Intent(getApplicationContext(), WelcomeActivity.class));
+                            startActivity(new Intent(getApplicationContext(), userLogin_activity.class));
                         } else {
                             Toast.makeText(signup_activity.this, "Login Failed", Toast.LENGTH_SHORT).show();
+                            progressBar.setVisibility(View.INVISIBLE);
                         }
                     }
                 });
@@ -81,5 +92,9 @@ public class signup_activity extends AppCompatActivity {
                 //send email
             }
         });
+    }
+
+    boolean isEmailValid(CharSequence email) {
+        return android.util.Patterns.EMAIL_ADDRESS.matcher(email).matches();
     }
 }

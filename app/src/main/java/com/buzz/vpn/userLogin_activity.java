@@ -25,8 +25,7 @@ import com.google.firebase.auth.FirebaseUser;
 
 
 public class userLogin_activity extends AppCompatActivity/*Activity implements View.OnClickListener AppCompatActivity implements GoogleApiClient.OnConnectionFailedListener, View.OnClickListener*/ {
-    Button signInButton;
-    //Button registerButton;
+    Button signInButton, signUp_button;
     EditText email, pword;
     ProgressBar progressBar;
     //TextView statusTextView;
@@ -44,17 +43,25 @@ public class userLogin_activity extends AppCompatActivity/*Activity implements V
         //GoogleSignInOptions gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN).requestEmail().build();
         //statusTextView = (TextView) findViewById(R.id.status_textview);
         signInButton = (Button) findViewById(R.id.login_btn);
+        signUp_button = (Button) findViewById(R.id.signup_button);
         //signInButton.setOnClickListener(this);
         //registerButton = (Button) findViewById(R.id.register_button);
         //registerButton.setOnClickListener(this);
         email = findViewById(R.id.username);
         pword = findViewById(R.id.password);
-        //progressBar = findViewById(R.id.iv_progress_bar);
+        progressBar = findViewById(R.id.iv_progress_bar);
 
         /*if (fAuth.getCurrentUser() != null) {
             startActivity(new Intent(getApplicationContext(), WelcomeActivity.class));
             finish();
         }*/
+
+        signUp_button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getApplicationContext(), signup_activity.class));
+            }
+        });
 
         signInButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -69,15 +76,16 @@ public class userLogin_activity extends AppCompatActivity/*Activity implements V
                     pword.setError("Password is Required");
                     return;
                 }
-                //progressBar.setVisibility(View.VISIBLE);
+                progressBar.setVisibility(View.VISIBLE);
                 fAuth.signInWithEmailAndPassword(mail, word).addOnCompleteListener(new OnCompleteListener<AuthResult>() {
                     @Override
                     public void onComplete(@NonNull Task<AuthResult> task) {
                         if (task.isSuccessful()) {
                             Toast.makeText(userLogin_activity.this, "User Logged In", Toast.LENGTH_SHORT).show();
-                            startActivity(new Intent(getApplicationContext(), WelcomeActivity.class));
+                            startActivity(new Intent(getApplicationContext(), homeOff.class));
                         } else {
                             Toast.makeText(userLogin_activity.this, "Loggin Failed", Toast.LENGTH_SHORT).show();
+                            progressBar.setVisibility(View.INVISIBLE);
                         }
                     }
                 });

@@ -35,7 +35,7 @@
                 android:layout_height="wrap_content"
                 android:gravity="center_horizontal"
                 android:paddingTop="50dp"
-                android:text="Understanding HTTPS and the security it provides" />
+                android:text="Network Concepts" />
 
             <ImageButton
                 android:id="@+id/imageView3"
@@ -51,7 +51,7 @@
                 android:layout_height="wrap_content"
                 android:gravity="center_horizontal"
                 android:paddingTop="20dp"
-                android:text="Title 2" />
+                android:text="Network Concepts Continuation" />
 
             <ImageButton
                 android:id="@+id/imageView5"
@@ -67,7 +67,7 @@
                 android:layout_height="wrap_content"
                 android:gravity="center_horizontal"
                 android:paddingTop="20dp"
-                android:text="Title 3" />
+                android:text="VPN and the Scary Stuff" />
 
             <ImageButton
                 android:id="@+id/imageView6"

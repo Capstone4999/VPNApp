@@ -734,7 +734,7 @@
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="check_internet_connection">checking internet connection</string>
     <string name="chooseUsername">Please choose a username</string>
-    <string name="com.crashlytics.android.build_id" ns2:ignore="UnusedResources,TypographyDashes" translatable="false">afaa0666-dc09-4ff1-bb27-e42b50b8167f</string>
+    <string name="com.crashlytics.android.build_id" ns2:ignore="UnusedResources,TypographyDashes" translatable="false">24d2fc7a-8271-4f61-a669-3fa49e811b63</string>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
     <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
     <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
@@ -889,6 +889,7 @@
     <string name="shortcut_profile_notfound">Profile specified in shortcut not found</string>
     <string name="show_password">Show password</string>
     <string name="signUp">SIGN UP</string>
+    <string name="start">Start</string>
     <string name="state_add_routes">Adding routes</string>
     <string name="state_assign_ip">Assigning IP addresses</string>
     <string name="state_auth">getting the server</string>
